@@ -1,0 +1,3464 @@
+{
+  "updatedAt": "2026-10-23T10:08:52.020Z",
+  "source": "CentroVolantini + Calaméo + CeDiGros + Orizzonte + SuperElite + Todis + Acqua & Sapone + La Saponeria + Satur + Kasanova + Happy Casa + Crai + Caddy's + Ekom + Bottega Verde + Bricocenter + Brico OK + OBI + Arcaplanet + Prénatal + Toys Center + Conforama",
+  "chains": [
+    {
+      "slug": "aeo",
+      "name": "A&O",
+      "logoId": "aeo",
+      "flyers": [
+        {
+          "id": 517,
+          "title": "Volantino A&O Lombardia",
+          "subtitle": "TANTI PRODOTTI DA 0,50 A 3,00 €",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137fb299bb2519?authid=5xQ9YOXSopOE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_517.jpg",
+          "bkcode": "0010667137fb299bb2519",
+          "authid": "5xQ9YOXSopOE"
+        },
+        {
+          "id": 176,
+          "title": "Volantino Super A&O Emilia Romagna e Marche",
+          "subtitle": "TANTI PRODOTTI DA 0,50 A 3,00 €",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132fd6e912044f?authid=N75oUw2clzXt",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_176_0.jpg",
+          "bkcode": "0010667132fd6e912044f",
+          "authid": "N75oUw2clzXt"
+        }
+      ]
+    },
+    {
+      "slug": "acqua-e-sapone",
+      "name": "Acqua & Sapone",
+      "logoId": "acqua-e-sapone",
+      "flyers": [
+        {
+          "id": 9801,
+          "title": "Volantino Acqua & Sapone - Oltre la Convenienza",
+          "subtitle": "Offerte Nazionali Acqua & Sapone",
+          "coverUrl": "https://www.calameo.com/books/social/cover/004536410453f616eece1",
+          "fallbackCoverUrl": "https://p.calameoassets.com/004536410453f616eece1/p1.large.jpg",
+          "bkcode": "004536410453f616eece1",
+          "from": "2026-10-23T10:08:23.971Z",
+          "to": "2026-11-06T10:08:23.971Z"
+        }
+      ]
+    },
+    {
+      "slug": "acqua-e-sapone",
+      "name": "Acqua e Sapone",
+      "logoId": "acqua-e-sapone",
+      "flyers": [
+        {
+          "id": 239,
+          "title": "Volantino Acqua e Sapone",
+          "subtitle": "Oltre La Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671368948455ea05?authid=FvYd5wyqbK2K",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/acqua_e_sapone_239_0.jpg",
+          "bkcode": "00106671368948455ea05",
+          "authid": "FvYd5wyqbK2K"
+        },
+        {
+          "id": 1923,
+          "title": "Volantino Acqua e Sapone Nord-Est ed Emilia Romagna",
+          "subtitle": "Il Gusto Dell'Aututnno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713db6c9503a41a?authid=4TIlLNZjzonw",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/acqua_e_sapone_1923_0.jpg",
+          "bkcode": "001066713db6c9503a41a",
+          "authid": "4TIlLNZjzonw"
+        },
+        {
+          "id": 340,
+          "title": "Volantino Acqua e Sapone: Sicilia",
+          "subtitle": "Belli da far paura",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713859a81cb9835?authid=looJjpfR12Sx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/acqua_e_sapone_340.jpg",
+          "bkcode": "001066713859a81cb9835",
+          "authid": "looJjpfR12Sx"
+        }
+      ]
+    },
+    {
+      "slug": "aldi",
+      "name": "Aldi",
+      "logoId": "aldi",
+      "flyers": [
+        {
+          "id": 2213,
+          "title": "Volantino Aldi",
+          "subtitle": "Prezzi Bassi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130b52e06509d6?authid=x5dqvJihzx3q",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2213_2.jpg",
+          "bkcode": "0010667130b52e06509d6",
+          "authid": "x5dqvJihzx3q"
+        },
+        {
+          "id": 2328,
+          "title": "Volantino Aldi: Anteprima",
+          "subtitle": "La Nostra Pubblicità è Il Prezzo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f75dcc65c0aa?authid=nZuKcy9Fv81h",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2328.jpg",
+          "bkcode": "001066713f75dcc65c0aa",
+          "authid": "nZuKcy9Fv81h"
+        }
+      ]
+    },
+    {
+      "slug": "ali-supermercati",
+      "name": "Alì Supermercati",
+      "logoId": "ali-supermercati",
+      "flyers": [
+        {
+          "id": 388,
+          "title": "Volantino Aliper Speciale",
+          "subtitle": "Grandi Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b345be7ee787?authid=dttIizc2VhWB",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_388_0.jpg",
+          "bkcode": "001066713b345be7ee787",
+          "authid": "dttIizc2VhWB"
+        },
+        {
+          "id": 389,
+          "title": "Catalogo Aliper",
+          "subtitle": "Sconto fedeltà",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fcfd703a2008?authid=hb7EyRTse1sE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_389.jpg",
+          "bkcode": "001066713fcfd703a2008",
+          "authid": "hb7EyRTse1sE"
+        },
+        {
+          "id": 405,
+          "title": "Volantino Aliper",
+          "subtitle": "La Spesa Felice",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ceef601a274e?authid=38pfTWNeSbIV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_405_0.jpg",
+          "bkcode": "001066713ceef601a274e",
+          "authid": "38pfTWNeSbIV"
+        },
+        {
+          "id": 387,
+          "title": "Volantino Ali e Aliper",
+          "subtitle": "Prezzi Al Costo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133536fd0c781a?authid=NQyRCDcBquyU",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_387.jpg",
+          "bkcode": "0010667133536fd0c781a",
+          "authid": "NQyRCDcBquyU"
+        }
+      ]
+    },
+    {
+      "slug": "arcaplanet",
+      "name": "Arcaplanet",
+      "logoId": "arcaplanet",
+      "flyers": [
+        {
+          "id": 9820,
+          "title": "Volantino Arcaplanet - Amici a 4 Zampe",
+          "subtitle": "Alimenti e Accessori Pet Care",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260901145604-cover-0901202622151132913528-79-340x477.webp",
+          "directUrl": "https://www.promozioni24.it/animali/arcaplanet/arcaplanet-acquari-animali-30-7-7-9-2026",
+          "from": "2026-08-01T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260901145604-cover-0901202622151132913528-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202634786791750544-18.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202693246223324666-70.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202674462689251892-25.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202644855191428420-19.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202652337272379685-93.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202686810384116081-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202616547311962509-87.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202675336369491004-30.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202627053723533875-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202632626123571269-74.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0901202618521092012255-68.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "basko",
+      "name": "Basko",
+      "logoId": "basko",
+      "flyers": [
+        {
+          "id": 2208,
+          "title": "Volantino Basko Bis",
+          "subtitle": "Magazine ottobre",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d5b127213273?authid=PBLPzcOMchhE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_2208.jpg",
+          "bkcode": "001066713d5b127213273",
+          "authid": "PBLPzcOMchhE"
+        },
+        {
+          "id": 1976,
+          "title": "Volantino Basko Speciale",
+          "subtitle": "Speciale Autunno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713884a21f53d28?authid=N0iyrDvyYMxb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_1976_1.jpg",
+          "bkcode": "001066713884a21f53d28",
+          "authid": "N0iyrDvyYMxb"
+        },
+        {
+          "id": 588,
+          "title": "Volantino Basko",
+          "subtitle": "Promo 1+1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713571ac81a00ab?authid=23g4C0CmxK06",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_588_0.jpg",
+          "bkcode": "001066713571ac81a00ab",
+          "authid": "23g4C0CmxK06"
+        }
+      ]
+    },
+    {
+      "slug": "bennet",
+      "name": "Bennet",
+      "logoId": "bennet",
+      "flyers": [
+        {
+          "id": 101,
+          "title": "Volantino Bennet",
+          "subtitle": "Spaccaprezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671325a952718233?authid=yTJhUbQ1nfje",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bennet_101_1.jpg",
+          "bkcode": "00106671325a952718233",
+          "authid": "yTJhUbQ1nfje"
+        },
+        {
+          "id": 100,
+          "title": "Volantino Bennet Bis",
+          "subtitle": "Vini Salumi Formaggi + Dispensa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671313c778a8e0a1?authid=8OzUiv3IR0kE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bennet_100.jpg",
+          "bkcode": "00106671313c778a8e0a1",
+          "authid": "8OzUiv3IR0kE"
+        },
+        {
+          "id": 1862,
+          "title": "Volantino Bennet Ter",
+          "subtitle": "Offerte Extra",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bc1c86ff88f9?authid=ucrqZ6gd1mMm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bennet_1862_2.jpg",
+          "bkcode": "001066713bc1c86ff88f9",
+          "authid": "ucrqZ6gd1mMm"
+        }
+      ]
+    },
+    {
+      "slug": "bottega-verde",
+      "name": "Bottega Verde",
+      "logoId": "bottegaverde",
+      "flyers": [
+        {
+          "id": 9816,
+          "title": "Catalogo Bottega Verde - Buon Vivere",
+          "subtitle": "Cosmesi Naturale e Bellezza",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260805194901-cover-0805202637176654793706-15-340x432.webp",
+          "directUrl": "https://www.promozioni24.it/salute-e-benessere/bottegaverde/catalogo-bottega-verde-buon-vivere-1-6-31-5-2027",
+          "from": "2026-06-01T00:00:00+02:00",
+          "to": "2027-05-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260805194901-cover-0805202637176654793706-15.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202620381575317792-77.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202662880471365908-97.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202648545785471130-46.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202628928597193731-74.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202685891202104506-44.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202671998093709763-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202643361044176232-56.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202664234417025249-47.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202628978332100850-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202613900818358106-44.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202679105323058800-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202655073945086145-30.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202628111737014584-94.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202694009222240414-56.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202696667702174073-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202678510698929593-27.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202672809875761229-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202684699499539662-14.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202677064489498599-85.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202619140682271399-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202695022085799724-64.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202682240555224229-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202623648266537541-97.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202622460237260910-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202642447067198724-50.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202658002072252428-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202629019264884831-10.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202682073994040741-81.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202673042172671827-63.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202674056909218490-94.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0805202685047959276701-46.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "brico-io",
+      "name": "Brico Io",
+      "logoId": "brico-io",
+      "flyers": [
+        {
+          "id": 504,
+          "title": "Volantino Brico Io",
+          "subtitle": "L'Autunno Dei Tuoi Progetti",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671325a2a7ac06a3?authid=PFE6G1p563Nm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_504.jpg",
+          "bkcode": "00106671325a2a7ac06a3",
+          "authid": "PFE6G1p563Nm"
+        },
+        {
+          "id": 2368,
+          "title": "Catalogo BricoIo Bis",
+          "subtitle": "Catalogo Illuminazione",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135d23f927fece?authid=PLCTkgVsLDyi",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_2368.jpg",
+          "bkcode": "0010667135d23f927fece",
+          "authid": "PLCTkgVsLDyi"
+        },
+        {
+          "id": 329,
+          "title": "Catalogo Brico Io: Speciale",
+          "subtitle": "Catalogo Riscaldamento",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e65f77c88228?authid=hRFjQA58oQDh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_329_0.jpg",
+          "bkcode": "001066713e65f77c88228",
+          "authid": "hRFjQA58oQDh"
+        },
+        {
+          "id": 330,
+          "title": "Volantino Brico Io Bis",
+          "subtitle": "Catalogo Sistemazione",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139ff7209516a9?authid=3EKGG13R8KbV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_330_0.jpg",
+          "bkcode": "0010667139ff7209516a9",
+          "authid": "3EKGG13R8KbV"
+        }
+      ]
+    },
+    {
+      "slug": "brico-ok",
+      "name": "Brico OK",
+      "logoId": "bricook",
+      "flyers": [
+        {
+          "id": 9818,
+          "title": "Volantino Brico OK - Fai da Te d'Autunno",
+          "subtitle": "Bricolage, Giardino e Casa",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260916120839-cover-0916202683436987392684-83-340x457.webp",
+          "directUrl": "https://www.promozioni24.it/bricolage-e-giardinaggio/bricook/brico-ok-settembre-10-20-9-2026",
+          "from": "2026-09-10T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260916120839-cover-0916202683436987392684-83.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202676747391786120-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202639499268135251-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202658361755805220-50.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202628427987661320-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202633891599406003-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202613063825548776-58.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202611570545510408-97.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0916202644474015541655-33.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bricocenter",
+      "name": "Bricocenter",
+      "logoId": "bricocenter",
+      "flyers": [
+        {
+          "id": 9817,
+          "title": "Volantino Bricocenter - Organizza gli Spazi",
+          "subtitle": "Fai da Te, Arredo e Giardinaggio",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260913115257-cover-0913202691050925459989-79-281x500.webp",
+          "directUrl": "https://www.promozioni24.it/bricolage-e-giardinaggio/bricocenter/bricocenter-organizza-spazi-2-9-5-10-2026",
+          "from": "2026-09-02T00:00:00+02:00",
+          "to": "2026-10-26T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260913115257-cover-0913202691050925459989-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202636306273973528-50.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202631404833203831-85.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202651507409400437-28.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202684626497079520-11.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202631392655423449-39.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202697181092473052-92.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202685606744941245-18.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202647291149685760-88.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202653164282234092-73.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202655505672479069-95.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202641690555078623-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202639379559527913-78.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202694238756793262-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202697508745659531-60.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202630331425298196-14.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202667976499772211-18.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202643578018588356-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202687546641916947-49.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202685353975151306-99.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202682001723164286-13.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202638832431561921-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202650348807872796-44.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202694168416529514-16.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202668731485844982-17.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202686014978135693-31.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202612344881233320-26.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202630838674442318-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202695664562052821-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0913202657715829322519-61.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bricofer",
+      "name": "Bricofer",
+      "logoId": "bricofer",
+      "flyers": [
+        {
+          "id": 2112,
+          "title": "Volantino Bricofer",
+          "subtitle": "Anniversario Bricofer",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c3f2d7f30354?authid=vSZfpjsRLZOq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bricofer_2112.jpg",
+          "bkcode": "001066713c3f2d7f30354",
+          "authid": "vSZfpjsRLZOq"
+        },
+        {
+          "id": 2113,
+          "title": "Catalogo Bricofer",
+          "subtitle": "Benessere Che Ti Avvolege Ogni Giorno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713172e9b06f868?authid=3VFPYbSNEHF3",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bricofer_2113.jpg",
+          "bkcode": "001066713172e9b06f868",
+          "authid": "3VFPYbSNEHF3"
+        }
+      ]
+    },
+    {
+      "slug": "cc",
+      "name": "C+C Cash & Carry",
+      "logoId": "cc",
+      "flyers": [
+        {
+          "id": 433,
+          "title": "Volantino C+C",
+          "subtitle": "Affari Speciali",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136e1b8c5f4cd0?authid=oSGzZnVtQygq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/c_c_433_1.jpg",
+          "bkcode": "0010667136e1b8c5f4cd0",
+          "authid": "oSGzZnVtQygq"
+        },
+        {
+          "id": 434,
+          "title": "Volantino C+C ARCA",
+          "subtitle": "Promo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fb8543b7306b?authid=YsW4udkq4maZ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/c_c_434.jpg",
+          "bkcode": "001066713fb8543b7306b",
+          "authid": "YsW4udkq4maZ"
+        }
+      ]
+    },
+    {
+      "slug": "caddys",
+      "name": "Caddy's",
+      "logoId": "caddys",
+      "flyers": [
+        {
+          "id": 9814,
+          "title": "Volantino Caddy's - Salute e Benessere",
+          "subtitle": "Igiene Casa e Cura della Persona",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261001100021-cover-1001202650465671391184-23-340x500.webp",
+          "directUrl": "https://www.promozioni24.it/salute-e-benessere/caddys/caddy-s-salute-benessere-1-10-4-11-2026",
+          "from": "2026-10-01T00:00:00+02:00",
+          "to": "2026-11-04T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261001100021-cover-1001202650465671391184-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1001202643200681419064-11.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1001202646664692999147-88.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1001202662775981107437-41.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "carrefour",
+      "name": "Carrefour",
+      "logoId": "carrefour",
+      "flyers": [
+        {
+          "id": 54,
+          "title": "Volantino Carrefour",
+          "subtitle": "Prezzi imbattibili",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713793c94567b2a?authid=GkYX5UIvYUWp",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_54_0.jpg",
+          "bkcode": "001066713793c94567b2a",
+          "authid": "GkYX5UIvYUWp"
+        },
+        {
+          "id": 1865,
+          "title": "Volantino Carrefour: Speciale",
+          "subtitle": "Catalogo Giocattolo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135d0a9977cdf2?authid=J3ULq8mMWpg4",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1865_0.jpg",
+          "bkcode": "0010667135d0a9977cdf2",
+          "authid": "J3ULq8mMWpg4"
+        },
+        {
+          "id": 1939,
+          "title": "Volantino Carrefour Speciale Bis",
+          "subtitle": "Speciale Lemonsoda",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713989e49aef7ad?authid=BtFbVgrSUv4l",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1939.jpg",
+          "bkcode": "001066713989e49aef7ad",
+          "authid": "BtFbVgrSUv4l"
+        },
+        {
+          "id": 44,
+          "title": "Volantino Carrefour",
+          "subtitle": "Sconti fino al 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671313867d8e5c40?authid=UM1DSkQoHdo8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_44.jpg",
+          "bkcode": "00106671313867d8e5c40",
+          "authid": "UM1DSkQoHdo8"
+        },
+        {
+          "id": 2338,
+          "title": "Catalogo Carrefour Market Speciale",
+          "subtitle": "Punti Sprint Payback",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135a6b35888fba?authid=gCDKwto0zfKT",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2338_0.jpg",
+          "bkcode": "0010667135a6b35888fba",
+          "authid": "gCDKwto0zfKT"
+        },
+        {
+          "id": 566,
+          "title": "Volantino Carrefour Market",
+          "subtitle": "Sconti fino al 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131fbb6b6843a5?authid=oUcZgGQwSAf3",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_566_1.jpg",
+          "bkcode": "0010667131fbb6b6843a5",
+          "authid": "oUcZgGQwSAf3"
+        },
+        {
+          "id": 538,
+          "title": "Volantino Carrefour: Speciale",
+          "subtitle": "Catalogo casa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ffc2a9c0f086?authid=UTVvXeowtTKY",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_538.jpg",
+          "bkcode": "001066713ffc2a9c0f086",
+          "authid": "UTVvXeowtTKY"
+        },
+        {
+          "id": 57,
+          "title": "Volantino Carrefour: Speciale",
+          "subtitle": "Catalogo vini",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dcd56de79a75?authid=wiQcyAankszn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_57_1.jpg",
+          "bkcode": "001066713dcd56de79a75",
+          "authid": "wiQcyAankszn"
+        },
+        {
+          "id": 2305,
+          "title": "Volantino Carrefour Market Speciale Bis",
+          "subtitle": "Catalogo Vini",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671376ea450b464b?authid=lJf0BAdam0WM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2305.jpg",
+          "bkcode": "00106671376ea450b464b",
+          "authid": "lJf0BAdam0WM"
+        },
+        {
+          "id": 1986,
+          "title": "Volantino Carrefour Speciale Ter",
+          "subtitle": "Speciale Unilever",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131e388d58d6c0?authid=mhBlQJNwPtnq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1986_0.jpg",
+          "bkcode": "0010667131e388d58d6c0",
+          "authid": "mhBlQJNwPtnq"
+        },
+        {
+          "id": 2339,
+          "title": "Catalogo Carrefour Market Speciale Bis",
+          "subtitle": "Speciale Aia",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713df5c1c069ea3?authid=e5MeXbsQeRAE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2339_1.jpg",
+          "bkcode": "001066713df5c1c069ea3",
+          "authid": "e5MeXbsQeRAE"
+        },
+        {
+          "id": 2337,
+          "title": "Volantino Carrefour Iper Speciale Bis",
+          "subtitle": "Speciale Aia",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f8df9097612a?authid=hycoslVG4ovM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2337_0.jpg",
+          "bkcode": "001066713f8df9097612a",
+          "authid": "hycoslVG4ovM"
+        },
+        {
+          "id": 2027,
+          "title": "Volantino Carrefour Sud",
+          "subtitle": "Prezzi imbattibili",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e82ae353600a?authid=Gx0Lu3fnEk1B",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2027_0.jpg",
+          "bkcode": "001066713e82ae353600a",
+          "authid": "Gx0Lu3fnEk1B"
+        },
+        {
+          "id": 53,
+          "title": "Volantino Carrefour Market",
+          "subtitle": "Prezzi Freschi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713680b9d942c10?authid=7NThNvuMlcel",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_53_1.jpg",
+          "bkcode": "001066713680b9d942c10",
+          "authid": "7NThNvuMlcel"
+        },
+        {
+          "id": 2306,
+          "title": "Volantino Carrefour Iper  Speciale",
+          "subtitle": "Speciale Purina",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134a910d3d6e14?authid=xEua7oRVBJ7Z",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2306_1.jpg",
+          "bkcode": "0010667134a910d3d6e14",
+          "authid": "xEua7oRVBJ7Z"
+        },
+        {
+          "id": 2307,
+          "title": "Catalogo Carrefour Iper: Speciale Bis",
+          "subtitle": "Punti Sprint Payback",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d59bc1b0714c?authid=F204veTG1TaM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2307.jpg",
+          "bkcode": "001066713d59bc1b0714c",
+          "authid": "F204veTG1TaM"
+        },
+        {
+          "id": 55,
+          "title": "Volantino Carrefour Express",
+          "subtitle": "Tutto a 1€, 2€ e 3€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133779f45d980f?authid=Nb7QqR0SZZAF",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_55.jpg",
+          "bkcode": "0010667133779f45d980f",
+          "authid": "Nb7QqR0SZZAF"
+        },
+        {
+          "id": 1975,
+          "title": "Volantino Carrefour Roma e Lazio",
+          "subtitle": "Prezzi imbattibili",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137ac78c8e037f?authid=eg210RJDpoQV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1975.jpg",
+          "bkcode": "0010667137ac78c8e037f",
+          "authid": "eg210RJDpoQV"
+        },
+        {
+          "id": 2103,
+          "title": "Volantino Carrefour Market Roma",
+          "subtitle": "Prezzi Freschi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f849df15475f?authid=8vmFvPYgR4df",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2103.jpg",
+          "bkcode": "001066713f849df15475f",
+          "authid": "8vmFvPYgR4df"
+        },
+        {
+          "id": 2358,
+          "title": "Volantino Carrefour Market Speciale Ter",
+          "subtitle": "Catalogo Giocattolo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134f45cefddc1b?authid=TZr13fFgQkEC",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2358.jpg",
+          "bkcode": "0010667134f45cefddc1b",
+          "authid": "TZr13fFgQkEC"
+        }
+      ]
+    },
+    {
+      "slug": "coal",
+      "name": "Coal",
+      "logoId": "coal",
+      "flyers": [
+        {
+          "id": 2193,
+          "title": "Volantino Coal Market Plus",
+          "subtitle": "Special days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130e967305e2f0?authid=0Hwhqk1f0kAp",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coal_2193_1.jpg",
+          "bkcode": "0010667130e967305e2f0",
+          "authid": "0Hwhqk1f0kAp"
+        },
+        {
+          "id": 2194,
+          "title": "Volantino Coal Il Market",
+          "subtitle": "Special days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e257ba5f77ab?authid=bUYiOCgV6e4O",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coal_2194_1.jpg",
+          "bkcode": "001066713e257ba5f77ab",
+          "authid": "bUYiOCgV6e4O"
+        },
+        {
+          "id": 1929,
+          "title": "Volantino Coal Il Market City",
+          "subtitle": "Special days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fd2044996487?authid=YNyStH2LhT55",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coal_1929_1.jpg",
+          "bkcode": "001066713fd2044996487",
+          "authid": "YNyStH2LhT55"
+        }
+      ]
+    },
+    {
+      "slug": "comet",
+      "name": "Comet",
+      "logoId": "comet",
+      "flyers": [
+        {
+          "id": 457,
+          "title": "Volantino Comet: Studio Luce",
+          "subtitle": "Dyson",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671317a990fcfc4b?authid=1JlvyD1vuoc2",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_457_0.jpg",
+          "bkcode": "00106671317a990fcfc4b",
+          "authid": "1JlvyD1vuoc2"
+        },
+        {
+          "id": 456,
+          "title": "Volantino Comet",
+          "subtitle": "Rowenta",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134cd198aea706?authid=4jZuZbJTcHis",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_456_0.jpg",
+          "bkcode": "0010667134cd198aea706",
+          "authid": "4jZuZbJTcHis"
+        },
+        {
+          "id": 170,
+          "title": "Volantino Comet",
+          "subtitle": "Più Tecnologia Fino al -50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671317f758060d41?authid=fslaPzmDp3uQ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_170_0.jpg",
+          "bkcode": "00106671317f758060d41",
+          "authid": "fslaPzmDp3uQ"
+        },
+        {
+          "id": 467,
+          "title": "Volantino Comet",
+          "subtitle": "Beauty",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713db73fc085c47?authid=tSx2xS1tozKy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_467.jpg",
+          "bkcode": "001066713db73fc085c47",
+          "authid": "tSx2xS1tozKy"
+        },
+        {
+          "id": 496,
+          "title": "Volantino Comet: Speciale",
+          "subtitle": "Lavaggio E Asciugatura",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131627a424be1e?authid=dP9oKB7pqpLz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_496_0.jpg",
+          "bkcode": "0010667131627a424be1e",
+          "authid": "dP9oKB7pqpLz"
+        },
+        {
+          "id": 497,
+          "title": "Volantino Comet: Speciale Videogiochi",
+          "subtitle": "Audio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134df6e3472e01?authid=vKl4knEoMXYW",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_497.jpg",
+          "bkcode": "0010667134df6e3472e01",
+          "authid": "vKl4knEoMXYW"
+        },
+        {
+          "id": 169,
+          "title": "Volantino Comet",
+          "subtitle": "Piccoli Elettrodomestici",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713eedf64ebd7a9?authid=M3X0z9PdmRs5",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_169.jpg",
+          "bkcode": "001066713eedf64ebd7a9",
+          "authid": "M3X0z9PdmRs5"
+        },
+        {
+          "id": 475,
+          "title": "Volantino Comet: Speciale",
+          "subtitle": "Grandi Elettrodomestici",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e9537e1f0f56?authid=cVElzu1TlgPz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_475_1.jpg",
+          "bkcode": "001066713e9537e1f0f56",
+          "authid": "cVElzu1TlgPz"
+        }
+      ]
+    },
+    {
+      "slug": "conad",
+      "name": "Conad",
+      "logoId": "conad",
+      "flyers": [
+        {
+          "id": 1852,
+          "title": "Volantino Conad Superstore Lombardia ed Emilia",
+          "subtitle": "SCONTI FINO 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713eae3114e87df?authid=U8KJ7nlusuRs",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1852_1.jpg",
+          "bkcode": "001066713eae3114e87df",
+          "authid": "U8KJ7nlusuRs"
+        },
+        {
+          "id": 344,
+          "title": "Volantino Conad Superstore: Lazio e Campania",
+          "subtitle": "Sconti fino al 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138a9e51ce1fb2?authid=uMjSMkym0Dd6",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_344_1.jpg",
+          "bkcode": "0010667138a9e51ce1fb2",
+          "authid": "uMjSMkym0Dd6"
+        },
+        {
+          "id": 174,
+          "title": "Volantino Conad Superstore Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
+          "subtitle": "I NUMERI 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713da5e98a790a7?authid=XS2kmYZfxZL1",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_174_1.jpg",
+          "bkcode": "001066713da5e98a790a7",
+          "authid": "XS2kmYZfxZL1"
+        },
+        {
+          "id": 532,
+          "title": "Volantino Spazio Conad Lazio e Campania",
+          "subtitle": "Prendi 3, paghi 2",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ddc22c0c34e5?authid=wAYg2t2yIVf8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_532.jpg",
+          "bkcode": "001066713ddc22c0c34e5",
+          "authid": "wAYg2t2yIVf8"
+        },
+        {
+          "id": 81,
+          "title": "Volantino Conad Lombardia ed Emilia",
+          "subtitle": "SCONTI FINO AL 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133e915ac2983c?authid=OLU2RzidYjjN",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_81_1.jpg",
+          "bkcode": "0010667133e915ac2983c",
+          "authid": "OLU2RzidYjjN"
+        },
+        {
+          "id": 1920,
+          "title": "Volantino Conad Margherita Nordiconad",
+          "subtitle": "TAGLIO NETTO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713799ac9ce5584?authid=NtZvSUvalPs8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1920_1.jpg",
+          "bkcode": "001066713799ac9ce5584",
+          "authid": "NtZvSUvalPs8"
+        },
+        {
+          "id": 286,
+          "title": "Volantino Margherita",
+          "subtitle": "Il Tuo Miglior Vicino Di Casa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671381f321397d8f?authid=gdvloayzJa80",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_286_1.jpg",
+          "bkcode": "00106671381f321397d8f",
+          "authid": "gdvloayzJa80"
+        },
+        {
+          "id": 342,
+          "title": "Volantino Margherita: Lazio e Campania",
+          "subtitle": "FRESCHI di Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e1bc3d379b7b?authid=sbDinfhZgOn1",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_342_1.jpg",
+          "bkcode": "001066713e1bc3d379b7b",
+          "authid": "sbDinfhZgOn1"
+        },
+        {
+          "id": 424,
+          "title": "Volantino Margherita Tirreno: Toscana, Lazio e Sardegna",
+          "subtitle": "FRESCHI DI CONVENIENZA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a44592d9846f?authid=auXA7lyJnIl2",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_424_1.jpg",
+          "bkcode": "001066713a44592d9846f",
+          "authid": "auXA7lyJnIl2"
+        },
+        {
+          "id": 1943,
+          "title": "Volantino Conad Tirreno: Toscana, Lazio e Sardegna",
+          "subtitle": "I NUMERI 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139b5daefb0e93?authid=llu3KIn7NxgY",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1943.jpg",
+          "bkcode": "0010667139b5daefb0e93",
+          "authid": "llu3KIn7NxgY"
+        },
+        {
+          "id": 2148,
+          "title": "Volantino Conad Campania",
+          "subtitle": "Taglio Netto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139fe0e59e73ea?authid=BFk8iwvxCiBn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2148_1.jpg",
+          "bkcode": "0010667139fe0e59e73ea",
+          "authid": "BFk8iwvxCiBn"
+        },
+        {
+          "id": 713,
+          "title": "Volantino Conad Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
+          "subtitle": "I NUMERI 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133555b2c80ea2?authid=LZcO7sQJtHfk",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_713_1.jpg",
+          "bkcode": "0010667133555b2c80ea2",
+          "authid": "LZcO7sQJtHfk"
+        },
+        {
+          "id": 2144,
+          "title": "Volantino Conad Superstore Sardegna",
+          "subtitle": "SCONTI FINO AL 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671330c8b9a0c1fe?authid=BVzLbkUgX3NA",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2144_1.jpg",
+          "bkcode": "00106671330c8b9a0c1fe",
+          "authid": "BVzLbkUgX3NA"
+        },
+        {
+          "id": 343,
+          "title": "Volantino Conad: Lazio e Campania",
+          "subtitle": "Taglio Netto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713966c69479006?authid=ucwxdlqpNg8N",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_343_1.jpg",
+          "bkcode": "001066713966c69479006",
+          "authid": "ucwxdlqpNg8N"
+        },
+        {
+          "id": 82,
+          "title": "Volantino Conad City Lombardia ed Emilia",
+          "subtitle": "SUPER RISPARMIO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f27023ac4852?authid=NCR3afmljeIU",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_82_1.jpg",
+          "bkcode": "001066713f27023ac4852",
+          "authid": "NCR3afmljeIU"
+        },
+        {
+          "id": 2149,
+          "title": "Volantino Conad Superstore Campania",
+          "subtitle": "Sconti fino al 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130077dd7ddaba?authid=285hGe0JG0C0",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2149_1.jpg",
+          "bkcode": "0010667130077dd7ddaba",
+          "authid": "285hGe0JG0C0"
+        },
+        {
+          "id": 2147,
+          "title": "Volantino Conad City Campania",
+          "subtitle": "FRESCHI di Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b80f7fb9c0f4?authid=Iw55Jsf9ZHLQ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2147_1.jpg",
+          "bkcode": "001066713b80f7fb9c0f4",
+          "authid": "Iw55Jsf9ZHLQ"
+        },
+        {
+          "id": 2142,
+          "title": "Volantino Conad Sardegna",
+          "subtitle": "I NUMERI 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671395c60501866f?authid=35yzQltUYdhP",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2142_1.jpg",
+          "bkcode": "00106671395c60501866f",
+          "authid": "35yzQltUYdhP"
+        },
+        {
+          "id": 2146,
+          "title": "Volantino Conad City Sardegna",
+          "subtitle": "TAGLIO NETTO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131de43eb5c497?authid=TpkXeTtDKnGF",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2146_1.jpg",
+          "bkcode": "0010667131de43eb5c497",
+          "authid": "TpkXeTtDKnGF"
+        },
+        {
+          "id": 1836,
+          "title": "Volantino Conad Superstore Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
+          "subtitle": "SCONTI FINO AL 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133ffdb8930f8d?authid=YtwfnDUXWG7t",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1836_1.jpg",
+          "bkcode": "0010667133ffdb8930f8d",
+          "authid": "YtwfnDUXWG7t"
+        },
+        {
+          "id": 723,
+          "title": "Volantino Spazio Conad Adriatico: Puglia, Abruzzo, Molise",
+          "subtitle": "SUPER FORMATI SUPER PREZZI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671393692e804af2?authid=gybLM0w8zSNR",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_723_0.jpg",
+          "bkcode": "00106671393692e804af2",
+          "authid": "gybLM0w8zSNR"
+        },
+        {
+          "id": 714,
+          "title": "Volantino Conad Veneto, Friuli, Marche, Romagna",
+          "subtitle": "PREZZI A FETTE",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137004428b1db9?authid=t5EYL6PzR557",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_714.jpg",
+          "bkcode": "0010667137004428b1db9",
+          "authid": "t5EYL6PzR557"
+        },
+        {
+          "id": 1891,
+          "title": "Volantino Spazio Conad Lazio",
+          "subtitle": "Super Formati Super Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671311d5413ad050?authid=J1SmkMfhIxI3",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1891_1.jpg",
+          "bkcode": "00106671311d5413ad050",
+          "authid": "J1SmkMfhIxI3"
+        },
+        {
+          "id": 173,
+          "title": "Volantino Conad Superstore Tirreno: Toscana, Lazio e Sardegna",
+          "subtitle": "SCONTI FINO AL 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713eb603b8a407a?authid=qXnwyoFRBLvm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_173_2.jpg",
+          "bkcode": "001066713eb603b8a407a",
+          "authid": "qXnwyoFRBLvm"
+        },
+        {
+          "id": 715,
+          "title": "Volantino Conad Sicilia",
+          "subtitle": "Sconti fino al 40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671364bf59cd1792?authid=jeTQI2WqLafO",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_715_1.jpg",
+          "bkcode": "00106671364bf59cd1792",
+          "authid": "jeTQI2WqLafO"
+        },
+        {
+          "id": 398,
+          "title": "Volantino Conad Adriatico: Abruzzo, Molise, Puglia, Marche, Basilicata",
+          "subtitle": "PREZZI KO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131cf2b32334ad?authid=AYBsJ2Z7lspl",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_398_2.jpg",
+          "bkcode": "0010667131cf2b32334ad",
+          "authid": "AYBsJ2Z7lspl"
+        }
+      ]
+    },
+    {
+      "slug": "conforama",
+      "name": "Conforama",
+      "logoId": "conforama",
+      "flyers": [
+        {
+          "id": 9823,
+          "title": "Catalogo Conforama - Arredamento Casa",
+          "subtitle": "Mobili, Salotti, Camere e Cucine",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/06/promozioni24-20260614183056-cover-0614202688478782555187-67-340x500.webp",
+          "directUrl": "https://www.promozioni24.it/arredamento/conforama/catalogo-conforama-confo-summer-13-6-15-7-2026",
+          "from": "2026-06-15T00:00:00+02:00",
+          "to": "2026-10-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/06/promozioni24-20260614183056-cover-0614202688478782555187-67.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202687740276010714-93.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202628809512991410-15.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202625582516144975-71.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202663216423802722-48.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202679637802420625-14.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202635524525652006-21.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202685309049077674-44.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202697430062484163-28.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202629545373137366-43.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202619188068821891-37.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202610221092308152-50.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202680569571903932-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202663149413190860-92.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202699147772996573-91.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202613507962953693-45.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202623505691371604-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202697185271910421-52.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202627076818001256-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202667959515541505-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202655856536694234-65.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202689259378240705-63.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202697173265710386-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202620844279419176-81.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202656543122346190-13.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202688208524917970-26.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202645554954112223-94.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202676729372997710-37.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202626368357885731-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202636600151194384-66.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202665696086253748-80.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202641917607805715-41.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202667956367412501-33.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202625084945855597-58.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202668296697357517-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202687548546637964-25.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202665213715422325-80.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202634046564816410-91.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202666827396671447-85.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202627518184893566-41.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202639446248077546-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202699336024206812-71.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202634064197704689-13.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202669680057340326-60.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202640334084479984-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202647818919186469-45.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202624466704457888-10.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202654666321615149-26.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202618937046784530-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202653970519511720-10.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202695985201267544-34.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202685936207652811-76.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202625017361591922-43.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202648855809492440-83.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202647306809959978-74.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202636363116722786-81.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202682459367662013-43.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202666915321088646-84.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202677848428463937-20.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202642938016240929-68.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "coop",
+      "name": "Coop",
+      "logoId": "coop",
+      "flyers": [
+        {
+          "id": 86,
+          "title": "Volantino IperCoop: Lombardia",
+          "subtitle": "1+1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713550a00ab2f73?authid=6HHRaX1i9BSh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_86_2.jpg",
+          "bkcode": "001066713550a00ab2f73",
+          "authid": "6HHRaX1i9BSh"
+        },
+        {
+          "id": 85,
+          "title": "Volantino Coop Lombardia",
+          "subtitle": "Sconti 30% 40% 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ca82301988dc?authid=JyYGd3ldEfqN",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_85_2.jpg",
+          "bkcode": "001066713ca82301988dc",
+          "authid": "JyYGd3ldEfqN"
+        },
+        {
+          "id": 2158,
+          "title": "Volantino Coop Sicilia",
+          "subtitle": "Risparmio? Ancora Di Più",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130ecb76dc3b78?authid=A3Sp3pX6Q0mr",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2158_2.jpg",
+          "bkcode": "0010667130ecb76dc3b78",
+          "authid": "A3Sp3pX6Q0mr"
+        },
+        {
+          "id": 495,
+          "title": "Volantino Coop: Ipercoop Nordest e TecnoStore",
+          "subtitle": "Buono Sconto 5€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dde5082f581c?authid=bYZMuK3fqb13",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_495_1.jpg",
+          "bkcode": "001066713dde5082f581c",
+          "authid": "bYZMuK3fqb13"
+        },
+        {
+          "id": 373,
+          "title": "Volantino Coop: Speciale",
+          "subtitle": "Casa D'Autunno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b19ef5ad8a73?authid=mI8xRi3PZh5m",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_373_0.jpg",
+          "bkcode": "001066713b19ef5ad8a73",
+          "authid": "mI8xRi3PZh5m"
+        },
+        {
+          "id": 2048,
+          "title": "Volantino Coop Firenze Speciale",
+          "subtitle": "La casa cambia stagione",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713151198d4c646?authid=uwZeqbxJXm1I",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2048_1.jpg",
+          "bkcode": "001066713151198d4c646",
+          "authid": "uwZeqbxJXm1I"
+        },
+        {
+          "id": 345,
+          "title": "Volantino Ipercoop: Speciale",
+          "subtitle": "Aspettando l'inverno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135b971dd456e7?authid=uUAECG6inONe",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_345.jpg",
+          "bkcode": "0010667135b971dd456e7",
+          "authid": "uUAECG6inONe"
+        },
+        {
+          "id": 89,
+          "title": "Volantino Coop Adriatica - Ipercoop",
+          "subtitle": "Buono Sconto 5€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671308463c5bcf0d?authid=MWYOmzgZAeLG",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_89_1.jpg",
+          "bkcode": "00106671308463c5bcf0d",
+          "authid": "MWYOmzgZAeLG"
+        },
+        {
+          "id": 1967,
+          "title": "Volantino Coop Nordest (veneto, friuli, emilia romagna)",
+          "subtitle": "Offerte per te",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132966da6239e2?authid=VlRM9xknMLKz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1967_1.jpg",
+          "bkcode": "0010667132966da6239e2",
+          "authid": "VlRM9xknMLKz"
+        },
+        {
+          "id": 2157,
+          "title": "Volantino Coop Piemonte",
+          "subtitle": "Sconti 30% 40% 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671360649748448e?authid=nbsoTuUI5dMK",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2157_2.jpg",
+          "bkcode": "00106671360649748448e",
+          "authid": "nbsoTuUI5dMK"
+        },
+        {
+          "id": 1913,
+          "title": "Volantino Ipercoop Piemonte Novacoop",
+          "subtitle": "Extra Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135ae35e20b244?authid=KBh9CW4iZVUY",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1913_2.jpg",
+          "bkcode": "0010667135ae35e20b244",
+          "authid": "KBh9CW4iZVUY"
+        },
+        {
+          "id": 1867,
+          "title": "Volantino Coop: Ipercoop Estense Sud",
+          "subtitle": "Sottocosto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d283fb76a87a?authid=5bgNyHnoKQZd",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1867_1.jpg",
+          "bkcode": "001066713d283fb76a87a",
+          "authid": "5bgNyHnoKQZd"
+        },
+        {
+          "id": 411,
+          "title": "Volantino IperCoop Speciale Ter",
+          "subtitle": "Aspettando l'inverno",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713211375fb3df3?authid=3B9EaMu55VUR",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_411.jpg",
+          "bkcode": "001066713211375fb3df3",
+          "authid": "3B9EaMu55VUR"
+        },
+        {
+          "id": 90,
+          "title": "Volantino IperCoop Liguria",
+          "subtitle": "Extra Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f61643659767?authid=xyz7pD5uiPim",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_90_2.jpg",
+          "bkcode": "001066713f61643659767",
+          "authid": "xyz7pD5uiPim"
+        },
+        {
+          "id": 94,
+          "title": "Volantino Coop: Ipercoop Estense",
+          "subtitle": "Offerte per te",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135401291eb13e?authid=OoMM4eSjyDW8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_94_1.jpg",
+          "bkcode": "0010667135401291eb13e",
+          "authid": "OoMM4eSjyDW8"
+        },
+        {
+          "id": 2301,
+          "title": "Volantino Speciale Coop Lombardia Bis",
+          "subtitle": "Baggio: Negozio Nuovo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713646e02fcbe3e?authid=qV2XQH3GepDC",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2301_1.jpg",
+          "bkcode": "001066713646e02fcbe3e",
+          "authid": "qV2XQH3GepDC"
+        },
+        {
+          "id": 272,
+          "title": "Volantino Coop Tirreno",
+          "subtitle": "5€ Di Buono Sconto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bda2727b6e35?authid=5GBFUrakFHwD",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_272_0.jpg",
+          "bkcode": "001066713bda2727b6e35",
+          "authid": "5GBFUrakFHwD"
+        },
+        {
+          "id": 273,
+          "title": "Volantino Coop Tirreno Speciale bis",
+          "subtitle": "Selezione Di Vini Italiani",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ccc8232e3907?authid=IVh17GOqach0",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_273.jpg",
+          "bkcode": "001066713ccc8232e3907",
+          "authid": "IVh17GOqach0"
+        },
+        {
+          "id": 1941,
+          "title": "Volantino Ipercoop Sicilia",
+          "subtitle": "Sottocosto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136e761d208df5?authid=KydISukAH1il",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1941_0.jpg",
+          "bkcode": "0010667136e761d208df5",
+          "authid": "KydISukAH1il"
+        },
+        {
+          "id": 182,
+          "title": "Volantino Coop Centro Italia",
+          "subtitle": "Buono Sconto 5€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671386087bc7fba9?authid=rHobSAKc7GIA",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_182_0.jpg",
+          "bkcode": "00106671386087bc7fba9",
+          "authid": "rHobSAKc7GIA"
+        },
+        {
+          "id": 1969,
+          "title": "Volantino Supermercati Coop Firenze",
+          "subtitle": "Il Buono Della Buona Spesa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136a1ab4e73e8b?authid=zAInLTAElV0b",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1969_2.jpg",
+          "bkcode": "0010667136a1ab4e73e8b",
+          "authid": "zAInLTAElV0b"
+        },
+        {
+          "id": 1965,
+          "title": "Volantino Coop Trento e Trentino",
+          "subtitle": "Sconti Fino Al -40%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a25cf2ebbd07?authid=XsWn016ePfSV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1965_1.jpg",
+          "bkcode": "001066713a25cf2ebbd07",
+          "authid": "XsWn016ePfSV"
+        }
+      ]
+    },
+    {
+      "slug": "crai",
+      "name": "Crai",
+      "logoId": "crai",
+      "flyers": [
+        {
+          "id": 9813,
+          "title": "Volantino Crai - Grande Anniversario",
+          "subtitle": "Sconti e Offerte Anniversario",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261006170812-cover-1006202698050425799685-63-340x340.webp",
+          "directUrl": "https://www.promozioni24.it/iper-supermercati/crai/crai-grande-anniversario-1-11-10-2026",
+          "from": "2026-10-01T00:00:00+02:00",
+          "to": "2026-10-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261006170812-cover-1006202698050425799685-63.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202671718883344935-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202640031992026239-75.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202690342392569225-55.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202623294119985366-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202662388755682017-52.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202620169697684554-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202633440833348465-15.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202691295633259962-36.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202691548978136747-19.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202613903467148847-63.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202684013675806009-12.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202617459862966470-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202638411866520999-12.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202685506755369293-68.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202658114871964182-47.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cts",
+      "name": "CTS Supermercati (Gruppo Gros)",
+      "logoId": "cts",
+      "flyers": [
+        {
+          "id": 10030,
+          "title": "Volantino CTS Supermercati",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10030.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10030&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "deco",
+      "name": "Decò",
+      "logoId": "deco",
+      "flyers": [
+        {
+          "id": 547,
+          "title": "Volantino Deco",
+          "subtitle": "Super Concorso",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dd98214d5b35?authid=MbH9tYGCb8nf",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_547.jpg",
+          "bkcode": "001066713dd98214d5b35",
+          "authid": "MbH9tYGCb8nf"
+        },
+        {
+          "id": 2182,
+          "title": "Volantino Deco Market",
+          "subtitle": "Super Concorso",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134a472c3a8029?authid=URK8naz10vgV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2182.jpg",
+          "bkcode": "0010667134a472c3a8029",
+          "authid": "URK8naz10vgV"
+        },
+        {
+          "id": 2190,
+          "title": "Volantino Deco Superfreddo",
+          "subtitle": "Super Concorso",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e4dcf33499d9?authid=XRbcNJsI9fFI",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2190_0.jpg",
+          "bkcode": "001066713e4dcf33499d9",
+          "authid": "XRbcNJsI9fFI"
+        },
+        {
+          "id": 546,
+          "title": "Volantino Deco Maxistore",
+          "subtitle": "Super Concorso",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671378e374f88beb?authid=5hAhiWGweZDw",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_546_0.jpg",
+          "bkcode": "00106671378e374f88beb",
+          "authid": "5hAhiWGweZDw"
+        },
+        {
+          "id": 2064,
+          "title": "Volantino Decò Sicilia",
+          "subtitle": "Super Concorso",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135c359be8cb30?authid=OWTA5Yqhc9sm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2064.jpg",
+          "bkcode": "0010667135c359be8cb30",
+          "authid": "OWTA5Yqhc9sm"
+        }
+      ]
+    },
+    {
+      "slug": "dem",
+      "name": "Dem Supermercati (Gruppo Gros)",
+      "logoId": "dem",
+      "flyers": [
+        {
+          "id": 1308,
+          "title": "Volantino Dem Supermercati",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1308.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1308&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "despar",
+      "name": "Despar",
+      "logoId": "despar",
+      "flyers": [
+        {
+          "id": 697,
+          "title": "Volantino Eurospar",
+          "subtitle": "OFFERTE",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dcf640894e21?authid=Yfvo01EKOrIx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_697_0.jpg",
+          "bkcode": "001066713dcf640894e21",
+          "authid": "Yfvo01EKOrIx"
+        },
+        {
+          "id": 128,
+          "title": "Volantino Interspar Nord-Est Bilingue",
+          "subtitle": "In Offerta",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132991c41ffaaa?authid=cmWDyem6szGn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_128.jpg",
+          "bkcode": "0010667132991c41ffaaa",
+          "authid": "cmWDyem6szGn"
+        },
+        {
+          "id": 2256,
+          "title": "Volantino Despar Sicilia",
+          "subtitle": "Accendi il risparmio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671327c5091a3bc4?authid=S4uuEuxqvW2b",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_2256.jpg",
+          "bkcode": "00106671327c5091a3bc4",
+          "authid": "S4uuEuxqvW2b"
+        },
+        {
+          "id": 134,
+          "title": "Volantino Despar",
+          "subtitle": "Fresche Occasioni",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132786d77b4bb7?authid=KLLEPGsbN4Dy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_134.jpg",
+          "bkcode": "0010667132786d77b4bb7",
+          "authid": "KLLEPGsbN4Dy"
+        },
+        {
+          "id": 129,
+          "title": "Volantino Interspar Nord-Est",
+          "subtitle": "In Offerta",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d558d5093309?authid=imfwt7TAPcLM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_129_0.jpg",
+          "bkcode": "001066713d558d5093309",
+          "authid": "imfwt7TAPcLM"
+        },
+        {
+          "id": 2049,
+          "title": "Volantino Despar, Interpar, Eurospar Sicilia",
+          "subtitle": "La spesa conviene",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c1ada9778619?authid=V2EfOuynopPh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_2049.jpg",
+          "bkcode": "001066713c1ada9778619",
+          "authid": "V2EfOuynopPh"
+        }
+      ]
+    },
+    {
+      "slug": "dpiu",
+      "name": "Dpiù",
+      "logoId": "dpiu",
+      "flyers": [
+        {
+          "id": 489,
+          "title": "Volantino Dpiù",
+          "subtitle": "Tanto Prodotti Da 0,50€ a 3€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713550497a56457?authid=w2EiHJ8e6zww",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/dpi_489.jpg",
+          "bkcode": "001066713550497a56457",
+          "authid": "w2EiHJ8e6zww"
+        }
+      ]
+    },
+    {
+      "slug": "effepiu",
+      "name": "Effepiù (Gruppo Gros)",
+      "logoId": "effepiu",
+      "flyers": [
+        {
+          "id": 198,
+          "title": "Volantino Effepiù",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_198.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=198&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "ekom",
+      "name": "Ekom Discount",
+      "logoId": "ekom",
+      "flyers": [
+        {
+          "id": 9815,
+          "title": "Volantino Ekom - Offerte da Capogiro",
+          "subtitle": "Grandi Risparmi fino al 31 Ottobre",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261006163024-cover-1006202690547072476101-99-340x364.webp",
+          "directUrl": "https://www.promozioni24.it/discount/ekom/ekom-offerte-capogiro-6-19-10-2026",
+          "from": "2026-10-06T00:00:00+02:00",
+          "to": "2026-10-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/10/promozioni24-20261006163024-cover-1006202690547072476101-99.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202689174542828519-97.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202698753487003688-73.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202657405367103289-99.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202665461188804323-55.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202679595084016417-83.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202638169679430352-29.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202667993308524251-69.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202619839645945341-86.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202682718213872331-38.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202686144639662212-51.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202628265585182070-36.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202699891007522927-55.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202654361742585238-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202612261341335715-48.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/10/1006202647761583973196-25.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "superelite",
+      "name": "Elite Supermercati (Roma & Lazio)",
+      "logoId": "superelite",
+      "flyers": [
+        {
+          "id": 20101,
+          "title": "Volantino Elite - SottoCosto",
+          "subtitle": "valide dal 16 al 25 Ottobre 2026 - e tante altre offerte dal 16 al 28 Ottobre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20201/20261014112756-page_01.jpg?mcb=5973696",
+          "directUrl": "https://www.superelite.it/promozioni/sottocosto",
+          "from": "2026-10-16T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00"
+        },
+        {
+          "id": 20102,
+          "title": "Volantino Elite - SottoCosto",
+          "subtitle": "valide dal 16 al 25 Ottobre 2026 - e tante altre offerte dal 16 al 29 Ottobre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20202/20261014114212-page_01.jpg?mcb=5973696",
+          "directUrl": "https://www.superelite.it/promozioni/sottocosto-4",
+          "from": "2026-10-16T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00"
+        },
+        {
+          "id": 20103,
+          "title": "Volantino Elite - Sconti d'Autunno",
+          "subtitle": "Dal 23 al 28 Ottobre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20151/20261014121025-page_01.jpg?mcb=5973696",
+          "directUrl": "https://www.superelite.it/promozioni/sconti-dautunno",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-10-28T23:59:59+02:00"
+        },
+        {
+          "id": 20104,
+          "title": "Volantino Elite - Spesa Difesa Selex - Prezzi Bloccati - Settembre",
+          "subtitle": "dal 01/09/26 al 31/12/26",
+          "coverUrl": "https://www.superelite.it/media/com_myegojwt/contents/flyers/2538/202608191527-page_01.jpg?mcb=5965513",
+          "directUrl": "https://www.superelite.it/promozioni/spesa-difesa-selex-prezzi-bloccati-gennaio"
+        },
+        {
+          "id": 20105,
+          "title": "Volantino Elite - Tutti in Campo - Grande Raccolta Fila - 4 Puntata",
+          "subtitle": "Dal 12 al 25 Ottobre 2026",
+          "coverUrl": "https://www.superelite.it/media/com_myegojwt/contents/flyers/20209/20261008103117-page_01.jpg?mcb=5972544",
+          "directUrl": "https://www.superelite.it/promozioni/tutti-in-campo-grande-raccolta-fila-4-puntata-2",
+          "from": "2026-10-12T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "emisfero-ipermercati",
+      "name": "Emisfero Ipermercati",
+      "logoId": "emisfero-ipermercati",
+      "flyers": [
+        {
+          "id": 293,
+          "title": "Volantino Emisfero Bis",
+          "subtitle": "Amici Animali",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671347fe529593dc?authid=TplaXtFqpxki",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/emisfero_293_0.jpg",
+          "bkcode": "00106671347fe529593dc",
+          "authid": "TplaXtFqpxki"
+        },
+        {
+          "id": 292,
+          "title": "Volantino Emisfero",
+          "subtitle": "Risparmio Da Provare",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136bcb4d03f424?authid=momt8HMPgmYh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/emisfero_292_2.jpg",
+          "bkcode": "0010667136bcb4d03f424",
+          "authid": "momt8HMPgmYh"
+        }
+      ]
+    },
+    {
+      "slug": "esselunga",
+      "name": "Esselunga",
+      "logoId": "esselunga",
+      "flyers": [
+        {
+          "id": 160,
+          "title": "Volantino Esselunga Superstore",
+          "subtitle": "Autunno, Tempo Di Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e9db6fe8e0ce?authid=B77aeElmnYV7",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_160_1.jpg",
+          "bkcode": "001066713e9db6fe8e0ce",
+          "authid": "B77aeElmnYV7"
+        },
+        {
+          "id": 789,
+          "title": "Volantino Esselunga: Speciale Bis",
+          "subtitle": "La Colazione Che è Già Una Hit",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671326b4de0690d1?authid=sA7B3HWx0SDz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_789.jpg",
+          "bkcode": "00106671326b4de0690d1",
+          "authid": "sA7B3HWx0SDz"
+        },
+        {
+          "id": 2141,
+          "title": "Volantino Esselunga Toscana",
+          "subtitle": "Autunno, Tempo Di Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130a8b6d9d61a1?authid=Wnj6ZYWxvGLM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2141_2.jpg",
+          "bkcode": "0010667130a8b6d9d61a1",
+          "authid": "Wnj6ZYWxvGLM"
+        },
+        {
+          "id": 79,
+          "title": "Volantino Esselunga: Speciale",
+          "subtitle": "Freschi E Convenienti Sempre",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d9f837b160cf?authid=rc0Q9GsSsIan",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_79.jpg",
+          "bkcode": "001066713d9f837b160cf",
+          "authid": "rc0Q9GsSsIan"
+        },
+        {
+          "id": 2138,
+          "title": "Volantino Esselunga Emilia Romagna",
+          "subtitle": "Autunno, Tempo Di Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671389cae4aeddf7?authid=ZGILLdLPkkP8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2138_1.jpg",
+          "bkcode": "00106671389cae4aeddf7",
+          "authid": "ZGILLdLPkkP8"
+        },
+        {
+          "id": 2139,
+          "title": "Volantino Esselunga Lazio",
+          "subtitle": "Autunno, Tempo Di Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713abf7b6284299?authid=vRq8FSaWXWd7",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2139_1.jpg",
+          "bkcode": "001066713abf7b6284299",
+          "authid": "vRq8FSaWXWd7"
+        },
+        {
+          "id": 2140,
+          "title": "Volantino Esselunga Piemonte",
+          "subtitle": "Autunno, Tempo Di Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713302ab4f2c0ff?authid=YBJXAP3Tzu0X",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2140_1.jpg",
+          "bkcode": "001066713302ab4f2c0ff",
+          "authid": "YBJXAP3Tzu0X"
+        },
+        {
+          "id": 2304,
+          "title": "Catalogo Esselunga Speciale",
+          "subtitle": "La Collezione Che è Già una Hit",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a48bf1f1fbc3?authid=m678F3WjG1kh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2304.jpg",
+          "bkcode": "001066713a48bf1f1fbc3",
+          "authid": "m678F3WjG1kh"
+        }
+      ]
+    },
+    {
+      "slug": "euronics",
+      "name": "Euronics",
+      "logoId": "euronics",
+      "flyers": [
+        {
+          "id": 259,
+          "title": "Volantino Euronics (Gruppo Bruno): Sicilia",
+          "subtitle": "Facciamo A metà",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a70727a927c2?authid=nq1IJ8ksNegg",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_259_0.jpg",
+          "bkcode": "001066713a70727a927c2",
+          "authid": "nq1IJ8ksNegg"
+        },
+        {
+          "id": 149,
+          "title": "Volantino Euronics CDS Butali: Toscana, Marche, Umbria, Lazio, Emilia Romagna",
+          "subtitle": "Offerte Super",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e6ce54920914?authid=nRbgP4Ugg1Ih",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_149.jpg",
+          "bkcode": "001066713e6ce54920914",
+          "authid": "nRbgP4Ugg1Ih"
+        },
+        {
+          "id": 536,
+          "title": "Volantino Euronics (Gruppo La Via Lattea): Sicilia",
+          "subtitle": "non C'è Due Senza Tre",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671360f65bf72079?authid=68UXyGAvdj1S",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_536_0.jpg",
+          "bkcode": "00106671360f65bf72079",
+          "authid": "68UXyGAvdj1S"
+        },
+        {
+          "id": 154,
+          "title": "Volantino Euronics (Gruppo Tufano): Lazio, Campania, Calabria",
+          "subtitle": "Tecno incentivi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132b3f826e139f?authid=Adx90HBrsgfr",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_154_0.jpg",
+          "bkcode": "0010667132b3f826e139f",
+          "authid": "Adx90HBrsgfr"
+        },
+        {
+          "id": 152,
+          "title": "Volantino Euronics (Gruppo Siem): Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria",
+          "subtitle": "Tassso Zero",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713861b88f803f9?authid=JFgFGq9qGTAo",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_152_0.jpg",
+          "bkcode": "001066713861b88f803f9",
+          "authid": "JFgFGq9qGTAo"
+        }
+      ]
+    },
+    {
+      "slug": "eurospin",
+      "name": "Eurospin",
+      "logoId": "eurospin",
+      "flyers": [
+        {
+          "id": 105,
+          "title": "Volantino Eurospin",
+          "subtitle": "TANTE OFFERTE E SPECIALE ALPENSPITZ",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671306c8baada760?authid=lhFVmOvtq3zx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_105_1.jpg",
+          "bkcode": "00106671306c8baada760",
+          "authid": "lhFVmOvtq3zx"
+        },
+        {
+          "id": 1974,
+          "title": "Volantino Eurospin Speciale Roma e Lazio",
+          "subtitle": "TANTE OFFERTE E SPECIALE ALPENSPITZ",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dc665acd1c8f?authid=iWSzsJnNq5PI",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_1974_1.jpg",
+          "bkcode": "001066713dc665acd1c8f",
+          "authid": "iWSzsJnNq5PI"
+        },
+        {
+          "id": 2154,
+          "title": "Volantino Eurospin Sicilia",
+          "subtitle": "TANTE OFFERTE E SPECIALE ALPENSPITZ",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671331b3e0be18fb?authid=gVNHlBoR7HjI",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_2154_1.jpg",
+          "bkcode": "00106671331b3e0be18fb",
+          "authid": "gVNHlBoR7HjI"
+        },
+        {
+          "id": 2153,
+          "title": "Volantino Eurospin Toscana",
+          "subtitle": "TANTE OFFERTE E SPECIALE ALPENSPITZ",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713835767ee9b4d?authid=JlSGce7eCzJ4",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_2153_1.jpg",
+          "bkcode": "001066713835767ee9b4d",
+          "authid": "JlSGce7eCzJ4"
+        },
+        {
+          "id": 1959,
+          "title": "Volantino Eurospin Speciale",
+          "subtitle": "FRESCHE OFFERTE DELLA SETTIMANA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138d09fc940598?authid=1XsGHnGR7Y58",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_1959.jpg",
+          "bkcode": "0010667138d09fc940598",
+          "authid": "1XsGHnGR7Y58"
+        }
+      ]
+    },
+    {
+      "slug": "expert-italia",
+      "name": "Expert",
+      "logoId": "expert-italia",
+      "flyers": [
+        {
+          "id": 1855,
+          "title": "Volantino Expert DG Group Speciale",
+          "subtitle": "SELECTION",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713652b5f79523c?authid=j1DELsaGB786",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_1855_0.jpg",
+          "bkcode": "001066713652b5f79523c",
+          "authid": "j1DELsaGB786"
+        },
+        {
+          "id": 1863,
+          "title": "Volantino Expert DG group",
+          "subtitle": "Regalo Perfetto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a06d090e3f12?authid=Z2YFJUBE9gqk",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_1863_1.jpg",
+          "bkcode": "001066713a06d090e3f12",
+          "authid": "Z2YFJUBE9gqk"
+        },
+        {
+          "id": 473,
+          "title": "Volantino Expert (Gruppo Somma): Campania",
+          "subtitle": "Regalo Perfetto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fe5ba8e9ddce?authid=GJe2zBBpzduq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_473_1.jpg",
+          "bkcode": "001066713fe5ba8e9ddce",
+          "authid": "GJe2zBBpzduq"
+        },
+        {
+          "id": 551,
+          "title": "Volantino Expert Mallardo",
+          "subtitle": "Regalo Perfetto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713448576c28a44?authid=H9NFuKXaRq1Z",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_551_1.jpg",
+          "bkcode": "001066713448576c28a44",
+          "authid": "H9NFuKXaRq1Z"
+        },
+        {
+          "id": 529,
+          "title": "Volantino Expert Teverola Di Lella",
+          "subtitle": "Ottobre 26",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b5dcd5bcb8d8?authid=4Gxrpg2k31lJ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_529_1.jpg",
+          "bkcode": "001066713b5dcd5bcb8d8",
+          "authid": "4Gxrpg2k31lJ"
+        },
+        {
+          "id": 654,
+          "title": "Volantino Expert Calabria",
+          "subtitle": "Promozioni",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b35a3902573b?authid=AYL67KhHGzqp",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_654_1.jpg",
+          "bkcode": "001066713b35a3902573b",
+          "authid": "AYL67KhHGzqp"
+        }
+      ]
+    },
+    {
+      "slug": "famila",
+      "name": "Famila",
+      "logoId": "famila",
+      "flyers": [
+        {
+          "id": 394,
+          "title": "Volantino IperFamila: Catalogo Speciale",
+          "subtitle": "SEGRETI DI BELLEZZA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671321c213f75e29?authid=ufl0NsYZ4Qyi",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_394.jpg",
+          "bkcode": "00106671321c213f75e29",
+          "authid": "ufl0NsYZ4Qyi"
+        },
+        {
+          "id": 107,
+          "title": "Volantino Famila Superstore",
+          "subtitle": "Spesa Difesa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138c055b65ea05?authid=OisHlI6V1koa",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_107.jpg",
+          "bkcode": "0010667138c055b65ea05",
+          "authid": "OisHlI6V1koa"
+        },
+        {
+          "id": 364,
+          "title": "Volantino Famila: Piemonte",
+          "subtitle": "TANTI PRODOTTI DA 0,50 A 3,00 €",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671392690b569e32?authid=G9nfSH21FrFs",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_364_0.jpg",
+          "bkcode": "00106671392690b569e32",
+          "authid": "G9nfSH21FrFs"
+        },
+        {
+          "id": 108,
+          "title": "Volantino Famila: Lombardia ed Emilia",
+          "subtitle": "TANTI PRODOTTI A 0,99€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671309caffd3fc8c?authid=P1q8OVeQYnCV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_108_1.jpg",
+          "bkcode": "00106671309caffd3fc8c",
+          "authid": "P1q8OVeQYnCV"
+        },
+        {
+          "id": 511,
+          "title": "Volantino Famila Superstore Nord Italia",
+          "subtitle": "TANTI PRODOTTI A 0,99€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d4c5f91d04b6?authid=hRtWaAgLA9pc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_511.jpg",
+          "bkcode": "001066713d4c5f91d04b6",
+          "authid": "hRtWaAgLA9pc"
+        },
+        {
+          "id": 106,
+          "title": "Volantino IperFamila: Speciale",
+          "subtitle": "IPERFAMILA SAPORI REGIONALI 23 19al28 ottobre",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134eb1d2d85b69?authid=WB10AZsLcQ18",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_106_0.jpg",
+          "bkcode": "0010667134eb1d2d85b69",
+          "authid": "WB10AZsLcQ18"
+        },
+        {
+          "id": 109,
+          "title": "Volantino Famila",
+          "subtitle": "CATALOGO CASA CALDA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132f8ff0d19aa4?authid=ucOlw5EcDTGh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_109.jpg",
+          "bkcode": "0010667132f8ff0d19aa4",
+          "authid": "ucOlw5EcDTGh"
+        },
+        {
+          "id": 512,
+          "title": "Volantino IperFamila",
+          "subtitle": "SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671365c013f172ea?authid=JyNvw0SqW6Qk",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_512_1.jpg",
+          "bkcode": "00106671365c013f172ea",
+          "authid": "JyNvw0SqW6Qk"
+        },
+        {
+          "id": 1968,
+          "title": "Volantino Famila Toscana e Umbria",
+          "subtitle": "Extra risparmio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f7623c0595a0?authid=i0kt2nfwrzRQ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_1968.jpg",
+          "bkcode": "001066713f7623c0595a0",
+          "authid": "i0kt2nfwrzRQ"
+        },
+        {
+          "id": 110,
+          "title": "Volantino Famila Superstore Bis",
+          "subtitle": "CATALOGO PET FOOD",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713320b9e59d056?authid=vjB3IRVbBryi",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_110_0.jpg",
+          "bkcode": "001066713320b9e59d056",
+          "authid": "vjB3IRVbBryi"
+        },
+        {
+          "id": 363,
+          "title": "Volantino Famila Superstore: Veneto",
+          "subtitle": "TANTI PRODOTTI A...",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671352bcd6fdb308?authid=fweoAJ6ZKe7b",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_363.jpg",
+          "bkcode": "00106671352bcd6fdb308",
+          "authid": "fweoAJ6ZKe7b"
+        }
+      ]
+    },
+    {
+      "slug": "futura-supermercati",
+      "name": "Futura Supermercati",
+      "logoId": "futura-supermercati",
+      "flyers": [
+        {
+          "id": 2012,
+          "title": "Volantino Futura Supermercati",
+          "subtitle": "Grandi Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136fb8b4f2da31?authid=hT69PkQpwVbv",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/dpi_2012.jpg",
+          "bkcode": "0010667136fb8b4f2da31",
+          "authid": "hT69PkQpwVbv"
+        }
+      ]
+    },
+    {
+      "slug": "gros",
+      "name": "Gros - Maestri del Fresco",
+      "logoId": "gros",
+      "flyers": [
+        {
+          "id": 10034,
+          "title": "Volantino Pewex",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10034.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10034&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 10009,
+          "title": "Volantino Pim",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10009.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10009&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        },
+        {
+          "id": 1308,
+          "title": "Volantino Dem Supermercati",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1308.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1308&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        },
+        {
+          "id": 10007,
+          "title": "Volantino Il Castoro",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10007.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10007&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 10093,
+          "title": "Volantino Ipertriscount",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10093.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10093&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 10014,
+          "title": "Volantino Ipercarni",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10014.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10014&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 10030,
+          "title": "Volantino CTS Supermercati",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10030.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10030&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        },
+        {
+          "id": 10040,
+          "title": "Volantino TOP Supermercati",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10040.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10040&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 198,
+          "title": "Volantino Effepiù",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_198.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=198&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 10038,
+          "title": "Volantino Sacoph",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10038.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10038&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        },
+        {
+          "id": 1440,
+          "title": "Volantino Idromarket",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1440.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1440&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        },
+        {
+          "id": 303,
+          "title": "Volantino Supermercati MA",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_303.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=303&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "happycasa",
+      "name": "Happy Casa",
+      "logoId": "happycasa",
+      "flyers": [
+        {
+          "id": 9812,
+          "title": "Volantino Happy Casa - Sotto Prezzi",
+          "subtitle": "Casalinghi, Arredamento e Bagno",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260914102029-cover-0914202628757938554438-54-340x326.webp",
+          "directUrl": "https://www.promozioni24.it/prodotti-per-la-casa/happycasa/happycasa-sotto-prezzi-16-9-4-10-2026",
+          "from": "2026-09-16T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260914102029-cover-0914202628757938554438-54.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202651101674933489-26.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202652567748825995-19.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202685535928494227-43.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202685090458832717-16.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202699397102990032-51.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202688394033344043-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202654467127028707-62.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202656563507749984-78.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202622871372141478-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202627872181078376-44.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202624346338903933-69.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202667514368070904-40.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202666178881683000-64.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202610443449442956-47.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202691369235010208-10.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202685516326850457-23.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202643610708899865-12.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202679377406687931-46.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202646275496186596-71.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202619422966073937-76.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202671851828914425-15.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202637374114169247-12.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0914202662163559585212-63.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hardis",
+      "name": "HarDis",
+      "logoId": "hardis",
+      "flyers": [
+        {
+          "id": 442,
+          "title": "Volantino Hardis",
+          "subtitle": "Tante Offerte A 0,99€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713cef01d57f6f1?authid=Y7jlxAbDGoVW",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/hardis_442_1.jpg",
+          "bkcode": "001066713cef01d57f6f1",
+          "authid": "Y7jlxAbDGoVW"
+        }
+      ]
+    },
+    {
+      "slug": "idromarket",
+      "name": "Idromarket (Gruppo Gros)",
+      "logoId": "idromarket",
+      "flyers": [
+        {
+          "id": 1440,
+          "title": "Volantino Idromarket",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1440.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1440&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "il-castoro",
+      "name": "Il Castoro (Gruppo Gros)",
+      "logoId": "il-castoro",
+      "flyers": [
+        {
+          "id": 10007,
+          "title": "Volantino Il Castoro",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10007.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10007&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "il-gigante",
+      "name": "Il Gigante",
+      "logoId": "il-gigante",
+      "flyers": [
+        {
+          "id": 58,
+          "title": "Volantino Il Gigante",
+          "subtitle": "Spacca i Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a3165b0a10fc?authid=KeJozk5V1BSW",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/il_gigante_58_1.jpg",
+          "bkcode": "001066713a3165b0a10fc",
+          "authid": "KeJozk5V1BSW"
+        },
+        {
+          "id": 9,
+          "title": "Volantino Il Gigante",
+          "subtitle": "Diamo colore a nostro benessere",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138ea329d1d2db?authid=8LTUTv3k5iLd",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/il_gigante_9_0.jpg",
+          "bkcode": "0010667138ea329d1d2db",
+          "authid": "8LTUTv3k5iLd"
+        }
+      ]
+    },
+    {
+      "slug": "ins",
+      "name": "iN's Mercato",
+      "logoId": "ins",
+      "flyers": [
+        {
+          "id": 205,
+          "title": "Volantino iN's",
+          "subtitle": "Scelta Bio, Sapori Veri",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713efc1dda01a73?authid=XHik2Tpq9NHs",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/in_s_205_1.jpg",
+          "bkcode": "001066713efc1dda01a73",
+          "authid": "XHik2Tpq9NHs"
+        },
+        {
+          "id": 1884,
+          "title": "Volantino iN's Bis",
+          "subtitle": "Prezzo Assaggio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713940a2e48ef3a?authid=Lm1L5s8szGRs",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/in_s_1884_0.jpg",
+          "bkcode": "001066713940a2e48ef3a",
+          "authid": "Lm1L5s8szGRs"
+        }
+      ]
+    },
+    {
+      "slug": "iper-la-grande-i",
+      "name": "Iper, La grande i",
+      "logoId": "iper-la-grande-i",
+      "flyers": [
+        {
+          "id": 163,
+          "title": "Volantino Iper, la grande i",
+          "subtitle": "OFFERTE IMPERDIBILI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136cdf80870b7e?authid=494Hy94crVNh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_163.jpg",
+          "bkcode": "0010667136cdf80870b7e",
+          "authid": "494Hy94crVNh"
+        },
+        {
+          "id": 3,
+          "title": "Volantino Iper, la grande i: Speciale",
+          "subtitle": "LO STILE È DI CASA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671300c87d40764f?authid=MbtV8Z1AraHj",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_3.jpg",
+          "bkcode": "00106671300c87d40764f",
+          "authid": "MbtV8Z1AraHj"
+        },
+        {
+          "id": 1909,
+          "title": "Volantino Iper, la grande i: Speciale Bis",
+          "subtitle": "IL TEMPO DEL VINO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671308ef72135773?authid=7pV1qjggriGv",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_1909.jpg",
+          "bkcode": "00106671308ef72135773",
+          "authid": "7pV1qjggriGv"
+        },
+        {
+          "id": 51,
+          "title": "Volantino Iper: Speciale",
+          "subtitle": "SPECIALE PET FOOD",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136c5a86083f13?authid=WtaytP59nNWb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_51_0.jpg",
+          "bkcode": "0010667136c5a86083f13",
+          "authid": "WtaytP59nNWb"
+        },
+        {
+          "id": 412,
+          "title": "Volantino Iper: Milano Portello",
+          "subtitle": "SCONTI STRAORDINARI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d109e3003f48?authid=iPWyK7gmLLVS",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_412_1.jpg",
+          "bkcode": "001066713d109e3003f48",
+          "authid": "iPWyK7gmLLVS"
+        },
+        {
+          "id": 2241,
+          "title": "Volantino Iper Serravalle",
+          "subtitle": "SCONTI STRAORDINARI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671367ecddce9dd9?authid=8AX96A3XzgaD",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2241_1.jpg",
+          "bkcode": "00106671367ecddce9dd9",
+          "authid": "8AX96A3XzgaD"
+        },
+        {
+          "id": 2359,
+          "title": "Volantino Iper La Grande I Monza",
+          "subtitle": "SCONTI STRAORDINARI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671374b923981793?authid=uX3yEQ7lFBaG",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2359_1.jpg",
+          "bkcode": "00106671374b923981793",
+          "authid": "uX3yEQ7lFBaG"
+        },
+        {
+          "id": 50,
+          "title": "Volantino Iper, la grande i",
+          "subtitle": "SCONTI STRAORDINARI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671340aa42f4c0c7?authid=6HlbkD4pBxGe",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_50_0.jpg",
+          "bkcode": "00106671340aa42f4c0c7",
+          "authid": "6HlbkD4pBxGe"
+        },
+        {
+          "id": 2240,
+          "title": "Volantino Iper Busnago",
+          "subtitle": "SCONTI STRAORDINARI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671343a06dc151dc?authid=ndhWpxqhJZp6",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2240_1.jpg",
+          "bkcode": "00106671343a06dc151dc",
+          "authid": "ndhWpxqhJZp6"
+        }
+      ]
+    },
+    {
+      "slug": "iperal",
+      "name": "Iperal",
+      "logoId": "iperal",
+      "flyers": [
+        {
+          "id": 112,
+          "title": "Volantino Iperal",
+          "subtitle": "Affari a 1,2,3 euro",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136b689fe65db1?authid=0b5rPSlWMu6C",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_112.jpg",
+          "bkcode": "0010667136b689fe65db1",
+          "authid": "0b5rPSlWMu6C"
+        },
+        {
+          "id": 191,
+          "title": "Volantino Iperal Speciale",
+          "subtitle": "Igiene e Bellezza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671360384705fd71?authid=I4D5839ajCU9",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_191.jpg",
+          "bkcode": "00106671360384705fd71",
+          "authid": "I4D5839ajCU9"
+        },
+        {
+          "id": 1957,
+          "title": "Volantino Iperal Speciale Bis",
+          "subtitle": "Ancora più offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d09bd5a3889f?authid=SxSDXSrhqSCJ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_1957.jpg",
+          "bkcode": "001066713d09bd5a3889f",
+          "authid": "SxSDXSrhqSCJ"
+        }
+      ]
+    },
+    {
+      "slug": "ipercarni",
+      "name": "Ipercarni (Gruppo Gros)",
+      "logoId": "ipercarni",
+      "flyers": [
+        {
+          "id": 10014,
+          "title": "Volantino Ipercarni",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10014.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10014&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "ipertriscount",
+      "name": "Ipertriscount (Gruppo Gros)",
+      "logoId": "ipertriscount",
+      "flyers": [
+        {
+          "id": 10093,
+          "title": "Volantino Ipertriscount",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10093.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10093&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "italmark",
+      "name": "Italmark",
+      "logoId": "italmark",
+      "flyers": [
+        {
+          "id": 2260,
+          "title": "Volantino Italmark",
+          "subtitle": "I Miei Sconti",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d426d9c23201?authid=H1IlySXhtI8s",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/italmark_2260_2.jpg",
+          "bkcode": "001066713d426d9c23201",
+          "authid": "H1IlySXhtI8s"
+        }
+      ]
+    },
+    {
+      "slug": "kasanova",
+      "name": "Kasanova",
+      "logoId": "kasanova",
+      "flyers": [
+        {
+          "id": 9811,
+          "title": "Volantino Kasanova - Casa & Cucina",
+          "subtitle": "Promozioni Autunno fino al 28 Ottobre",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260908112750-cover-0908202694129996108583-95-340x481.webp",
+          "directUrl": "https://www.promozioni24.it/prodotti-per-la-casa/kasanova/casa-settembre-1-9-28-10-2026",
+          "from": "2026-09-01T00:00:00+02:00",
+          "to": "2026-10-28T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/09/promozioni24-20260908112750-cover-0908202694129996108583-95.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202669781535514148-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202617972299984234-47.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202633151993269926-47.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202654907621840427-42.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202690671069403583-71.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202626289602648863-64.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202622655518064396-64.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202617946463406266-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202640275514197587-76.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202620512784945336-60.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202695380586903339-45.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202697818246432443-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202698060476275535-34.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202615157567540430-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202624729606771262-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202630768489794116-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202673802207688821-84.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202660780351157662-63.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202695161929345481-75.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202661066734185225-13.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202635579099863481-18.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202653654077541623-24.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202615399774923362-87.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202674208011023638-33.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202682276211478985-80.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202642795095762346-72.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202691223548444399-56.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202677172012875161-59.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202682780964745539-37.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202615176006846736-94.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202695731708744046-11.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/09/0908202698949915224155-22.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "la-saponeria",
+      "name": "La Saponeria",
+      "logoId": "la-saponeria",
+      "flyers": [
+        {
+          "id": 9802,
+          "title": "Volantino La Saponeria - Grandi Risparmi",
+          "subtitle": "Offerte Nazionali La Saponeria",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0045364102cd9175a947e",
+          "fallbackCoverUrl": "https://p.calameoassets.com/0045364102cd9175a947e/p1.large.jpg",
+          "bkcode": "0045364102cd9175a947e",
+          "from": "2026-10-23T10:08:24.482Z",
+          "to": "2026-11-06T10:08:24.482Z"
+        }
+      ]
+    },
+    {
+      "slug": "leroy-merlin",
+      "name": "Leroy Merlin",
+      "logoId": "leroy-merlin",
+      "flyers": [
+        {
+          "id": 207,
+          "title": "Volantino Leroy Merlin",
+          "subtitle": "Prezzi Mai Visti",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133a9e49501541?authid=jYc8VxFseAz3",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/leroy_merlin_it_207.jpg",
+          "bkcode": "0010667133a9e49501541",
+          "authid": "jYc8VxFseAz3"
+        }
+      ]
+    },
+    {
+      "slug": "lidl",
+      "name": "Lidl",
+      "logoId": "lidl",
+      "flyers": [
+        {
+          "id": 559,
+          "title": "Volantino Lidl",
+          "subtitle": "Piccoli Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b644a5c3b917?authid=43ZXY34Jbgib",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_559_0.jpg",
+          "bkcode": "001066713b644a5c3b917",
+          "authid": "43ZXY34Jbgib"
+        },
+        {
+          "id": 569,
+          "title": "Volantino Anteprima Lidl",
+          "subtitle": "Piccoli Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138fe1867e6b6c?authid=Ad9jenOsw5uy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_569_1.jpg",
+          "bkcode": "0010667138fe1867e6b6c",
+          "authid": "Ad9jenOsw5uy"
+        },
+        {
+          "id": 2203,
+          "title": "Catalogo Lidl Speciale",
+          "subtitle": "Mercatini e Wellness",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671363a6badf22ba?authid=oyCZbuw9qwdt",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_2203_1.jpg",
+          "bkcode": "00106671363a6badf22ba",
+          "authid": "oyCZbuw9qwdt"
+        },
+        {
+          "id": 754,
+          "title": "Volantino Lidl Viaggi",
+          "subtitle": "I viaggi del mese",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d3934cdd8c61?authid=s8yUlmDxvJfM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_754.jpg",
+          "bkcode": "001066713d3934cdd8c61",
+          "authid": "s8yUlmDxvJfM"
+        },
+        {
+          "id": 484,
+          "title": "Volantino Lidl Bis",
+          "subtitle": "Dal nostro assortimento",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136550e81b6192?authid=mZl4cnRRxjPb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_484.jpg",
+          "bkcode": "0010667136550e81b6192",
+          "authid": "mZl4cnRRxjPb"
+        }
+      ]
+    },
+    {
+      "slug": "md-discount",
+      "name": "MD Discount",
+      "logoId": "md-discount",
+      "flyers": [
+        {
+          "id": 246,
+          "title": "Volantino MD Lombardia",
+          "subtitle": "Buona Spesa, Italia!",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ee32dd4051d3?authid=uYmhDKBVolZV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_246_1.jpg",
+          "bkcode": "001066713ee32dd4051d3",
+          "authid": "uYmhDKBVolZV"
+        },
+        {
+          "id": 114,
+          "title": "Volantino MD Discount",
+          "subtitle": "Buona Spesa, Italia!",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a58d53e74507?authid=GAjJX24Ujxd6",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_114_1.jpg",
+          "bkcode": "001066713a58d53e74507",
+          "authid": "GAjJX24Ujxd6"
+        }
+      ]
+    },
+    {
+      "slug": "mediaworld-italia",
+      "name": "Mediaworld",
+      "logoId": "mediaworld-italia",
+      "flyers": [
+        {
+          "id": 370,
+          "title": "Volantino Mediaworld",
+          "subtitle": "TUTTO VERO TASSO ZERO - Dal 19/10 fino al 29/10",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671356bdca7f9052?authid=BsOBkdnDIt6i",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_370_1.jpg",
+          "bkcode": "00106671356bdca7f9052",
+          "authid": "BsOBkdnDIt6i"
+        },
+        {
+          "id": 1898,
+          "title": "Volantino Mediaworld Speciale Bis",
+          "subtitle": "Speciale accessori anniversario - dal 16/10 al 01/11",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671398ecb772b05b?authid=SEg9FnVNKArR",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_1898.jpg",
+          "bkcode": "00106671398ecb772b05b",
+          "authid": "SEg9FnVNKArR"
+        },
+        {
+          "id": 157,
+          "title": "Volantino Mediaworld Bis",
+          "subtitle": "UN MONDO DI ACCESSORI dal 06/10 al 25/10",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c2e461d5b799?authid=ddhXRz5JK0pq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_157_2.jpg",
+          "bkcode": "001066713c2e461d5b799",
+          "authid": "ddhXRz5JK0pq"
+        },
+        {
+          "id": 278,
+          "title": "Volantino Mediaworld Speciale",
+          "subtitle": "Tecnologie da vivere per la tua casa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a1f1e30d4eb6?authid=EqgRDspv4gXQ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_278_0.jpg",
+          "bkcode": "001066713a1f1e30d4eb6",
+          "authid": "EqgRDspv4gXQ"
+        },
+        {
+          "id": 2355,
+          "title": "Catalogo Mediaworld",
+          "subtitle": "Apple Days - Dal 22/10 fino al 25/10",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b95e50483ea9?authid=HIMGifEPzTrq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_2355.jpg",
+          "bkcode": "001066713b95e50483ea9",
+          "authid": "HIMGifEPzTrq"
+        }
+      ]
+    },
+    {
+      "slug": "metro",
+      "name": "Metro",
+      "logoId": "metro",
+      "flyers": [
+        {
+          "id": 70,
+          "title": "Volantino Metro: Metropost",
+          "subtitle": "Offerte Per Il Tuo Menù - Area 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bf2b88bc5ccb?authid=Y2mKTrnwz2HE",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_70_1.jpg",
+          "bkcode": "001066713bf2b88bc5ccb",
+          "authid": "Y2mKTrnwz2HE"
+        },
+        {
+          "id": 477,
+          "title": "Volantino Metro: Speciale",
+          "subtitle": "Offerte Per Il Tuo Menù - Maxi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bf955638da85?authid=D2fxGPk2fSUy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_477_0.jpg",
+          "bkcode": "001066713bf955638da85",
+          "authid": "D2fxGPk2fSUy"
+        },
+        {
+          "id": 466,
+          "title": "Volantino Metro: Speciale",
+          "subtitle": "Carta Vini Autunno Delivery",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132f039c9ffeda?authid=fI0B672E3kiK",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_466_0.jpg",
+          "bkcode": "0010667132f039c9ffeda",
+          "authid": "fI0B672E3kiK"
+        },
+        {
+          "id": 72,
+          "title": "Volantino Metro Speciale Bis",
+          "subtitle": "Offerte Per Il Tuo Menù Delivery",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b0d1008f60cf?authid=WqwwOGd3iGXL",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_72_0.jpg",
+          "bkcode": "001066713b0d1008f60cf",
+          "authid": "WqwwOGd3iGXL"
+        },
+        {
+          "id": 71,
+          "title": "Volantino Metro Speciale",
+          "subtitle": "Offerte Per Il Tuo Menù Regionale - Lazio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a91d260a1758?authid=j0QwA2CUh8Pj",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_71.jpg",
+          "bkcode": "001066713a91d260a1758",
+          "authid": "j0QwA2CUh8Pj"
+        },
+        {
+          "id": 476,
+          "title": "Volantino Metro: Speciale",
+          "subtitle": "Catalogo Regali Di Natale",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671326d168f09e02?authid=CCFma66w8WhT",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_476.jpg",
+          "bkcode": "00106671326d168f09e02",
+          "authid": "CCFma66w8WhT"
+        }
+      ]
+    },
+    {
+      "slug": "migross",
+      "name": "Migross",
+      "logoId": "migross",
+      "flyers": [
+        {
+          "id": 2097,
+          "title": "Volantino Migross Superstore",
+          "subtitle": "Super Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713031b8d7c8c40?authid=0LyRapKcfKRb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/migross_2097_2.jpg",
+          "bkcode": "001066713031b8d7c8c40",
+          "authid": "0LyRapKcfKRb"
+        },
+        {
+          "id": 2252,
+          "title": "Volantino Migross Bis",
+          "subtitle": "2230",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671300e689283fec?authid=aBajTADRifAB",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/migross_2252_2.jpg",
+          "bkcode": "00106671300e689283fec",
+          "authid": "aBajTADRifAB"
+        },
+        {
+          "id": 2008,
+          "title": "Volantino Migross",
+          "subtitle": "Super Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e159b94fb23e?authid=ObilhuoSJ449",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/migross_2008_2.jpg",
+          "bkcode": "001066713e159b94fb23e",
+          "authid": "ObilhuoSJ449"
+        }
+      ]
+    },
+    {
+      "slug": "mondo-convenienza",
+      "name": "Mondo Convenienza",
+      "logoId": "mondo-convenienza",
+      "flyers": [
+        {
+          "id": 658,
+          "title": "Catalogo Mondo Convenienza",
+          "subtitle": "La Certezza Del Miglior Prezzo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135d114de232ad?authid=NUeiMe8pM3BH",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mondoconvenienza_658_0.jpg",
+          "bkcode": "0010667135d114de232ad",
+          "authid": "NUeiMe8pM3BH"
+        }
+      ]
+    },
+    {
+      "slug": "naturasi",
+      "name": "NaturaSì",
+      "logoId": "naturasi",
+      "flyers": [
+        {
+          "id": 211,
+          "title": "Volantino NaturaSì",
+          "subtitle": "Ottobre 2026",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713201162b22767?authid=qXYXU8kMe3kM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/naturas_211.jpg",
+          "bkcode": "001066713201162b22767",
+          "authid": "qXYXU8kMe3kM"
+        }
+      ]
+    },
+    {
+      "slug": "oasi",
+      "name": "Oasi",
+      "logoId": "oasi",
+      "flyers": [
+        {
+          "id": 406,
+          "title": "Volantino Oasi",
+          "subtitle": "Sconti Da Paura",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671362d0e8d0408a?authid=82Lf7xT19bNn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/oasi_406_2.jpg",
+          "bkcode": "00106671362d0e8d0408a",
+          "authid": "82Lf7xT19bNn"
+        }
+      ]
+    },
+    {
+      "slug": "obi",
+      "name": "OBI",
+      "logoId": "obi",
+      "flyers": [
+        {
+          "id": 9819,
+          "title": "Catalogo OBI - Il Tuo Giardino & Fai da Te",
+          "subtitle": "Tutto per la Casa e il Bricolage",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260815001107-cover-0815202695223972687415-66-340x481.webp",
+          "directUrl": "https://www.promozioni24.it/bricolage-e-giardinaggio/obi/obi-nati-fare-estate-30-7-23-8-2026",
+          "from": "2026-08-01T00:00:00+02:00",
+          "to": "2026-10-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260815001107-cover-0815202695223972687415-66.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202649892489773429-54.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202640734739227027-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202684840386580234-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202627078693138945-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202626840448808494-67.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202698453617024536-29.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202667803111777356-28.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202626769218942467-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202655991053887142-58.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202673469811629684-99.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202677714048526233-16.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202631783865721322-66.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202651828144805065-45.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202658097935275535-76.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202639196406216999-93.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202638622586820195-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202629856082244893-70.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202621066457648337-87.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0815202649657166190918-91.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "orizzonte",
+      "name": "Orizzonte (Grandi Magazzini)",
+      "logoId": "orizzonte",
+      "flyers": [
+        {
+          "id": 9801,
+          "title": "Volantino Orizzonte - Offerte del Mese",
+          "subtitle": "Grandi Magazzini Orizzonte Lazio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0057498848c8788bff538",
+          "fallbackCoverUrl": "https://p.calameoassets.com/0057498848c8788bff538/p1.large.jpg",
+          "bkcode": "0057498848c8788bff538"
+        },
+        {
+          "id": 9802,
+          "title": "Catalogo Scuola Orizzonte",
+          "subtitle": "Speciale Cartoleria e Zaini",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00574988462882623185f",
+          "fallbackCoverUrl": "https://p.calameoassets.com/00574988462882623185f/p1.large.jpg",
+          "bkcode": "00574988462882623185f"
+        },
+        {
+          "id": 9803,
+          "title": "Catalogo Elettrodomestici Orizzonte",
+          "subtitle": "Grandi e Piccoli Elettrodomestici",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884db38fe182331",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884db38fe182331/p1.large.jpg",
+          "bkcode": "005749884db38fe182331"
+        },
+        {
+          "id": 9804,
+          "title": "Catalogo Bricolage Orizzonte",
+          "subtitle": "Fai da te, Ferramenta e Pittura",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884dbad486faae1",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884dbad486faae1/p1.large.jpg",
+          "bkcode": "005749884dbad486faae1"
+        },
+        {
+          "id": 9805,
+          "title": "Catalogo Mobile & Arredo Orizzonte",
+          "subtitle": "Arredo Casa e Complementi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00574988427e8a90e85c7",
+          "fallbackCoverUrl": "https://p.calameoassets.com/00574988427e8a90e85c7/p1.large.jpg",
+          "bkcode": "00574988427e8a90e85c7"
+        },
+        {
+          "id": 9806,
+          "title": "Catalogo Giardinaggio Orizzonte",
+          "subtitle": "Cura del Verde e Attrezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884a6d599c261f3",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884a6d599c261f3/p1.large.jpg",
+          "bkcode": "005749884a6d599c261f3"
+        },
+        {
+          "id": 9807,
+          "title": "Catalogo Arredo Giardino Orizzonte",
+          "subtitle": "Salotti da Esterno e Terrazzo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884c6ff5fa05c17",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884c6ff5fa05c17/p1.large.jpg",
+          "bkcode": "005749884c6ff5fa05c17"
+        },
+        {
+          "id": 9810,
+          "title": "Volantino Orizzonte Online",
+          "subtitle": "Catalogo e Offerte Orizzonte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884a272aca06536",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884a272aca06536/p1.large.jpg",
+          "bkcode": "005749884a272aca06536"
+        },
+        {
+          "id": 9811,
+          "title": "Volantino Orizzonte Online",
+          "subtitle": "Catalogo e Offerte Orizzonte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0057498842e49e0879e94",
+          "fallbackCoverUrl": "https://p.calameoassets.com/0057498842e49e0879e94/p1.large.jpg",
+          "bkcode": "0057498842e49e0879e94"
+        }
+      ]
+    },
+    {
+      "slug": "pam",
+      "name": "Pam",
+      "logoId": "pam",
+      "flyers": [
+        {
+          "id": 404,
+          "title": "Volantino PAM",
+          "subtitle": "Sconto Studenti 10% Mercoledì su Alimentare e Drogheria, Milano",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f594f3fb4db9?authid=mBfm594mcr7l",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/pam_404.jpg",
+          "bkcode": "001066713f594f3fb4db9",
+          "authid": "mBfm594mcr7l"
+        },
+        {
+          "id": 2030,
+          "title": "Volantino Pam Superstore",
+          "subtitle": "Imperdibile Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132fe9bfd41e68?authid=4rng7bEZniPh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/pam_2030_1.jpg",
+          "bkcode": "0010667132fe9bfd41e68",
+          "authid": "4rng7bEZniPh"
+        }
+      ]
+    },
+    {
+      "slug": "pan-iperpan-e-superpan",
+      "name": "Pan IperPan",
+      "logoId": "pan-iperpan-e-superpan",
+      "flyers": [
+        {
+          "id": 116,
+          "title": "Volantino IperPan e SuperPan",
+          "subtitle": "Sotto Freschi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d2bdbeeb9717?authid=jX3ajxIm1DWq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperpan_116_1.jpg",
+          "bkcode": "001066713d2bdbeeb9717",
+          "authid": "jX3ajxIm1DWq"
+        }
+      ]
+    },
+    {
+      "slug": "panorama",
+      "name": "Panorama",
+      "logoId": "panorama",
+      "flyers": [
+        {
+          "id": 545,
+          "title": "Volantino Panorama",
+          "subtitle": "Imperdibile Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136822aa65f261?authid=rtjfSU6dSMlu",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/panorama_545_1.jpg",
+          "bkcode": "0010667136822aa65f261",
+          "authid": "rtjfSU6dSMlu"
+        }
+      ]
+    },
+    {
+      "slug": "penny-market",
+      "name": "Penny Market",
+      "logoId": "penny-market",
+      "flyers": [
+        {
+          "id": 69,
+          "title": "Volantino Penny Market",
+          "subtitle": "Offerte Shock",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f0078de138d1?authid=GlDxvjjeayzF",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/penny_market_69_1.jpg",
+          "bkcode": "001066713f0078de138d1",
+          "authid": "GlDxvjjeayzF"
+        }
+      ]
+    },
+    {
+      "slug": "pewex",
+      "name": "Pewex (Gruppo Gros)",
+      "logoId": "pewex",
+      "flyers": [
+        {
+          "id": 10034,
+          "title": "Volantino Pewex",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10034.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10034&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "picard",
+      "name": "Picard Surgelati",
+      "logoId": "picard",
+      "flyers": [
+        {
+          "id": 209,
+          "title": "Volantino Picard",
+          "subtitle": "Ottobre 2026",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d84ac6aefea0?authid=RXZLFA6u6VVr",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/picard_209_0.jpg",
+          "bkcode": "001066713d84ac6aefea0",
+          "authid": "RXZLFA6u6VVr"
+        }
+      ]
+    },
+    {
+      "slug": "pim",
+      "name": "Pim (Gruppo Gros)",
+      "logoId": "pim",
+      "flyers": [
+        {
+          "id": 10009,
+          "title": "Volantino Pim",
+          "subtitle": "Dal 23 Ottobre al 2 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10009.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10009&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-02T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "pi%C3%B9me",
+      "name": "PiùMe",
+      "logoId": "pi%C3%B9me",
+      "flyers": [
+        {
+          "id": 576,
+          "title": "Volantino Ipersoap",
+          "subtitle": "I Nuovi Colori Della Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b429c6e0f52c?authid=aT1rDFhJkw24",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/ipersoap_576.jpg",
+          "bkcode": "001066713b429c6e0f52c",
+          "authid": "aT1rDFhJkw24"
+        }
+      ]
+    },
+    {
+      "slug": "prenatal",
+      "name": "Prénatal",
+      "logoId": "prenatal",
+      "flyers": [
+        {
+          "id": 9821,
+          "title": "Volantino Prénatal - Infanzia & Mamma",
+          "subtitle": "Abbigliamento e Cura per Neonati e Bambini",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260829010332-cover-0829202652949576337282-82-340x473.webp",
+          "directUrl": "https://www.promozioni24.it/infanzia/prenatal/prenatal-back-to-school-20-8-21-9-2026",
+          "from": "2026-08-20T00:00:00+02:00",
+          "to": "2026-10-25T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/08/promozioni24-20260829010332-cover-0829202652949576337282-82.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202626504971149521-66.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202656465089841308-97.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202669556712321988-95.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202638941463525633-36.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202617124295180817-33.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202617991719368586-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202683955075467252-66.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202653461439157905-70.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202638244893922364-48.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202610572229499182-51.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202662266785564134-16.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202647530854936193-92.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202615154487598909-59.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202610576971598789-75.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202688736156222146-70.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202631007016740592-91.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202626686379013626-52.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202655509692777658-17.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/08/0829202621556117609947-21.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prix",
+      "name": "Prix Quality",
+      "logoId": "prix",
+      "flyers": [
+        {
+          "id": 526,
+          "title": "Volantino Prix",
+          "subtitle": "Tanti Prodotti A 0,99€",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671371506c342be6?authid=7N4C8pE7TSdc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/prix_526_2.jpg",
+          "bkcode": "00106671371506c342be6",
+          "authid": "7N4C8pE7TSdc"
+        }
+      ]
+    },
+    {
+      "slug": "risparmiocasa",
+      "name": "Risparmio Casa",
+      "logoId": "risparmiocasa",
+      "flyers": [
+        {
+          "id": 606,
+          "title": "Volantino Risparmiocasa",
+          "subtitle": "Prezzi Bassi, sempre!",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d7b0697d60f5?authid=8JrMfjHgQzdJ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/risparmiocasa_606.jpg",
+          "bkcode": "001066713d7b0697d60f5",
+          "authid": "8JrMfjHgQzdJ"
+        }
+      ]
+    },
+    {
+      "slug": "sacoph",
+      "name": "Sacoph (Gruppo Gros)",
+      "logoId": "sacoph",
+      "flyers": [
+        {
+          "id": 10038,
+          "title": "Volantino Sacoph",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10038.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10038&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "ma",
+      "name": "Supermercati MA (Gruppo Gros)",
+      "logoId": "ma",
+      "flyers": [
+        {
+          "id": 303,
+          "title": "Volantino Supermercati MA",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_303.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=303&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "tigota",
+      "name": "Tigotà",
+      "logoId": "tigota",
+      "flyers": [
+        {
+          "id": 580,
+          "title": "Volantino Tigotà",
+          "subtitle": "Ottobre 2026",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713102d4370eda2?authid=lDASjv9br1aL",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigot_580.jpg",
+          "bkcode": "001066713102d4370eda2",
+          "authid": "lDASjv9br1aL"
+        }
+      ]
+    },
+    {
+      "slug": "tigre",
+      "name": "Tigre",
+      "logoId": "tigre",
+      "flyers": [
+        {
+          "id": 548,
+          "title": "Volantino Tigre",
+          "subtitle": "Prezzi Imbattibili",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130d6d974cd15d?authid=nN9DhgKuL8Iy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigre_548_2.jpg",
+          "bkcode": "0010667130d6d974cd15d",
+          "authid": "nN9DhgKuL8Iy"
+        },
+        {
+          "id": 549,
+          "title": "Volantino Tigre Amico",
+          "subtitle": "Prezzi Super",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132ac61f71cc48?authid=1aRhMs5uEUbM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigre_549.jpg",
+          "bkcode": "0010667132ac61f71cc48",
+          "authid": "1aRhMs5uEUbM"
+        }
+      ]
+    },
+    {
+      "slug": "tigros",
+      "name": "Tigros",
+      "logoId": "tigros",
+      "flyers": [
+        {
+          "id": 2367,
+          "title": "Catalogo Speciale tigros",
+          "subtitle": "PREZZI SPECIALI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bd73993931e3?authid=7YKarU25Js6L",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_2367_0.jpg",
+          "bkcode": "001066713bd73993931e3",
+          "authid": "7YKarU25Js6L"
+        },
+        {
+          "id": 265,
+          "title": "Volantino Tigros",
+          "subtitle": "100 PRODOTTI IN 2X1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671306d4ef35e50f?authid=vWereecRHH31",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_265_0.jpg",
+          "bkcode": "00106671306d4ef35e50f",
+          "authid": "vWereecRHH31"
+        },
+        {
+          "id": 391,
+          "title": "Catalogo Tigros: Speciale",
+          "subtitle": "CASA E BELLEZZA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ff280c228612?authid=Xstw5w70yIlX",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_391.jpg",
+          "bkcode": "001066713ff280c228612",
+          "authid": "Xstw5w70yIlX"
+        }
+      ]
+    },
+    {
+      "slug": "todis",
+      "name": "Todis",
+      "logoId": "todis",
+      "flyers": [
+        {
+          "id": 2209,
+          "title": "Volantino Todis Campania",
+          "subtitle": "Buongiorno Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f139581c3d24?authid=moeMUNP00vR9",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/todis_2209_1.jpg",
+          "bkcode": "001066713f139581c3d24",
+          "authid": "moeMUNP00vR9"
+        },
+        {
+          "id": 493,
+          "title": "Volantino Todis",
+          "subtitle": "Sconti 30% 40% 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713444e06165450?authid=YC3cuFgKGX5y",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/todis_493_0.jpg",
+          "bkcode": "001066713444e06165450",
+          "authid": "YC3cuFgKGX5y"
+        }
+      ]
+    },
+    {
+      "slug": "todis",
+      "name": "Todis (Buona Spesa)",
+      "logoId": "todis",
+      "flyers": [
+        {
+          "id": 9701,
+          "title": "Volantino Todis",
+          "subtitle": "Offerte e Convenienza Todis",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0045364102121c8dfbfdb",
+          "fallbackCoverUrl": "https://p.calameoassets.com/0045364102121c8dfbfdb/p1.large.jpg",
+          "bkcode": "0045364102121c8dfbfdb",
+          "from": "2026-10-15T00:00:00+02:00",
+          "to": "2026-10-28T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "top",
+      "name": "TOP Supermercati (Gruppo Gros)",
+      "logoId": "top",
+      "flyers": [
+        {
+          "id": 10040,
+          "title": "Volantino TOP Supermercati",
+          "subtitle": "Dal 23 Ottobre al 3 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10040.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10040&tmpl=component",
+          "from": "2026-10-23T00:00:00+02:00",
+          "to": "2026-11-03T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "toys-center",
+      "name": "Toys Center",
+      "logoId": "toyscenter",
+      "flyers": [
+        {
+          "id": 9822,
+          "title": "Catalogo Toys Center - Giochi & Divertimento",
+          "subtitle": "Giocattoli, Giochi da Tavolo e Tempo Libero",
+          "coverUrl": "https://cdn.promozioni24.it/file/2026/06/promozioni24-20260614180748-cover-0614202618290593130507-28-340x493.webp",
+          "directUrl": "https://www.promozioni24.it/giocattoli/toyscenter/catalogo-toys-center-aria-aperta-2026-2-4-30-9-2026",
+          "from": "2026-04-01T00:00:00+02:00",
+          "to": "2026-10-31T23:59:59+02:00",
+          "pages": [
+            "https://cdn.promozioni24.it/file/2026/06/promozioni24-20260614180748-cover-0614202618290593130507-28.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202632626285535635-32.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202681563451001623-91.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202661481471983974-86.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202627917743340770-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202689746158041539-94.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202698947267740557-50.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202674599605519518-60.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202612472251155326-60.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202682260441464492-26.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202661733464232099-16.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202621533192246930-93.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202644942323481520-31.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202632169973603250-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202612805789363505-29.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202656040423229340-79.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202680013345257362-83.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202638059603907560-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202651413475159008-39.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202682959749736430-42.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202683198194626062-59.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202646788654829189-88.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202645068567825295-68.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202666622577169069-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202654254091460864-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202685245804730951-75.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202627845331471409-36.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202690607431891321-65.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202672956208753995-88.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202699056476236791-84.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202625775586400211-22.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202645635449764195-86.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202645313695715009-74.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202669437684364411-29.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202631511604655043-47.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202678955049513053-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202690152764942053-83.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202650192571701818-29.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202652461887440249-11.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202687536217930965-43.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202646840543586352-77.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202622766165582763-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202622132881366377-68.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202625718328286371-65.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202615831411499545-46.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202664841749295064-59.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202694427434196318-59.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202693607488346291-52.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202660488507388534-89.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202668088693077884-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202696212284722386-53.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202616942618936216-98.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202615273724676113-57.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202697904932467980-33.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202652416534942795-61.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202679688299490850-57.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202638725188817430-96.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202623876159316927-35.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202654708346001895-48.webp",
+            "https://it-pub.promozioni24.it/volantino/2026/06/0614202649799209990441-80.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "trony",
+      "name": "Trony",
+      "logoId": "trony",
+      "flyers": [
+        {
+          "id": 145,
+          "title": "Volantino Trony: Province di Milano, Bergamo, Brescia, Verona, Cremona, Vercelli, Alessandria, Lodi, Mantova",
+          "subtitle": "Sottocosto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ac5a9b561240?authid=Xbv0RPGjsIWO",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_145_0.jpg",
+          "bkcode": "001066713ac5a9b561240",
+          "authid": "Xbv0RPGjsIWO"
+        },
+        {
+          "id": 195,
+          "title": "Volantino Trony Sardegna",
+          "subtitle": "Sottocosto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671308ff8dfbe6f2?authid=xQIJ2BR7xAxl",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_195.jpg",
+          "bkcode": "00106671308ff8dfbe6f2",
+          "authid": "xQIJ2BR7xAxl"
+        },
+        {
+          "id": 194,
+          "title": "Volantino Trony Province Salerno, Avellino",
+          "subtitle": "Sottocosto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671383fab599f5e4?authid=t1KgKUBDRHzS",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_194_0.jpg",
+          "bkcode": "00106671383fab599f5e4",
+          "authid": "t1KgKUBDRHzS"
+        }
+      ]
+    },
+    {
+      "slug": "unes",
+      "name": "Unes",
+      "logoId": "unes",
+      "flyers": [
+        {
+          "id": 269,
+          "title": "Volantino Unes",
+          "subtitle": "1+1 Gratis",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131aa1455bbc0f?authid=cK0Vs0iU14tm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unes_269.jpg",
+          "bkcode": "0010667131aa1455bbc0f",
+          "authid": "cK0Vs0iU14tm"
+        }
+      ]
+    },
+    {
+      "slug": "unieuro",
+      "name": "Unieuro",
+      "logoId": "unieuro",
+      "flyers": [
+        {
+          "id": 400,
+          "title": "Catalogo Unieuro: Speciale Bis",
+          "subtitle": "Asciugatura",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d790ffe837fa?authid=hJZYpPPdJqAT",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_400_1.jpg",
+          "bkcode": "001066713d790ffe837fa",
+          "authid": "hJZYpPPdJqAT"
+        },
+        {
+          "id": 399,
+          "title": "Catalogo Unieuro Speciale",
+          "subtitle": "Congelazione",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713cf324e54eb38?authid=kq39NySRJMZq",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_399_0.jpg",
+          "bkcode": "001066713cf324e54eb38",
+          "authid": "kq39NySRJMZq"
+        },
+        {
+          "id": 351,
+          "title": "Volantino Unieuro: Speciale Ter",
+          "subtitle": "Piccoli Elettrodomestici",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136c58aff3df43?authid=RIO3tRdWgNqb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_351.jpg",
+          "bkcode": "0010667136c58aff3df43",
+          "authid": "RIO3tRdWgNqb"
+        },
+        {
+          "id": 143,
+          "title": "Volantino Unieuro: Speciale",
+          "subtitle": "Chromebook",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ab310da978eb?authid=NzvG2K0qVa0x",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_143_1.jpg",
+          "bkcode": "001066713ab310da978eb",
+          "authid": "NzvG2K0qVa0x"
+        },
+        {
+          "id": 147,
+          "title": "Volantino Unieuro",
+          "subtitle": "Più Gusto Alle Tue Passioni",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713840504de54b1?authid=Xt0gWYBfosdu",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_147_0.jpg",
+          "bkcode": "001066713840504de54b1",
+          "authid": "Xt0gWYBfosdu"
+        }
+      ]
+    },
+    {
+      "slug": "vobis",
+      "name": "Vobis",
+      "logoId": "vobis",
+      "flyers": [
+        {
+          "id": 222,
+          "title": "Volantino Vobis",
+          "subtitle": "Ottobre Novembre 2026",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139bd98a7dc4e1?authid=jjKQzQifJuKm",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/vobis_222.jpg",
+          "bkcode": "0010667139bd98a7dc4e1",
+          "authid": "jjKQzQifJuKm"
+        }
+      ]
+    }
+  ]
+}
