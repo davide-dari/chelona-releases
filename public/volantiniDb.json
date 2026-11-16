@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:45:54.435Z",
+  "updatedAt": "2026-11-16T16:56:17.150Z",
   "source": "CentroVolantini + Calaméo + CeDiGros + Orizzonte + SuperElite + Todis + Acqua & Sapone + La Saponeria + Satur + Kasanova + Happy Casa + Crai + Caddy's + Ekom + Bottega Verde + Bricocenter + Brico OK + OBI + Arcaplanet + Prénatal + Toys Center + Conforama",
   "chains": [
     {
@@ -10,20 +10,29 @@
         {
           "id": 517,
           "title": "Volantino A&O Lombardia",
-          "subtitle": "SOTTOCOSTO + SOTTOPREZZO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713343ad2b8b160?authid=cXdQB46nPb8u",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_517_1.jpg",
-          "bkcode": "001066713343ad2b8b160",
-          "authid": "cXdQB46nPb8u"
+          "subtitle": "SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134b804447c4c6?authid=t7Jb3Z5YisTR",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_517.jpg",
+          "bkcode": "0010667134b804447c4c6",
+          "authid": "t7Jb3Z5YisTR"
         },
         {
           "id": 176,
           "title": "Volantino Super A&O Emilia Romagna e Marche",
-          "subtitle": "SOTTOCOSTO + SOTTOPREZZO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713504e5fc13d6c?authid=iFGR8OloOXQo",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_176_1.jpg",
-          "bkcode": "001066713504e5fc13d6c",
-          "authid": "iFGR8OloOXQo"
+          "subtitle": "SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139ee2c41a5269?authid=3Khk8CDjJQoy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_176_0.jpg",
+          "bkcode": "0010667139ee2c41a5269",
+          "authid": "3Khk8CDjJQoy"
+        },
+        {
+          "id": 2217,
+          "title": "Volantino A&O Speciale",
+          "subtitle": "PRODOTTI SPONSOR - 1° Parte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713796553de38e1?authid=VqrZOa1KbhDc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/a_o_2217.jpg",
+          "bkcode": "001066713796553de38e1",
+          "authid": "VqrZOa1KbhDc"
         }
       ]
     },
@@ -39,17 +48,17 @@
           "coverUrl": "https://www.calameo.com/books/social/cover/004536410453f616eece1",
           "fallbackCoverUrl": "https://p.calameoassets.com/004536410453f616eece1/p1.large.jpg",
           "bkcode": "004536410453f616eece1",
-          "from": "2026-11-08T16:56:10.021Z",
-          "to": "2026-11-22T16:56:10.021Z"
+          "from": "2026-11-16T16:52:34.932Z",
+          "to": "2026-11-30T16:52:34.932Z"
         },
         {
           "id": 340,
           "title": "Volantino Acqua e Sapone: Sicilia",
-          "subtitle": "Profumi D'Autunno",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b93b8f90ec0a?authid=uIDdEPNBYOOp",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/acqua_e_sapone_340_0.jpg",
-          "bkcode": "001066713b93b8f90ec0a",
-          "authid": "uIDdEPNBYOOp"
+          "subtitle": "Black Week",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d3587d06403d?authid=T8zCHIMKzCOo",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/acqua_e_sapone_340.jpg",
+          "bkcode": "001066713d3587d06403d",
+          "authid": "T8zCHIMKzCOo"
         },
         {
           "id": 1923,
@@ -68,22 +77,22 @@
       "logoId": "aldi",
       "flyers": [
         {
+          "id": 2213,
+          "title": "Volantino Aldi",
+          "subtitle": "La Nostra Migliore Pubblicità E' il Prezzo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671353f0ebeb5b96?authid=PycfJwazIY11",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2213_2.jpg",
+          "bkcode": "00106671353f0ebeb5b96",
+          "authid": "PycfJwazIY11"
+        },
+        {
           "id": 2328,
           "title": "Volantino Aldi: Anteprima",
           "subtitle": "La Nostra Migliore Pubblicità E' il Prezzo",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132ded745ed4e8?authid=rldY179nmxzD",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2328_3.jpg",
-          "bkcode": "0010667132ded745ed4e8",
-          "authid": "rldY179nmxzD"
-        },
-        {
-          "id": 2213,
-          "title": "Volantino Aldi",
-          "subtitle": "Prezzi Bassi Ogni Giorno",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a8c5b47f917f?authid=Tqv9JryqzkLN",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2213_2.jpg",
-          "bkcode": "001066713a8c5b47f917f",
-          "authid": "Tqv9JryqzkLN"
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138b84f5c6a2d8?authid=8vHd6NY2K22g",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aldi_it_2328_2.jpg",
+          "bkcode": "0010667138b84f5c6a2d8",
+          "authid": "8vHd6NY2K22g"
         }
       ]
     },
@@ -96,19 +105,28 @@
           "id": 389,
           "title": "Catalogo Aliper",
           "subtitle": "Sconto fedeltà",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671398c1d66512b6?authid=V0vL6om6fglQ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_389_0.jpg",
-          "bkcode": "00106671398c1d66512b6",
-          "authid": "V0vL6om6fglQ"
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131fd3d32d560a?authid=k0d6xi2aasRn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_389.jpg",
+          "bkcode": "0010667131fd3d32d560a",
+          "authid": "k0d6xi2aasRn"
+        },
+        {
+          "id": 405,
+          "title": "Volantino Aliper",
+          "subtitle": "La Spesa Felice",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133296b010a8e5?authid=KGKmXBR2DlDb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_405.jpg",
+          "bkcode": "0010667133296b010a8e5",
+          "authid": "KGKmXBR2DlDb"
         },
         {
           "id": 387,
           "title": "Volantino Ali e Aliper",
-          "subtitle": "10€ Di Buono Sconto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e2a25a339e0f?authid=zrWwMeBVtYBb",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_387_0.jpg",
-          "bkcode": "001066713e2a25a339e0f",
-          "authid": "zrWwMeBVtYBb"
+          "subtitle": "Sconto 30%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bf42820c8618?authid=icbwKZCwS56b",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/aliper_387.jpg",
+          "bkcode": "001066713bf42820c8618",
+          "authid": "icbwKZCwS56b"
         }
       ]
     },
@@ -129,20 +147,20 @@
         {
           "id": 588,
           "title": "Volantino Basko",
-          "subtitle": "Black Week",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137e2804c3c99f?authid=4G35xowH7bJp",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_588.jpg",
-          "bkcode": "0010667137e2804c3c99f",
-          "authid": "4G35xowH7bJp"
+          "subtitle": "Black Week - episodio 2",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131339990ad17b?authid=LsDGrsUr7LoZ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_588_0.jpg",
+          "bkcode": "0010667131339990ad17b",
+          "authid": "LsDGrsUr7LoZ"
         },
         {
-          "id": 2357,
-          "title": "Volantino Basko Speciale Bis",
-          "subtitle": "Localismo Genova",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671326ee639d86b6?authid=tlMzc5TDf0eC",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_2357_0.jpg",
-          "bkcode": "00106671326ee639d86b6",
-          "authid": "tlMzc5TDf0eC"
+          "id": 2208,
+          "title": "Volantino Basko Bis",
+          "subtitle": "Aspettando il Natale",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671300fbe3325e34?authid=bo5JzoIA36o5",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/basko_2208_0.jpg",
+          "bkcode": "00106671300fbe3325e34",
+          "authid": "bo5JzoIA36o5"
         }
       ]
     },
@@ -172,11 +190,11 @@
         {
           "id": 100,
           "title": "Volantino Bennet Bis",
-          "subtitle": "Cioccolato Che Bonta'!",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ba8b605861a8?authid=gacqBbwvdBIQ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bennet_100_1.jpg",
-          "bkcode": "001066713ba8b605861a8",
-          "authid": "gacqBbwvdBIQ"
+          "subtitle": "Black Week",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136a54f50a657e?authid=8mT8vTl49iYp",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/bennet_100.jpg",
+          "bkcode": "0010667136a54f50a657e",
+          "authid": "8mT8vTl49iYp"
         },
         {
           "id": 101,
@@ -270,6 +288,15 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_329_0.jpg",
           "bkcode": "001066713e65f77c88228",
           "authid": "hRFjQA58oQDh"
+        },
+        {
+          "id": 330,
+          "title": "Volantino Brico Io Bis",
+          "subtitle": "Speciale Samsung",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132dd47a983c9f?authid=CqfxgfGBLM3e",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/brico_io_330.jpg",
+          "bkcode": "0010667132dd47a983c9f",
+          "authid": "CqfxgfGBLM3e"
         }
       ]
     },
@@ -395,6 +422,24 @@
       "logoId": "carrefour",
       "flyers": [
         {
+          "id": 54,
+          "title": "Volantino Carrefour",
+          "subtitle": "Prezzi da black friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671310244ccbba73?authid=VZ6la0XQLgRX",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_54_2.jpg",
+          "bkcode": "00106671310244ccbba73",
+          "authid": "VZ6la0XQLgRX"
+        },
+        {
+          "id": 538,
+          "title": "Volantino Carrefour: Speciale",
+          "subtitle": "Catalogo idee regalo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d9588bad8939?authid=mPAg8lQWljpZ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_538_0.jpg",
+          "bkcode": "001066713d9588bad8939",
+          "authid": "mPAg8lQWljpZ"
+        },
+        {
           "id": 1939,
           "title": "Volantino Carrefour Speciale Bis",
           "subtitle": "Catalogo Bellezza",
@@ -402,15 +447,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1939_1.jpg",
           "bkcode": "001066713bdb2b1eb97fa",
           "authid": "mwmx6ux95jlU"
-        },
-        {
-          "id": 1986,
-          "title": "Volantino Carrefour Speciale Ter",
-          "subtitle": "Speciale casa",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d5e9cb278022?authid=HlZ1HoMSl092",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_1986_1.jpg",
-          "bkcode": "001066713d5e9cb278022",
-          "authid": "HlZ1HoMSl092"
         },
         {
           "id": 44,
@@ -443,10 +479,10 @@
           "id": 2307,
           "title": "Catalogo Carrefour Iper: Speciale Bis",
           "subtitle": "Punti Sprint Payback",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671349baa6acabbe?authid=W3DX033MN6Eu",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2307_0.jpg",
-          "bkcode": "00106671349baa6acabbe",
-          "authid": "W3DX033MN6Eu"
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671314052c443358?authid=mG5pERbk3dyB",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2307.jpg",
+          "bkcode": "00106671314052c443358",
+          "authid": "mG5pERbk3dyB"
         },
         {
           "id": 2358,
@@ -458,13 +494,31 @@
           "authid": "TZr13fFgQkEC"
         },
         {
+          "id": 2306,
+          "title": "Volantino Carrefour Iper  Speciale",
+          "subtitle": "Speciale detersivi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139c2e704b5f8b?authid=5AmsPD5h5uKW",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2306_0.jpg",
+          "bkcode": "0010667139c2e704b5f8b",
+          "authid": "5AmsPD5h5uKW"
+        },
+        {
+          "id": 53,
+          "title": "Volantino Carrefour Market",
+          "subtitle": "Prezzi da black friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671372f9555634d0?authid=Lic6nq1awtfj",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_53.jpg",
+          "bkcode": "00106671372f9555634d0",
+          "authid": "Lic6nq1awtfj"
+        },
+        {
           "id": 2338,
           "title": "Catalogo Carrefour Market Speciale",
           "subtitle": "Punti Sprint Payback",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713459ed588b033?authid=OxXGu5qzjWMS",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2338_1.jpg",
-          "bkcode": "001066713459ed588b033",
-          "authid": "OxXGu5qzjWMS"
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bc54e491725a?authid=5JqMl1YMuQpY",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2338_0.jpg",
+          "bkcode": "001066713bc54e491725a",
+          "authid": "5JqMl1YMuQpY"
         },
         {
           "id": 566,
@@ -487,47 +541,47 @@
         {
           "id": 57,
           "title": "Volantino Carrefour: Speciale",
-          "subtitle": "Catalogo vini",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dcd56de79a75?authid=wiQcyAankszn",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_57_1.jpg",
-          "bkcode": "001066713dcd56de79a75",
-          "authid": "wiQcyAankszn"
+          "subtitle": "Catalogo Vini",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134188ea1d73fe?authid=ApH842SLRy0c",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_57_0.jpg",
+          "bkcode": "0010667134188ea1d73fe",
+          "authid": "ApH842SLRy0c"
         },
         {
           "id": 2305,
           "title": "Volantino Carrefour Market Speciale Bis",
-          "subtitle": "Catalogo Vini",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671376ea450b464b?authid=lJf0BAdam0WM",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2305.jpg",
-          "bkcode": "00106671376ea450b464b",
-          "authid": "lJf0BAdam0WM"
+          "subtitle": "Speciale cura casa",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671396e386dec8ab?authid=rZJfA5tT2owz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2305_0.jpg",
+          "bkcode": "00106671396e386dec8ab",
+          "authid": "rZJfA5tT2owz"
         },
         {
           "id": 2339,
           "title": "Catalogo Carrefour Market Speciale Bis",
-          "subtitle": "Speciale Aia",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713df5c1c069ea3?authid=e5MeXbsQeRAE",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2339_1.jpg",
-          "bkcode": "001066713df5c1c069ea3",
-          "authid": "e5MeXbsQeRAE"
+          "subtitle": "Catalogo Vini",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131a5861bad44d?authid=tUxcMjkgreu8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2339.jpg",
+          "bkcode": "0010667131a5861bad44d",
+          "authid": "tUxcMjkgreu8"
         },
         {
           "id": 2337,
           "title": "Volantino Carrefour Iper Speciale Bis",
-          "subtitle": "Speciale Aia",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f8df9097612a?authid=hycoslVG4ovM",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2337_0.jpg",
-          "bkcode": "001066713f8df9097612a",
-          "authid": "hycoslVG4ovM"
+          "subtitle": "Speciale le stagioni d'Italia",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131d9f3ce08fe2?authid=uMDj1BEWpWDs",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2337.jpg",
+          "bkcode": "0010667131d9f3ce08fe2",
+          "authid": "uMDj1BEWpWDs"
         },
         {
           "id": 2362,
           "title": "Volantino Carrefour Market speciale",
-          "subtitle": "Speciale detersivi",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671347f13e871c7d?authid=0KPyk3sYDR7N",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2362_0.jpg",
-          "bkcode": "00106671347f13e871c7d",
-          "authid": "0KPyk3sYDR7N"
+          "subtitle": "Speciale le stagioni d'Italia",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671392d4f6c35176?authid=UM69k5Bq7Krv",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/carrefour_it_2362_1.jpg",
+          "bkcode": "00106671392d4f6c35176",
+          "authid": "UM69k5Bq7Krv"
         },
         {
           "id": 2027,
@@ -580,40 +634,13 @@
       "logoId": "comet",
       "flyers": [
         {
-          "id": 467,
-          "title": "Volantino Comet",
-          "subtitle": "Piccoli Elettrodomestici",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713031f836f51ce?authid=32ct0UOHX1lz",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_467_0.jpg",
-          "bkcode": "001066713031f836f51ce",
-          "authid": "32ct0UOHX1lz"
-        },
-        {
-          "id": 169,
-          "title": "Volantino Comet",
-          "subtitle": "Piccoli Elettrodomestici",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e8e6e3428a77?authid=ilOXB5zr15Ry",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_169_0.jpg",
-          "bkcode": "001066713e8e6e3428a77",
-          "authid": "ilOXB5zr15Ry"
-        },
-        {
           "id": 170,
           "title": "Volantino Comet",
-          "subtitle": "Anteprima Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671385dad92eece0?authid=joHrCOd1jcIQ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_170_1.jpg",
-          "bkcode": "00106671385dad92eece0",
-          "authid": "joHrCOd1jcIQ"
-        },
-        {
-          "id": 456,
-          "title": "Volantino Comet",
-          "subtitle": "Rowenta",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134cd198aea706?authid=4jZuZbJTcHis",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_456_0.jpg",
-          "bkcode": "0010667134cd198aea706",
-          "authid": "4jZuZbJTcHis"
+          "subtitle": "Il Black Friday Ti Conosce",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671393ead888b63b?authid=xNRT270wxB0K",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/comet_170_0.jpg",
+          "bkcode": "00106671393ead888b63b",
+          "authid": "xNRT270wxB0K"
         }
       ]
     },
@@ -625,101 +652,65 @@
         {
           "id": 1852,
           "title": "Volantino Conad Superstore Lombardia ed Emilia",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132372f18a04e9?authid=6ytus9MzyNUj",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1852_0.jpg",
-          "bkcode": "0010667132372f18a04e9",
-          "authid": "6ytus9MzyNUj"
+          "subtitle": "CONVENIENZA GRANDE",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fab98bae304c?authid=S9QezzJu2FC8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1852_1.jpg",
+          "bkcode": "001066713fab98bae304c",
+          "authid": "S9QezzJu2FC8"
         },
         {
-          "id": 344,
-          "title": "Volantino Conad Superstore: Lazio e Campania",
-          "subtitle": "Sottocosto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713868cb36a518d?authid=KAJJwADK0AVi",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_344_0.jpg",
-          "bkcode": "001066713868cb36a518d",
-          "authid": "KAJJwADK0AVi"
+          "id": 398,
+          "title": "Volantino Conad Adriatico: Abruzzo, Molise, Puglia, Marche, Basilicata",
+          "subtitle": "SUPER RISPARMIO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131263233e519e?authid=IrFNNqKG4zFo",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_398_2.jpg",
+          "bkcode": "0010667131263233e519e",
+          "authid": "IrFNNqKG4zFo"
         },
         {
           "id": 714,
           "title": "Volantino Conad Veneto, Friuli, Marche, Romagna",
-          "subtitle": "PREZZI KO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713512bcdfeb065?authid=DPVm9hegUpwW",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_714.jpg",
-          "bkcode": "001066713512bcdfeb065",
-          "authid": "DPVm9hegUpwW"
-        },
-        {
-          "id": 1836,
-          "title": "Volantino Conad Superstore Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130b578158e563?authid=VyZghZT27LZ9",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1836.jpg",
-          "bkcode": "0010667130b578158e563",
-          "authid": "VyZghZT27LZ9"
-        },
-        {
-          "id": 173,
-          "title": "Volantino Conad Superstore Tirreno: Toscana, Lazio e Sardegna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671378f048ed6d38?authid=BKTNuIM0CJA9",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_173_0.jpg",
-          "bkcode": "00106671378f048ed6d38",
-          "authid": "BKTNuIM0CJA9"
+          "subtitle": "PREZZI A FETTE",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131cfc2c48e866?authid=vwh7Z9eTYQY4",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_714_2.jpg",
+          "bkcode": "0010667131cfc2c48e866",
+          "authid": "vwh7Z9eTYQY4"
         },
         {
           "id": 715,
           "title": "Volantino Conad Sicilia",
-          "subtitle": "Sottocosto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713826b9762ae50?authid=wkZ9IrkbAd5P",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_715_0.jpg",
-          "bkcode": "001066713826b9762ae50",
-          "authid": "wkZ9IrkbAd5P"
+          "subtitle": "Convenienza Grande",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c72fd449a706?authid=2mhkG16fqPTV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_715_1.jpg",
+          "bkcode": "001066713c72fd449a706",
+          "authid": "2mhkG16fqPTV"
         },
         {
           "id": 1891,
           "title": "Volantino Spazio Conad Lazio",
-          "subtitle": "1+1",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135f5543795f10?authid=690cnbsKjfYR",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1891.jpg",
-          "bkcode": "0010667135f5543795f10",
-          "authid": "690cnbsKjfYR"
+          "subtitle": "Super Marche fino al 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134f6065656f43?authid=Yz8u3GjyRi4o",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1891_1.jpg",
+          "bkcode": "0010667134f6065656f43",
+          "authid": "Yz8u3GjyRi4o"
         },
         {
           "id": 723,
           "title": "Volantino Spazio Conad Adriatico: Puglia, Abruzzo, Molise",
-          "subtitle": "1+1",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671327660cfe9993?authid=zYfoPNJmejp1",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_723_1.jpg",
-          "bkcode": "00106671327660cfe9993",
-          "authid": "zYfoPNJmejp1"
-        },
-        {
-          "id": 174,
-          "title": "Volantino Conad Superstore Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130ed2ffbe0d63?authid=c89fTxbGDl9V",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_174.jpg",
-          "bkcode": "0010667130ed2ffbe0d63",
-          "authid": "c89fTxbGDl9V"
+          "subtitle": "SUPERMARCHE FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671327ebf48bf60a?authid=9gFAwggUFSdX",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_723_0.jpg",
+          "bkcode": "00106671327ebf48bf60a",
+          "authid": "9gFAwggUFSdX"
         },
         {
           "id": 81,
           "title": "Volantino Conad Lombardia ed Emilia",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713344cad4e6d06?authid=GVFgTP2AetFS",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_81_0.jpg",
-          "bkcode": "001066713344cad4e6d06",
-          "authid": "GVFgTP2AetFS"
-        },
-        {
-          "id": 1920,
-          "title": "Volantino Conad Margherita Nordiconad",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671300e70d5bb7f3?authid=pSXYy4tC4Cbe",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1920.jpg",
-          "bkcode": "00106671300e70d5bb7f3",
-          "authid": "pSXYy4tC4Cbe"
+          "subtitle": "SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ce6de7678bc3?authid=lf8yDA1gBZtx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_81_1.jpg",
+          "bkcode": "001066713ce6de7678bc3",
+          "authid": "lf8yDA1gBZtx"
         },
         {
           "id": 342,
@@ -740,67 +731,13 @@
           "authid": "41EPVCcKMLeg"
         },
         {
-          "id": 1943,
-          "title": "Volantino Conad Tirreno: Toscana, Lazio e Sardegna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e1efa127b67e?authid=r4gdw2DcIMFj",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_1943_2.jpg",
-          "bkcode": "001066713e1efa127b67e",
-          "authid": "r4gdw2DcIMFj"
-        },
-        {
-          "id": 2148,
-          "title": "Volantino Conad Campania",
-          "subtitle": "Sottocosto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713482ed12fe4e2?authid=qOiKVIYNdwhr",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2148.jpg",
-          "bkcode": "001066713482ed12fe4e2",
-          "authid": "qOiKVIYNdwhr"
-        },
-        {
-          "id": 713,
-          "title": "Volantino Conad Nordiconad: Piemonte, Liguria, Trentino, Valle d'Aosta, Romagna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138558cfb06337?authid=XgLt0GsxfMQi",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_713.jpg",
-          "bkcode": "0010667138558cfb06337",
-          "authid": "XgLt0GsxfMQi"
-        },
-        {
-          "id": 2144,
-          "title": "Volantino Conad Superstore Sardegna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137dd21f253a75?authid=ZYxMAct18HV7",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2144_0.jpg",
-          "bkcode": "0010667137dd21f253a75",
-          "authid": "ZYxMAct18HV7"
-        },
-        {
-          "id": 343,
-          "title": "Volantino Conad: Lazio e Campania",
-          "subtitle": "Sottocosto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dade50c5d136?authid=M1YYmRqsWYsm",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_343.jpg",
-          "bkcode": "001066713dade50c5d136",
-          "authid": "M1YYmRqsWYsm"
-        },
-        {
           "id": 82,
           "title": "Volantino Conad City Lombardia ed Emilia",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671312eec1973212?authid=b5bqREXWmM5W",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_82.jpg",
-          "bkcode": "00106671312eec1973212",
-          "authid": "b5bqREXWmM5W"
-        },
-        {
-          "id": 2149,
-          "title": "Volantino Conad Superstore Campania",
-          "subtitle": "Sottocosto",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132a45dd5f1d48?authid=Gzs81iPXTB3A",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2149.jpg",
-          "bkcode": "0010667132a45dd5f1d48",
-          "authid": "Gzs81iPXTB3A"
+          "subtitle": "TAGLIO NETTO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c433f80d02a7?authid=WKDygXdKqIXx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_82_1.jpg",
+          "bkcode": "001066713c433f80d02a7",
+          "authid": "WKDygXdKqIXx"
         },
         {
           "id": 2147,
@@ -810,24 +747,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2147.jpg",
           "bkcode": "0010667134cd14ae95501",
           "authid": "oHoGUXMhYwdV"
-        },
-        {
-          "id": 2142,
-          "title": "Volantino Conad Sardegna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b69c3e2271ce?authid=9DwB0sURFbM2",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2142_0.jpg",
-          "bkcode": "001066713b69c3e2271ce",
-          "authid": "9DwB0sURFbM2"
-        },
-        {
-          "id": 2146,
-          "title": "Volantino Conad City Sardegna",
-          "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130ec875d5a170?authid=wiUwQW0T1wrn",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/conad_2146.jpg",
-          "bkcode": "0010667130ec875d5a170",
-          "authid": "wiUwQW0T1wrn"
         }
       ]
     },
@@ -836,6 +755,24 @@
       "name": "Coop",
       "logoId": "coop",
       "flyers": [
+        {
+          "id": 2159,
+          "title": "Volantino Coop Sicilia Bis",
+          "subtitle": "Risparmi Veri",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b4043a1d1056?authid=99c5sdlDn3rV",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2159_1.jpg",
+          "bkcode": "001066713b4043a1d1056",
+          "authid": "99c5sdlDn3rV"
+        },
+        {
+          "id": 85,
+          "title": "Volantino Coop Lombardia",
+          "subtitle": "Risparmio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e3843d1f5f45?authid=73THGVuCfHeX",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_85_2.jpg",
+          "bkcode": "001066713e3843d1f5f45",
+          "authid": "73THGVuCfHeX"
+        },
         {
           "id": 95,
           "title": "Volantino IperCoop: Speciale",
@@ -864,15 +801,6 @@
           "authid": "wEHo6X6i8M2E"
         },
         {
-          "id": 2159,
-          "title": "Volantino Coop Sicilia Bis",
-          "subtitle": "30% 40% 50%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713497b6a59e6d6?authid=KK7Vr3jqP7oO",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2159_0.jpg",
-          "bkcode": "001066713497b6a59e6d6",
-          "authid": "KK7Vr3jqP7oO"
-        },
-        {
           "id": 377,
           "title": "Volantino IperCoop Speciale",
           "subtitle": "La magia sotto l'albero",
@@ -882,22 +810,13 @@
           "authid": "yE8nL7KRxhGj"
         },
         {
-          "id": 85,
-          "title": "Volantino Coop Lombardia",
-          "subtitle": "Offerte Top",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671352466fdc6eb0?authid=pT1cTmtLZI3w",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_85_1.jpg",
-          "bkcode": "00106671352466fdc6eb0",
-          "authid": "pT1cTmtLZI3w"
-        },
-        {
           "id": 2157,
           "title": "Volantino Coop Piemonte",
-          "subtitle": "Offerte Top",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135173e277e357?authid=HTk1VsH9Q0pJ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2157_1.jpg",
-          "bkcode": "0010667135173e277e357",
-          "authid": "HTk1VsH9Q0pJ"
+          "subtitle": "Risparmio",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139dc2584349a8?authid=m2ouTKdoMROX",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2157_2.jpg",
+          "bkcode": "0010667139dc2584349a8",
+          "authid": "m2ouTKdoMROX"
         },
         {
           "id": 2051,
@@ -911,11 +830,11 @@
         {
           "id": 1941,
           "title": "Volantino Ipercoop Sicilia",
-          "subtitle": "30% 40% 50%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a707a36ce660?authid=r4KkW95tSfev",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1941_0.jpg",
-          "bkcode": "001066713a707a36ce660",
-          "authid": "r4KkW95tSfev"
+          "subtitle": "Prendi 2 Paghi 1",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133591e01fcc1f?authid=ac2JzSUIuxRu",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_1941_1.jpg",
+          "bkcode": "0010667133591e01fcc1f",
+          "authid": "ac2JzSUIuxRu"
         },
         {
           "id": 1965,
@@ -970,6 +889,15 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_2048_2.jpg",
           "bkcode": "00106671386b9f1f96842",
           "authid": "x96NrMLSBjyH"
+        },
+        {
+          "id": 345,
+          "title": "Volantino Ipercoop: Speciale",
+          "subtitle": "Feste in vista",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136a1a5af6fe66?authid=hG5LDHv8looo",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_345_1.jpg",
+          "bkcode": "0010667136a1a5af6fe66",
+          "authid": "hG5LDHv8looo"
         },
         {
           "id": 89,
@@ -1035,6 +963,15 @@
           "authid": "SSDhsprinmfI"
         },
         {
+          "id": 411,
+          "title": "Volantino IperCoop Speciale Ter",
+          "subtitle": "Speciale inverno e regali",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131c6ed6ebf9d7?authid=W2nUprxdIfFd",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/coop_411_1.jpg",
+          "bkcode": "0010667131c6ed6ebf9d7",
+          "authid": "W2nUprxdIfFd"
+        },
+        {
           "id": 90,
           "title": "Volantino IperCoop Liguria",
           "subtitle": "Scegli Tu Grandi Marche",
@@ -1051,11 +988,13 @@
       "logoId": "cts",
       "flyers": [
         {
-          "id": 268,
+          "id": 10030,
           "title": "Volantino CTS Supermercati",
-          "subtitle": "Dal 4 all'11 Novembre 2026</p> <p class=\"option-font text-col1 text-center text-uppercase text-small\"><strong>24</strong> pagine</p> </div> <p><div class=\"\" style=\"background-color:rgba(245, 245, 245, 1);background-image: url('/images/hybrid/backgrounds/gros-texture-bottom-black.webp');background-size:auto;background-position:bottom left;background-repeat:repeat-x;position:relative;\"><style>.itm_img-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_img-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_img-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"text-center pv2 phone-p1\" style=\"\"><div psw-index=\"0\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559\" class=\"drop-shadow psw-trigger evt_elm\" data-lb-image=\"https://www.cedigros.com/images/covers/cover-flyer_268-20261105083312-713f80fb82.jpg?mcb=5979559\" data-event-label=\"Copertina\" style=\"width:100%;height:auto;min-height:50vh;background-position:center center;background-size:contain;background-repeat:no-repeat;position: relative;display: flex;justify-content: center;align-items: center;cursor: pointer;background-image:url('https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559');\"></div><div class=\"text-center text-extra-small PadV1x\" style=\"\"><p>Tocca l'immagine per sfogliare il volantino</p></div></div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"text-center\" style=\"\"><div style=\"display:inline-block;\"><h2 class=\"\" style=\"display:flex;align-items:center;\">Tutte le pagine</h2></div><div class=\"\"><p>Seleziona una pagina per visualizzarne un ingrandimento</p></div></div><div class=\"flex-container\"><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 0\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559\" pswp-index=\"0\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 1\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_02.jpg?mcb=5979559\" pswp-index=\"1\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 2\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_03.jpg?mcb=5979559\" pswp-index=\"2\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 3\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_04.jpg?mcb=5979559\" pswp-index=\"3\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 4\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_05.jpg?mcb=5979559\" pswp-index=\"4\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 5\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_06.jpg?mcb=5979559\" pswp-index=\"5\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 6\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_07.jpg?mcb=5979559\" pswp-index=\"6\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 7\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_08.jpg?mcb=5979559\" pswp-index=\"7\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 8\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_09.jpg?mcb=5979559\" pswp-index=\"8\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 9\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_10.jpg?mcb=5979559\" pswp-index=\"9\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 10\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_11.jpg?mcb=5979559\" pswp-index=\"10\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 11\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_12.jpg?mcb=5979559\" pswp-index=\"11\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 12\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_13.jpg?mcb=5979559\" pswp-index=\"12\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 13\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_14.jpg?mcb=5979559\" pswp-index=\"13\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 14\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_15.jpg?mcb=5979559\" pswp-index=\"14\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 15\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_16.jpg?mcb=5979559\" pswp-index=\"15\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 16\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_17.jpg?mcb=5979559\" pswp-index=\"16\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 17\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_18.jpg?mcb=5979559\" pswp-index=\"17\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 18\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_19.jpg?mcb=5979559\" pswp-index=\"18\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 19\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_20.jpg?mcb=5979559\" pswp-index=\"19\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 20\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_21.jpg?mcb=5979559\" pswp-index=\"20\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 21\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_22.jpg?mcb=5979559\" pswp-index=\"21\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 22\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_23.jpg?mcb=5979559\" pswp-index=\"22\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 23\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_24.jpg?mcb=5979559\" pswp-index=\"23\"/></div></div> </p> <script> let itmimage = jQuery('.lb-itm-image').simpleLightbox({ widthRatio:0.9, overlayOpacity:0.8, sourceAttr: 'data-lb-image', captionSelector: 'self', captionsData: 'data-lb-caption' }); </script> <div class=\"itm-pagination \" style=\"background-color:rgba(240, 240, 240, 1);position:relative;\"><style>.itm_pag-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_pag-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_pag-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"pv1\" style=\"\"><div class=\"flex-container fluid\"><div class=\"itm-prev flex-item span-6 phone-span-6 text-left ph\" style=\"\"></div><div class=\"itm-next flex-item span-6 phone-span-6 text-right ph\" style=\"\"><div class=\"flex-container fluid\" style=\"justify-content:end;align-items:center\"><div class=\"itm-next-text hide-on-phone\"><a href=\"/promozioni/cts/volantino-cts\"><span class=\"\" style=\"\">Volantino CTS</span><br/><span class=\"\">Dal 4 all'11 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_268.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=268&tmpl=component"
+          "subtitle": "Dal 13 al 22 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10030.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10030&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-22T23:59:59+02:00"
         }
       ]
     },
@@ -1065,22 +1004,31 @@
       "logoId": "deco",
       "flyers": [
         {
-          "id": 546,
-          "title": "Volantino Deco Maxistore",
-          "subtitle": "Risparmio multiplo",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671329161a82fa7d?authid=Nu2mBZciDhjH",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_546.jpg",
-          "bkcode": "00106671329161a82fa7d",
-          "authid": "Nu2mBZciDhjH"
+          "id": 547,
+          "title": "Volantino Deco",
+          "subtitle": "Lo Show Dei Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e5e7f9bebe3e?authid=1csUuljTzmsf",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_547_0.jpg",
+          "bkcode": "001066713e5e7f9bebe3e",
+          "authid": "1csUuljTzmsf"
         },
         {
-          "id": 2064,
-          "title": "Volantino Decò Sicilia",
-          "subtitle": "La qualità che conviene",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671361ba746a6b38?authid=EVyonRdqjUvt",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2064_1.jpg",
-          "bkcode": "00106671361ba746a6b38",
-          "authid": "EVyonRdqjUvt"
+          "id": 2182,
+          "title": "Volantino Deco Market",
+          "subtitle": "Lo Show Dei Prezzi",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135962542c4c66?authid=gch25vtgAbFl",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2182_0.jpg",
+          "bkcode": "0010667135962542c4c66",
+          "authid": "gch25vtgAbFl"
+        },
+        {
+          "id": 2190,
+          "title": "Volantino Deco Superfreddo",
+          "subtitle": "Offerte Sotto Zero",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713190db27dbaf9?authid=mZ3bCtlbGkUJ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/deco_2190.jpg",
+          "bkcode": "001066713190db27dbaf9",
+          "authid": "mZ3bCtlbGkUJ"
         }
       ]
     },
@@ -1090,13 +1038,13 @@
       "logoId": "dem",
       "flyers": [
         {
-          "id": 10042,
+          "id": 1308,
           "title": "Volantino Dem Supermercati",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10042.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10042&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1308.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1308&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1108,11 +1056,11 @@
         {
           "id": 697,
           "title": "Volantino Eurospar",
-          "subtitle": "DOLCI OCCASIONI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f964d57ac946?authid=pp3Z8xXH7ogT",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_697_1.jpg",
-          "bkcode": "001066713f964d57ac946",
-          "authid": "pp3Z8xXH7ogT"
+          "subtitle": "OFFERTE",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130933865c7624?authid=91egtS3xjXii",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_697_0.jpg",
+          "bkcode": "0010667130933865c7624",
+          "authid": "91egtS3xjXii"
         },
         {
           "id": 2049,
@@ -1127,10 +1075,10 @@
           "id": 134,
           "title": "Volantino Despar",
           "subtitle": "Fresche Occasioni",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137d754035d59d?authid=n0lzf8quS8N9",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_134.jpg",
-          "bkcode": "0010667137d754035d59d",
-          "authid": "n0lzf8quS8N9"
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713a515f31f9998?authid=9J7kgVYhRWY4",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/despar_134_0.jpg",
+          "bkcode": "001066713a515f31f9998",
+          "authid": "9J7kgVYhRWY4"
         },
         {
           "id": 129,
@@ -1160,11 +1108,20 @@
         {
           "id": 489,
           "title": "Volantino Dpiù",
-          "subtitle": "Sotto Costo",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b968a45d7306?authid=LltushArb8UI",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/dpi_489.jpg",
-          "bkcode": "001066713b968a45d7306",
-          "authid": "LltushArb8UI"
+          "subtitle": "Black friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671301f2251d078c?authid=VhvW1uvuYeTv",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/dpi_489_1.jpg",
+          "bkcode": "00106671301f2251d078c",
+          "authid": "VhvW1uvuYeTv"
+        },
+        {
+          "id": 2021,
+          "title": "Volantino Dpiù Speciale",
+          "subtitle": "La Tavola Delle Feste",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671343d6109e2584?authid=BigDsGyvJ4di",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/dpi_2021.jpg",
+          "bkcode": "00106671343d6109e2584",
+          "authid": "BigDsGyvJ4di"
         }
       ]
     },
@@ -1174,13 +1131,13 @@
       "logoId": "effepiu",
       "flyers": [
         {
-          "id": 10032,
+          "id": 198,
           "title": "Volantino Effepiù",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10032.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10032&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_198.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=198&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1191,74 +1148,37 @@
       "flyers": [
         {
           "id": 20101,
-          "title": "Volantino Elite - PREZZI TONDI 1€ e 2€",
-          "subtitle": "valide dal 30 Ottobre all' 11 Novembre 2026</span></div><div class=\"text-extra-small PadT1x\" style=\"color:graydark;\"><p>Seleziona la pagina che vuoi visualizzare</p></div></div><div class=\"tags text-center\"><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 1: Copertina\" pswp-index=\"0\"><span class=\"tagTitle\">Copertina</span><span class=\"tagBadge\">P 1</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 2: Offerte a 1€\" pswp-index=\"1\"><span class=\"tagTitle\">Offerte a 1€</span><span class=\"tagBadge\">P 2</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 3: Offerte a 2€\" pswp-index=\"2\"><span class=\"tagTitle\">Offerte a 2€</span><span class=\"tagBadge\">P 3</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 5: Spesa Difesa\" pswp-index=\"4\"><span class=\"tagTitle\">Spesa Difesa</span><span class=\"tagBadge\">P 5</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 6: Dispensa\" pswp-index=\"5\"><span class=\"tagTitle\">Dispensa</span><span class=\"tagBadge\">P 6</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 9: Speciale Cioccolato\" pswp-index=\"8\"><span class=\"tagTitle\">Speciale Cioccolato</span><span class=\"tagBadge\">P 9</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 10: Bevande\" pswp-index=\"9\"><span class=\"tagTitle\">Bevande</span><span class=\"tagBadge\">P 10</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 11: Igiene\" pswp-index=\"10\"><span class=\"tagTitle\">Igiene</span><span class=\"tagBadge\">P 11</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 12: Freschi\" pswp-index=\"11\"><span class=\"tagTitle\">Freschi</span><span class=\"tagBadge\">P 12</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 14: Gastronomia\" pswp-index=\"13\"><span class=\"tagTitle\">Gastronomia</span><span class=\"tagBadge\">P 14</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 13: Freschi e Surgelati\" pswp-index=\"12\"><span class=\"tagTitle\">Freschi e Surgelati</span><span class=\"tagBadge\">P 13</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 14: Gastronomia\" pswp-index=\"13\"><span class=\"tagTitle\">Gastronomia</span><span class=\"tagBadge\">P 14</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 16: Ortofrutta\" pswp-index=\"15\"><span class=\"tagTitle\">Ortofrutta</span><span class=\"tagBadge\">P 16</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 18: Macelleria e Pescheria\" pswp-index=\"17\"><span class=\"tagTitle\">Macelleria e Pescheria</span><span class=\"tagBadge\">P 18</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 20: Carta Club e Pet Food\" pswp-index=\"19\"><span class=\"tagTitle\">Carta Club e Pet Food</span><span class=\"tagBadge\">P 20</span> </a></div></div> <img psw-index=\"0\" class=\"drop-shadow-dark fx-grow mvh psw-trigger\" data-lb-image=\"https://superelite.it/images/covers/cover-flyer_20153-20261029142346-6262700052.jpg?mcb=5977728\" style=\"cursor:pointer;width:50vh;border:1px solid silver; max-width:90%;height:auto;\" src=\"https://superelite.it/media/com_myegojwt/contents/flyers/20153/20261029142346-page_01.jpg?mcb=5977728\"><div class=\"p1 text-center\"><a target=\"_blank\" href=\"https://superelite.it/index.php?option=com_myegojwt&view=flyer&id=20153&pdf=1&Itemid=0\" class=\"option-font-bold fx-grow\"><span class=\"icontext\" style=\"display:inline-grid;grid-auto-flow:column;align-items:center;justify-content:center;column-gap:0.1em;\"><span class=\"icontext-icon\" role=\"presentation\" style=\"display:inline-flex;align-items:center;justify-content:center;\"><img src=\"/images/iconpacks/default/icon-pdf.svg\" style=\"height:1.1em;width:auto;vertical-align:middle;\"></span><span class=\"icontext-text hide-on-phone\" aria-label=\"Scarica in PDF\">Scarica in PDF</span></span></a></div></div><style>.itm_img-bottom-divider {display: block;position:relative;;;width: 100%;height: 66px;-webkit-transform:scale(1,-1);-ms-transform:scale(1,-1);transform:scale(1,-1)}body.isPhone .itm_img-bottom-divider {height: 30px;}.itm_img-bottom-divider .shape-divider {height:100%;width:100%;fill:rgba(255, 255, 255, 1)}.itm_img-bottom-divider .shape-divider-1 {height:100%;width:100%;fill:rgba(3, 3, 3, 0.16)}</style><!-- DIVIDER bottom --><div class=\"itm_img-bottom-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 101600 25400\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"none\"> <defs> <style type=\"text/css\"> <![CDATA[ .shape-container {fill:none} .shape-shadow {fill:black;fill-opacity:0.100000} ]]> </style> </defs> <g id=\"Livello_x0020_1\"> <rect class=\"shape-container\" y=\"0\" width=\"101600\" height=\"25399.9\"/> <polygon class=\"shape-shadow\" points=\"101600,0.1 -0,0.1 50800,25400 \"/> <polygon class=\"shape-divider\" points=\"101600,0.1 -0,0.1 50800,23706.6 \"/> </g> </svg> </div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"\" style=\"position:relative;\"><div class=\"container PadB1x phone-PadH1x\" style=\"\"><div class=\"text-center display2x phone-display1x cdv-display1x cdv-PadH1x cdv-display1x\" style=\"\"><h1 class=\"option-font-bold text-extra-compact \" style=\"\">PREZZI TONDI 1€ e 2€</h1></div><div class=\"text-center option-font text-compact display2x phone-display1x cdv-display1x text-red PadTHalf cdv-PadHHalf\" style=\"\">Offerte valide dal 30 Ottobre all' 11 Novembre 2026",
-          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20153/20261029142346-page_01.jpg?mcb=5977728",
-          "directUrl": "https://www.superelite.it/promozioni/prezzi-tondi-1eur-e-2eur-2"
+          "title": "Volantino Elite - Sconti fino al 50%",
+          "subtitle": "dal 13 al 25 Novembre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20201/20261112120214-page_01.jpg?mcb=5981748",
+          "directUrl": "https://www.superelite.it/promozioni/sconti-fino-al-52",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-25T23:59:59+02:00"
         },
         {
           "id": 20102,
-          "title": "Volantino Elite - PREZZI TONDI 1€ e 2€",
-          "subtitle": "valide dal 30 Ottobre al 12 Novembre 2026",
-          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20154/20261029142315-page_01.jpg?mcb=5977728",
-          "directUrl": "https://www.superelite.it/promozioni/grandi-marche-al-costo-2",
-          "from": "2026-10-30T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "title": "Volantino Elite - Sconti fino al 50%",
+          "subtitle": "dal 13 al 26 Novembre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20202/20261112120718-page_01.jpg?mcb=5981748",
+          "directUrl": "https://www.superelite.it/promozioni/sconti-fino-al-53",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-26T23:59:59+02:00"
         },
         {
           "id": 20103,
-          "title": "Volantino Elite - Sottoprezzo Extra Promo",
-          "subtitle": "valide dal 5 all'11 Novembre 2026</span></div><div class=\"text-extra-small PadT1x\" style=\"color:graydark;\"><p>Seleziona la pagina che vuoi visualizzare</p></div></div><div class=\"tags text-center\"><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 1: Copertina\" pswp-index=\"0\"><span class=\"tagTitle\">Copertina</span><span class=\"tagBadge\">P 1</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 2: 1 lo paghi e 1 è gratis\" pswp-index=\"1\"><span class=\"tagTitle\">1 lo paghi e 1 è gratis</span><span class=\"tagBadge\">P 2</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 4: Dispensa\" pswp-index=\"3\"><span class=\"tagTitle\">Dispensa</span><span class=\"tagBadge\">P 4</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 8: Bevande\" pswp-index=\"7\"><span class=\"tagTitle\">Bevande</span><span class=\"tagBadge\">P 8</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 9: Igiene\" pswp-index=\"8\"><span class=\"tagTitle\">Igiene</span><span class=\"tagBadge\">P 9</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 10: Spesa Difesa\" pswp-index=\"9\"><span class=\"tagTitle\">Spesa Difesa</span><span class=\"tagBadge\">P 10</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 11: Freschi\" pswp-index=\"10\"><span class=\"tagTitle\">Freschi</span><span class=\"tagBadge\">P 11</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 12: Freschi e Surgelati\" pswp-index=\"11\"><span class=\"tagTitle\">Freschi e Surgelati</span><span class=\"tagBadge\">P 12</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 14: Gastronomia\" pswp-index=\"13\"><span class=\"tagTitle\">Gastronomia</span><span class=\"tagBadge\">P 14</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 16: Ortofrutta\" pswp-index=\"15\"><span class=\"tagTitle\">Ortofrutta</span><span class=\"tagBadge\">P 16</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 18: Macelleria e Pescheria\" pswp-index=\"17\"><span class=\"tagTitle\">Macelleria e Pescheria</span><span class=\"tagBadge\">P 18</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 20: Carta Club e Pet Food\" pswp-index=\"19\"><span class=\"tagTitle\">Carta Club e Pet Food</span><span class=\"tagBadge\">P 20</span> </a></div></div> <img psw-index=\"0\" class=\"drop-shadow-dark fx-grow mvh psw-trigger\" data-lb-image=\"https://www.superelite.it/images/covers/cover-flyer_20212-20261104134601-7895b7762e.jpg?mcb=5979322\" style=\"cursor:pointer;width:50vh;border:1px solid silver; max-width:90%;height:auto;\" src=\"https://www.superelite.it/media/com_myegojwt/contents/flyers/20212/20261104134601-page_01.png?mcb=5979322\"><div class=\"p1 text-center\"><a target=\"_blank\" href=\"https://www.superelite.it/index.php?option=com_myegojwt&view=flyer&id=20212&pdf=1&Itemid=0\" class=\"option-font-bold fx-grow\"><span class=\"icontext\" style=\"display:inline-grid;grid-auto-flow:column;align-items:center;justify-content:center;column-gap:0.1em;\"><span class=\"icontext-icon\" role=\"presentation\" style=\"display:inline-flex;align-items:center;justify-content:center;\"><img src=\"/images/iconpacks/default/icon-pdf.svg\" style=\"height:1.1em;width:auto;vertical-align:middle;\"></span><span class=\"icontext-text hide-on-phone\" aria-label=\"Scarica in PDF\">Scarica in PDF</span></span></a></div></div><style>.itm_img-bottom-divider {display: block;position:relative;;;width: 100%;height: 66px;-webkit-transform:scale(1,-1);-ms-transform:scale(1,-1);transform:scale(1,-1)}body.isPhone .itm_img-bottom-divider {height: 30px;}.itm_img-bottom-divider .shape-divider {height:100%;width:100%;fill:rgba(255, 255, 255, 1)}.itm_img-bottom-divider .shape-divider-1 {height:100%;width:100%;fill:rgba(3, 3, 3, 0.16)}</style><!-- DIVIDER bottom --><div class=\"itm_img-bottom-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 101600 25400\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"none\"> <defs> <style type=\"text/css\"> <![CDATA[ .shape-container {fill:none} .shape-shadow {fill:black;fill-opacity:0.100000} ]]> </style> </defs> <g id=\"Livello_x0020_1\"> <rect class=\"shape-container\" y=\"0\" width=\"101600\" height=\"25399.9\"/> <polygon class=\"shape-shadow\" points=\"101600,0.1 -0,0.1 50800,25400 \"/> <polygon class=\"shape-divider\" points=\"101600,0.1 -0,0.1 50800,23706.6 \"/> </g> </svg> </div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"\" style=\"position:relative;\"><div class=\"container PadB1x phone-PadH1x\" style=\"\"><div class=\"text-center display2x phone-display1x cdv-display1x cdv-PadH1x cdv-display1x\" style=\"\"><h1 class=\"option-font-bold text-extra-compact \" style=\"\">Sottoprezzo Extra Promo</h1></div><div class=\"text-center option-font text-compact display2x phone-display1x cdv-display1x text-red PadTHalf cdv-PadHHalf\" style=\"\">Offerte valide dal 5 all'11 Novembre 2026",
-          "coverUrl": "https://www.superelite.it/media/com_myegojwt/contents/flyers/20212/20261104134601-page_01.png?mcb=5979322",
-          "directUrl": "https://www.superelite.it/promozioni/sottoprezzo-lariano"
+          "title": "Volantino Elite - Super Risparmio",
+          "subtitle": "Dal 20 al 25 Novembre 2026",
+          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20151/20261112121335-page_01.jpg?mcb=5981748",
+          "directUrl": "https://www.superelite.it/promozioni/super-risparmio",
+          "from": "2026-11-20T00:00:00+02:00",
+          "to": "2026-11-25T23:59:59+02:00"
         },
         {
           "id": 20104,
-          "title": "Volantino Elite - Novembre Conveniente",
-          "subtitle": "Dal 6 all' 11 Novembre 2026</span></div><div class=\"text-extra-small PadT1x\" style=\"color:graydark;\"><p>Seleziona la pagina che vuoi visualizzare</p></div></div><div class=\"tags text-center\"><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 1: Copertina\" pswp-index=\"0\"><span class=\"tagTitle\">Copertina</span><span class=\"tagBadge\">P 1</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 2: Freschi\" pswp-index=\"1\"><span class=\"tagTitle\">Freschi</span><span class=\"tagBadge\">P 2</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 4: Surgelati\" pswp-index=\"3\"><span class=\"tagTitle\">Surgelati</span><span class=\"tagBadge\">P 4</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 5: Gastronomia\" pswp-index=\"4\"><span class=\"tagTitle\">Gastronomia</span><span class=\"tagBadge\">P 5</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 7: Macelleria e Ortofrutta\" pswp-index=\"6\"><span class=\"tagTitle\">Macelleria e Ortofrutta</span><span class=\"tagBadge\">P 7</span> </a><a class=\"tag psw-trigger evt_elm\" style=\"cursor:pointer\" data-event-label=\"Sommario: Pag 8: Indirizzi\" pswp-index=\"7\"><span class=\"tagTitle\">Indirizzi</span><span class=\"tagBadge\">P 8</span> </a></div></div> <img psw-index=\"0\" class=\"drop-shadow-dark fx-grow mvh psw-trigger\" data-lb-image=\"https://superelite.it/images/covers/cover-flyer_20122-20261029145409-fc847f5cae.jpg?mcb=5977728\" style=\"cursor:pointer;width:50vh;border:1px solid silver; max-width:90%;height:auto;\" src=\"https://superelite.it/media/com_myegojwt/contents/flyers/20122/20261029145409-page_01.jpg?mcb=5977728\"><div class=\"p1 text-center\"><a target=\"_blank\" href=\"https://superelite.it/index.php?option=com_myegojwt&view=flyer&id=20122&pdf=1&Itemid=0\" class=\"option-font-bold fx-grow\"><span class=\"icontext\" style=\"display:inline-grid;grid-auto-flow:column;align-items:center;justify-content:center;column-gap:0.1em;\"><span class=\"icontext-icon\" role=\"presentation\" style=\"display:inline-flex;align-items:center;justify-content:center;\"><img src=\"/images/iconpacks/default/icon-pdf.svg\" style=\"height:1.1em;width:auto;vertical-align:middle;\"></span><span class=\"icontext-text hide-on-phone\" aria-label=\"Scarica in PDF\">Scarica in PDF</span></span></a></div></div><style>.itm_img-bottom-divider {display: block;position:relative;;;width: 100%;height: 66px;-webkit-transform:scale(1,-1);-ms-transform:scale(1,-1);transform:scale(1,-1)}body.isPhone .itm_img-bottom-divider {height: 30px;}.itm_img-bottom-divider .shape-divider {height:100%;width:100%;fill:rgba(255, 255, 255, 1)}.itm_img-bottom-divider .shape-divider-1 {height:100%;width:100%;fill:rgba(3, 3, 3, 0.16)}</style><!-- DIVIDER bottom --><div class=\"itm_img-bottom-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 101600 25400\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"none\"> <defs> <style type=\"text/css\"> <![CDATA[ .shape-container {fill:none} .shape-shadow {fill:black;fill-opacity:0.100000} ]]> </style> </defs> <g id=\"Livello_x0020_1\"> <rect class=\"shape-container\" y=\"0\" width=\"101600\" height=\"25399.9\"/> <polygon class=\"shape-shadow\" points=\"101600,0.1 -0,0.1 50800,25400 \"/> <polygon class=\"shape-divider\" points=\"101600,0.1 -0,0.1 50800,23706.6 \"/> </g> </svg> </div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"\" style=\"position:relative;\"><div class=\"container PadB1x phone-PadH1x\" style=\"\"><div class=\"text-center display2x phone-display1x cdv-display1x cdv-PadH1x cdv-display1x\" style=\"\"><h1 class=\"option-font-bold text-extra-compact \" style=\"\">Novembre Conveniente</h1></div><div class=\"text-center option-font text-compact display2x phone-display1x cdv-display1x text-red PadTHalf cdv-PadHHalf\" style=\"\">Dal 6 all' 11 Novembre 2026",
-          "coverUrl": "https://superelite.it/media/com_myegojwt/contents/flyers/20122/20261029145409-page_01.jpg?mcb=5977728",
-          "directUrl": "https://www.superelite.it/promozioni/novembre-conveniente-2"
-        },
-        {
-          "id": 20105,
           "title": "Volantino Elite - Spesa Difesa Selex - Prezzi Bloccati - Settembre",
           "subtitle": "dal 01/09/26 al 31/12/26",
           "coverUrl": "https://www.superelite.it/media/com_myegojwt/contents/flyers/2538/202608191527-page_01.jpg?mcb=5965513",
           "directUrl": "https://www.superelite.it/promozioni/spesa-difesa-selex-prezzi-bloccati-gennaio"
-        },
-        {
-          "id": 20106,
-          "title": "Volantino Elite - Tutti in Campo - Grande Raccolta Fila - Ultima puntata",
-          "subtitle": "Dal 26 Ottobre al 15 Novembre 2026",
-          "coverUrl": "https://www.superelite.it/media/com_myegojwt/contents/flyers/20206/20261022145859-page_01.jpg?mcb=5976577",
-          "directUrl": "https://www.superelite.it/promozioni/tutti-in-campo-grande-raccolta-fila-ultima-puntata-2",
-          "from": "2026-10-26T00:00:00+02:00",
-          "to": "2026-11-15T23:59:59+02:00"
-        }
-      ]
-    },
-    {
-      "slug": "emisfero-ipermercati",
-      "name": "Emisfero Ipermercati",
-      "logoId": "emisfero-ipermercati",
-      "flyers": [
-        {
-          "id": 293,
-          "title": "Volantino Emisfero Bis",
-          "subtitle": "Amici Animali",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671347fe529593dc?authid=TplaXtFqpxki",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/emisfero_293_0.jpg",
-          "bkcode": "00106671347fe529593dc",
-          "authid": "TplaXtFqpxki"
-        },
-        {
-          "id": 292,
-          "title": "Volantino Emisfero",
-          "subtitle": "iper Affari",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bca862238ff6?authid=jYAjGSthYvX0",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/emisfero_292_3.jpg",
-          "bkcode": "001066713bca862238ff6",
-          "authid": "jYAjGSthYvX0"
         }
       ]
     },
@@ -1268,6 +1188,15 @@
       "logoId": "esselunga",
       "flyers": [
         {
+          "id": 429,
+          "title": "Volantino Esselunga: Speciale Ter",
+          "subtitle": "Black Days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e42abe8c5191?authid=22R4lxzxHsVy",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_429_0.jpg",
+          "bkcode": "001066713e42abe8c5191",
+          "authid": "22R4lxzxHsVy"
+        },
+        {
           "id": 160,
           "title": "Volantino Esselunga Superstore",
           "subtitle": "Sconti Fino Al 50%",
@@ -1275,15 +1204,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_160_0.jpg",
           "bkcode": "001066713fb48d280c65b",
           "authid": "u33OFaEgtyAo"
-        },
-        {
-          "id": 429,
-          "title": "Volantino Esselunga: Speciale Ter",
-          "subtitle": "Elettrodomestici",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138468647d8c7b?authid=2o3E4ADPyyCW",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_429_1.jpg",
-          "bkcode": "0010667138468647d8c7b",
-          "authid": "2o3E4ADPyyCW"
         },
         {
           "id": 2304,
@@ -1295,6 +1215,15 @@
           "authid": "m678F3WjG1kh"
         },
         {
+          "id": 2360,
+          "title": "Catalogo Esselunga Speciale Bis",
+          "subtitle": "Voglia Di Natale",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c8bfe8717c1c?authid=UCNE218tF4lu",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2360_1.jpg",
+          "bkcode": "001066713c8bfe8717c1c",
+          "authid": "UCNE218tF4lu"
+        },
+        {
           "id": 789,
           "title": "Volantino Esselunga: Speciale Bis",
           "subtitle": "La Colazione Che è Già Una Hit",
@@ -1302,15 +1231,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_789_0.jpg",
           "bkcode": "0010667131f0bcec4c2cc",
           "authid": "y83q25kGn9SH"
-        },
-        {
-          "id": 2141,
-          "title": "Volantino Esselunga Toscana",
-          "subtitle": "Sconti Fino Al 50%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c6e0a74105c1?authid=SgFpiWKznRs9",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2141_1.jpg",
-          "bkcode": "001066713c6e0a74105c1",
-          "authid": "SgFpiWKznRs9"
         },
         {
           "id": 79,
@@ -1322,22 +1242,13 @@
           "authid": "rc0Q9GsSsIan"
         },
         {
-          "id": 2139,
-          "title": "Volantino Esselunga Lazio",
-          "subtitle": "Sconti Fino Al 50%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c9fc84e25354?authid=RjQEugt9mhRA",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2139.jpg",
-          "bkcode": "001066713c9fc84e25354",
-          "authid": "RjQEugt9mhRA"
-        },
-        {
-          "id": 2140,
-          "title": "Volantino Esselunga Piemonte",
-          "subtitle": "Sconti Fino Al 50%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ad6fa6f9275c?authid=HoQUTonWp8bL",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_2140.jpg",
-          "bkcode": "001066713ad6fa6f9275c",
-          "authid": "HoQUTonWp8bL"
+          "id": 78,
+          "title": "Volantino Esselunga",
+          "subtitle": "Sotto L'Albero",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713efdf89c2d4bd?authid=twt3mNzjepdx",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/esselunga_78.jpg",
+          "bkcode": "001066713efdf89c2d4bd",
+          "authid": "twt3mNzjepdx"
         }
       ]
     },
@@ -1349,65 +1260,56 @@
         {
           "id": 149,
           "title": "Volantino Euronics CDS Butali: Toscana, Marche, Umbria, Lazio, Emilia Romagna",
-          "subtitle": "Anteprima Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713029ddb28977c?authid=MzCfJmIDLnp5",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_149_2.jpg",
-          "bkcode": "001066713029ddb28977c",
-          "authid": "MzCfJmIDLnp5"
-        },
-        {
-          "id": 259,
-          "title": "Volantino Euronics (Gruppo Bruno): Sicilia",
-          "subtitle": "Anteprima Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713180a469a32c9?authid=3yPVgsYpYkdN",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_259.jpg",
-          "bkcode": "001066713180a469a32c9",
-          "authid": "3yPVgsYpYkdN"
-        },
-        {
-          "id": 691,
-          "title": "Volantino Euronics Speciale",
-          "subtitle": "Dimo: Star Tech",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132f42610b8aec?authid=34QpRrG1PMcm",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_691_0.jpg",
-          "bkcode": "0010667132f42610b8aec",
-          "authid": "34QpRrG1PMcm"
-        },
-        {
-          "id": 536,
-          "title": "Volantino Euronics (Gruppo La Via Lattea): Sicilia",
-          "subtitle": "Anteprima Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713017c38ce6b0c?authid=F46qqVtDc2iL",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_536_1.jpg",
-          "bkcode": "001066713017c38ce6b0c",
-          "authid": "F46qqVtDc2iL"
-        },
-        {
-          "id": 154,
-          "title": "Volantino Euronics (Gruppo Tufano): Lazio, Campania, Calabria",
-          "subtitle": "Il futuro è di casa",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713aa676df1d556?authid=WV6XAhoowoNN",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_154_1.jpg",
-          "bkcode": "001066713aa676df1d556",
-          "authid": "WV6XAhoowoNN"
-        },
-        {
-          "id": 152,
-          "title": "Volantino Euronics (Gruppo Siem): Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria",
-          "subtitle": "Scegli La Tua Rata",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713780774b28c44?authid=IS4YBatAnkr7",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_152_1.jpg",
-          "bkcode": "001066713780774b28c44",
-          "authid": "IS4YBatAnkr7"
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671348d39b60f241?authid=rECnLWdz7dR3",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_149_1.jpg",
+          "bkcode": "00106671348d39b60f241",
+          "authid": "rECnLWdz7dR3"
         },
         {
           "id": 151,
           "title": "Volantino Euronics (Gruppo Dimo)",
-          "subtitle": "Anteprima Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671397f753f7b92a?authid=4PXDZl24wAjM",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_151.jpg",
-          "bkcode": "00106671397f753f7b92a",
-          "authid": "4PXDZl24wAjM"
+          "subtitle": "Star Tech",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136c83d57e2882?authid=PEH8607EZZFK",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_151_1.jpg",
+          "bkcode": "0010667136c83d57e2882",
+          "authid": "PEH8607EZZFK"
+        },
+        {
+          "id": 259,
+          "title": "Volantino Euronics (Gruppo Bruno): Sicilia",
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fe4acd296d13?authid=yrZNvALjK6Fj",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_259_0.jpg",
+          "bkcode": "001066713fe4acd296d13",
+          "authid": "yrZNvALjK6Fj"
+        },
+        {
+          "id": 536,
+          "title": "Volantino Euronics (Gruppo La Via Lattea): Sicilia",
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713895b9774b862?authid=YI5G3MYdUtnh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_536_0.jpg",
+          "bkcode": "001066713895b9774b862",
+          "authid": "YI5G3MYdUtnh"
+        },
+        {
+          "id": 154,
+          "title": "Volantino Euronics (Gruppo Tufano): Lazio, Campania, Calabria",
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b98fe3cda028?authid=9zYiVfCQpIq2",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_154_0.jpg",
+          "bkcode": "001066713b98fe3cda028",
+          "authid": "9zYiVfCQpIq2"
+        },
+        {
+          "id": 152,
+          "title": "Volantino Euronics (Gruppo Siem): Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria",
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667130945e9df0248?authid=Br2DgoveGgfc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/euronics_152_0.jpg",
+          "bkcode": "0010667130945e9df0248",
+          "authid": "Br2DgoveGgfc"
         }
       ]
     },
@@ -1419,20 +1321,29 @@
         {
           "id": 105,
           "title": "Volantino Eurospin",
-          "subtitle": "SAPORI IN FESTA E SPECIALE CIOCCOLATO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138f1afc6ceb4d?authid=tRGbpaP6nLed",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_105.jpg",
-          "bkcode": "0010667138f1afc6ceb4d",
-          "authid": "tRGbpaP6nLed"
+          "subtitle": "SAPORI IN FESTA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713996d8dd538a3?authid=dL5qJCr8uRkz",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_105_1.jpg",
+          "bkcode": "001066713996d8dd538a3",
+          "authid": "dL5qJCr8uRkz"
         },
         {
           "id": 1959,
           "title": "Volantino Eurospin Speciale",
           "subtitle": "FRESCHE OFFERTE DELLA SETTIMANA",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132f1e348e81d8?authid=EoDsnN5DVe0D",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f1807bb50638?authid=A9Pn4T2XGOYM",
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_1959.jpg",
-          "bkcode": "0010667132f1e348e81d8",
-          "authid": "EoDsnN5DVe0D"
+          "bkcode": "001066713f1807bb50638",
+          "authid": "A9Pn4T2XGOYM"
+        },
+        {
+          "id": 2024,
+          "title": "Volantino Eurospin Viaggi Bis",
+          "subtitle": "Black Friday Eurospin Online",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671315cc9b0f6107?authid=vnpViVUg9K0V",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/eurospin_2024_0.jpg",
+          "bkcode": "00106671315cc9b0f6107",
+          "authid": "vnpViVUg9K0V"
         }
       ]
     },
@@ -1444,56 +1355,47 @@
         {
           "id": 1863,
           "title": "Volantino Expert DG group",
-          "subtitle": "Sconti fino al 25%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713344cf0f4d810?authid=grWH2q5stk5L",
+          "subtitle": "Black Friday Revolution",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713654ed01df3ac?authid=SBNcwuUyWbJk",
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_1863.jpg",
-          "bkcode": "001066713344cf0f4d810",
-          "authid": "grWH2q5stk5L"
+          "bkcode": "001066713654ed01df3ac",
+          "authid": "SBNcwuUyWbJk"
         },
         {
           "id": 1945,
           "title": "Volantino Gruppo Gaer",
-          "subtitle": "Black Friday I 05/11 - 11/11",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135a63ec592ab5?authid=FUkpbZCSJXuJ",
+          "subtitle": "Black Friday 2 12/11 - 18/11",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671349517353e9a4?authid=9uNTU08DwGvX",
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_1945_0.jpg",
-          "bkcode": "0010667135a63ec592ab5",
-          "authid": "FUkpbZCSJXuJ"
+          "bkcode": "00106671349517353e9a4",
+          "authid": "9uNTU08DwGvX"
         },
         {
           "id": 473,
           "title": "Volantino Expert (Gruppo Somma): Campania",
-          "subtitle": "2026 BLACK FRIDAY 1",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713cf5e4e488399?authid=zZQtxAUKjopn",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_473.jpg",
-          "bkcode": "001066713cf5e4e488399",
-          "authid": "zZQtxAUKjopn"
+          "subtitle": "2026 BLACK FRIDAY",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139a65d511bc14?authid=RYkHeZK8H1Kn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_473_1.jpg",
+          "bkcode": "0010667139a65d511bc14",
+          "authid": "RYkHeZK8H1Kn"
         },
         {
           "id": 551,
           "title": "Volantino Expert Mallardo",
-          "subtitle": "Offerte",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134a6783b96293?authid=nez5B5k1zDTf",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_551.jpg",
-          "bkcode": "0010667134a6783b96293",
-          "authid": "nez5B5k1zDTf"
-        },
-        {
-          "id": 529,
-          "title": "Volantino Expert Teverola Di Lella",
           "subtitle": "Black Friday Revolution",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713c808a43053ca?authid=KqQlONb8nG3v",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_529.jpg",
-          "bkcode": "001066713c808a43053ca",
-          "authid": "KqQlONb8nG3v"
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d2f32c7b2d03?authid=TXMU9dvtAtEn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_551_1.jpg",
+          "bkcode": "001066713d2f32c7b2d03",
+          "authid": "TXMU9dvtAtEn"
         },
         {
           "id": 654,
           "title": "Volantino Expert Calabria",
           "subtitle": "Black Friday Revolution",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ef7577bcc497?authid=1RsEvHQT8XKd",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_654_0.jpg",
-          "bkcode": "001066713ef7577bcc497",
-          "authid": "1RsEvHQT8XKd"
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671394bf05966938?authid=QjDddwXZZDq5",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/expert_it_654_1.jpg",
+          "bkcode": "00106671394bf05966938",
+          "authid": "QjDddwXZZDq5"
         }
       ]
     },
@@ -1505,47 +1407,38 @@
         {
           "id": 512,
           "title": "Volantino IperFamila",
-          "subtitle": "EXTRACONVENIENZA",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713aa55f78d57ab?authid=rMNyI96rZSG2",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_512_0.jpg",
-          "bkcode": "001066713aa55f78d57ab",
-          "authid": "rMNyI96rZSG2"
-        },
-        {
-          "id": 109,
-          "title": "Volantino Famila",
-          "subtitle": "CATALOGO CASA CALDA",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132f8ff0d19aa4?authid=ucOlw5EcDTGh",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_109.jpg",
-          "bkcode": "0010667132f8ff0d19aa4",
-          "authid": "ucOlw5EcDTGh"
-        },
-        {
-          "id": 110,
-          "title": "Volantino Famila Superstore Bis",
-          "subtitle": "CATALOGO PET FOOD",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713320b9e59d056?authid=vjB3IRVbBryi",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_110_0.jpg",
-          "bkcode": "001066713320b9e59d056",
-          "authid": "vjB3IRVbBryi"
-        },
-        {
-          "id": 363,
-          "title": "Volantino Famila Superstore: Veneto",
           "subtitle": "SOTTOCOSTO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131802fffa393c?authid=QJtDK0GUU2CT",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_363_0.jpg",
-          "bkcode": "0010667131802fffa393c",
-          "authid": "QJtDK0GUU2CT"
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ff7d59f19b64?authid=cZ14y7Wmyvmo",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_512_1.jpg",
+          "bkcode": "001066713ff7d59f19b64",
+          "authid": "cZ14y7Wmyvmo"
         },
         {
           "id": 108,
           "title": "Volantino Famila: Lombardia ed Emilia",
-          "subtitle": "SOTTOCOSTO + SOTTOPREZZO",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f939a648bfba?authid=7pQK8V6UiNnQ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_108_0.jpg",
-          "bkcode": "001066713f939a648bfba",
-          "authid": "7pQK8V6UiNnQ"
+          "subtitle": "BLACK FRIDAY PRIMA PARTE- SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133d809dd0a630?authid=0ufytCO2EsFw",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_108.jpg",
+          "bkcode": "0010667133d809dd0a630",
+          "authid": "0ufytCO2EsFw"
+        },
+        {
+          "id": 511,
+          "title": "Volantino Famila Superstore Nord Italia",
+          "subtitle": "BLACK FRIDAY PRIMA PARTE- SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671326ca41d04f1c?authid=QJZgxwiBmyjF",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_511_0.jpg",
+          "bkcode": "00106671326ca41d04f1c",
+          "authid": "QJZgxwiBmyjF"
+        },
+        {
+          "id": 364,
+          "title": "Volantino Famila: Piemonte",
+          "subtitle": "SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133ee7743606ca?authid=DUl25gZarYq1",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_364_0.jpg",
+          "bkcode": "0010667133ee7743606ca",
+          "authid": "DUl25gZarYq1"
         },
         {
           "id": 362,
@@ -1555,6 +1448,15 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_362.jpg",
           "bkcode": "001066713c6742a763f67",
           "authid": "xXfaFzwb6LbT"
+        },
+        {
+          "id": 2131,
+          "title": "Volantino Famila Emilia Romagna",
+          "subtitle": "BLACK FRIDAY PRIMA PARTE- SCONTI FINO AL 50%",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713fb70331a6be8?authid=C26Wn2KL8d6y",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/famila_2131_0.jpg",
+          "bkcode": "001066713fb70331a6be8",
+          "authid": "C26Wn2KL8d6y"
         }
       ]
     },
@@ -1564,99 +1466,103 @@
       "logoId": "gros",
       "flyers": [
         {
-          "id": 268,
+          "id": 10030,
           "title": "Volantino CTS Supermercati",
-          "subtitle": "Dal 4 all'11 Novembre 2026</p> <p class=\"option-font text-col1 text-center text-uppercase text-small\"><strong>24</strong> pagine</p> </div> <p><div class=\"\" style=\"background-color:rgba(245, 245, 245, 1);background-image: url('/images/hybrid/backgrounds/gros-texture-bottom-black.webp');background-size:auto;background-position:bottom left;background-repeat:repeat-x;position:relative;\"><style>.itm_img-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_img-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_img-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"text-center pv2 phone-p1\" style=\"\"><div psw-index=\"0\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559\" class=\"drop-shadow psw-trigger evt_elm\" data-lb-image=\"https://www.cedigros.com/images/covers/cover-flyer_268-20261105083312-713f80fb82.jpg?mcb=5979559\" data-event-label=\"Copertina\" style=\"width:100%;height:auto;min-height:50vh;background-position:center center;background-size:contain;background-repeat:no-repeat;position: relative;display: flex;justify-content: center;align-items: center;cursor: pointer;background-image:url('https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559');\"></div><div class=\"text-center text-extra-small PadV1x\" style=\"\"><p>Tocca l'immagine per sfogliare il volantino</p></div></div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"text-center\" style=\"\"><div style=\"display:inline-block;\"><h2 class=\"\" style=\"display:flex;align-items:center;\">Tutte le pagine</h2></div><div class=\"\"><p>Seleziona una pagina per visualizzarne un ingrandimento</p></div></div><div class=\"flex-container\"><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 0\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_01.jpg?mcb=5979559\" pswp-index=\"0\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 1\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_02.jpg?mcb=5979559\" pswp-index=\"1\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 2\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_03.jpg?mcb=5979559\" pswp-index=\"2\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 3\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_04.jpg?mcb=5979559\" pswp-index=\"3\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 4\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_05.jpg?mcb=5979559\" pswp-index=\"4\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 5\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_06.jpg?mcb=5979559\" pswp-index=\"5\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 6\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_07.jpg?mcb=5979559\" pswp-index=\"6\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 7\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_08.jpg?mcb=5979559\" pswp-index=\"7\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 8\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_09.jpg?mcb=5979559\" pswp-index=\"8\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 9\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_10.jpg?mcb=5979559\" pswp-index=\"9\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 10\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_11.jpg?mcb=5979559\" pswp-index=\"10\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 11\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_12.jpg?mcb=5979559\" pswp-index=\"11\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 12\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_13.jpg?mcb=5979559\" pswp-index=\"12\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 13\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_14.jpg?mcb=5979559\" pswp-index=\"13\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 14\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_15.jpg?mcb=5979559\" pswp-index=\"14\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 15\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_16.jpg?mcb=5979559\" pswp-index=\"15\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 16\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_17.jpg?mcb=5979559\" pswp-index=\"16\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 17\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_18.jpg?mcb=5979559\" pswp-index=\"17\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 18\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_19.jpg?mcb=5979559\" pswp-index=\"18\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 19\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_20.jpg?mcb=5979559\" pswp-index=\"19\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 20\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_21.jpg?mcb=5979559\" pswp-index=\"20\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 21\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_22.jpg?mcb=5979559\" pswp-index=\"21\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 22\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_23.jpg?mcb=5979559\" pswp-index=\"22\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 23\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/268/20261105083312-page_24.jpg?mcb=5979559\" pswp-index=\"23\"/></div></div> </p> <script> let itmimage = jQuery('.lb-itm-image').simpleLightbox({ widthRatio:0.9, overlayOpacity:0.8, sourceAttr: 'data-lb-image', captionSelector: 'self', captionsData: 'data-lb-caption' }); </script> <div class=\"itm-pagination \" style=\"background-color:rgba(240, 240, 240, 1);position:relative;\"><style>.itm_pag-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_pag-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_pag-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"pv1\" style=\"\"><div class=\"flex-container fluid\"><div class=\"itm-prev flex-item span-6 phone-span-6 text-left ph\" style=\"\"></div><div class=\"itm-next flex-item span-6 phone-span-6 text-right ph\" style=\"\"><div class=\"flex-container fluid\" style=\"justify-content:end;align-items:center\"><div class=\"itm-next-text hide-on-phone\"><a href=\"/promozioni/cts/volantino-cts\"><span class=\"\" style=\"\">Volantino CTS</span><br/><span class=\"\">Dal 4 all'11 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_268.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=268&tmpl=component"
+          "subtitle": "Dal 13 al 22 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10030.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10030&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-22T23:59:59+02:00"
         },
         {
-          "id": 10042,
+          "id": 1308,
           "title": "Volantino Dem Supermercati",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10042.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10042&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1308.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1308&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 10032,
+          "id": 198,
           "title": "Volantino Effepiù",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10032.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10032&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_198.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=198&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 10033,
+          "id": 1440,
           "title": "Volantino Idromarket",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10033.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10033&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1440.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1440&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 10008,
+          "id": 10007,
           "title": "Volantino Il Castoro",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10008.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10008&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10007.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10007&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 10044,
+          "id": 10014,
           "title": "Volantino Ipercarni",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10044.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10044&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10014.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10014&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 10019,
+          "id": 10093,
           "title": "Volantino Ipertriscount",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10019.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10019&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10093.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10093&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 833,
+          "id": 10034,
           "title": "Volantino Pewex",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_833.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=833&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10034.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10034&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
           "id": 10092,
           "title": "Volantino Pim",
-          "subtitle": "Dal 4 all'11 Novembre 2026</p> <p class=\"option-font text-col1 text-center text-uppercase text-small\"><strong>24</strong> pagine</p> </div> <p><div class=\"\" style=\"background-color:rgba(245, 245, 245, 1);background-image: url('/images/hybrid/backgrounds/gros-texture-bottom-black.webp');background-size:auto;background-position:bottom left;background-repeat:repeat-x;position:relative;\"><style>.itm_img-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_img-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_img-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"text-center pv2 phone-p1\" style=\"\"><div psw-index=\"0\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157\" class=\"drop-shadow psw-trigger evt_elm\" data-lb-image=\"https://www.cedigros.com/images/covers/cover-flyer_10092-20261102095551-848084c962.jpg?mcb=5979157\" data-event-label=\"Copertina\" style=\"width:100%;height:auto;min-height:50vh;background-position:center center;background-size:contain;background-repeat:no-repeat;position: relative;display: flex;justify-content: center;align-items: center;cursor: pointer;background-image:url('https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157');\"></div><div class=\"text-center text-extra-small PadV1x\" style=\"\"><p>Tocca l'immagine per sfogliare il volantino</p></div></div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"text-center\" style=\"\"><div style=\"display:inline-block;\"><h2 class=\"\" style=\"display:flex;align-items:center;\">Tutte le pagine</h2></div><div class=\"\"><p>Seleziona una pagina per visualizzarne un ingrandimento</p></div></div><div class=\"flex-container\"><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 0\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157\" pswp-index=\"0\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 1\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_02.jpg?mcb=5979157\" pswp-index=\"1\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 2\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_03.jpg?mcb=5979157\" pswp-index=\"2\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 3\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_04.jpg?mcb=5979157\" pswp-index=\"3\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 4\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_05.jpg?mcb=5979157\" pswp-index=\"4\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 5\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_06.jpg?mcb=5979157\" pswp-index=\"5\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 6\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_07.jpg?mcb=5979157\" pswp-index=\"6\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 7\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_08.jpg?mcb=5979157\" pswp-index=\"7\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 8\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_09.jpg?mcb=5979157\" pswp-index=\"8\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 9\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_10.jpg?mcb=5979157\" pswp-index=\"9\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 10\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_11.jpg?mcb=5979157\" pswp-index=\"10\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 11\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_12.jpg?mcb=5979157\" pswp-index=\"11\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 12\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_13.jpg?mcb=5979157\" pswp-index=\"12\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 13\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_14.jpg?mcb=5979157\" pswp-index=\"13\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 14\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_15.jpg?mcb=5979157\" pswp-index=\"14\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 15\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_16.jpg?mcb=5979157\" pswp-index=\"15\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 16\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_17.jpg?mcb=5979157\" pswp-index=\"16\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 17\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_18.jpg?mcb=5979157\" pswp-index=\"17\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 18\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_19.jpg?mcb=5979157\" pswp-index=\"18\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 19\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_20.jpg?mcb=5979157\" pswp-index=\"19\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 20\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_21.jpg?mcb=5979157\" pswp-index=\"20\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 21\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_22.jpg?mcb=5979157\" pswp-index=\"21\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 22\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_23.jpg?mcb=5979157\" pswp-index=\"22\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 23\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_24.jpg?mcb=5979157\" pswp-index=\"23\"/></div></div> </p> <script> let itmimage = jQuery('.lb-itm-image').simpleLightbox({ widthRatio:0.9, overlayOpacity:0.8, sourceAttr: 'data-lb-image', captionSelector: 'self', captionsData: 'data-lb-caption' }); </script> <div class=\"itm-pagination \" style=\"background-color:rgba(240, 240, 240, 1);position:relative;\"><style>.itm_pag-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_pag-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_pag-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"pv1\" style=\"\"><div class=\"flex-container fluid\"><div class=\"itm-prev flex-item span-6 phone-span-6 text-left ph\" style=\"\"></div><div class=\"itm-next flex-item span-6 phone-span-6 text-right ph\" style=\"\"><div class=\"flex-container fluid\" style=\"justify-content:end;align-items:center\"><div class=\"itm-next-text hide-on-phone\"><a href=\"/promozioni/pim/volantino-iperfamily-pim-agora\"><span class=\"\" style=\"\">Volantino Iperfamily - Pim - Agorà</span><br/><span class=\"\">Dal 4 all'11 Novembre 2026",
+          "subtitle": "Dal 13 al 22 Novembre 2026",
           "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10092.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10092&tmpl=component"
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10092&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-22T23:59:59+02:00"
         },
         {
-          "id": 256,
+          "id": 10038,
           "title": "Volantino Sacoph",
-          "subtitle": "Dal 4 al 11 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_256.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=256&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-11T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10038.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10038&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         },
         {
-          "id": 253,
+          "id": 10040,
           "title": "Volantino TOP Supermercati",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_253.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=253&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10040.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10040&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1668,11 +1574,11 @@
         {
           "id": 442,
           "title": "Volantino Hardis",
-          "subtitle": "Maxi Convenienza",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ce0e244e0b91?authid=mNFOFwMTUqjI",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/hardis_442_0.jpg",
-          "bkcode": "001066713ce0e244e0b91",
-          "authid": "mNFOFwMTUqjI"
+          "subtitle": "Carrello Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667135132b0dad242?authid=LV0MHROXTszc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/hardis_442_1.jpg",
+          "bkcode": "0010667135132b0dad242",
+          "authid": "LV0MHROXTszc"
         }
       ]
     },
@@ -1682,13 +1588,13 @@
       "logoId": "idromarket",
       "flyers": [
         {
-          "id": 10033,
+          "id": 1440,
           "title": "Volantino Idromarket",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10033.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10033&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_1440.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=1440&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1698,13 +1604,13 @@
       "logoId": "il-castoro",
       "flyers": [
         {
-          "id": 10008,
+          "id": 10007,
           "title": "Volantino Il Castoro",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10008.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10008&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10007.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10007&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1734,6 +1640,22 @@
       ]
     },
     {
+      "slug": "ins",
+      "name": "iN's Mercato",
+      "logoId": "ins",
+      "flyers": [
+        {
+          "id": 205,
+          "title": "Volantino iN's",
+          "subtitle": "La spesa ti sorride",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e1c12fe68486?authid=AfyDFZgzKlJ0",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/in_s_205_1.jpg",
+          "bkcode": "001066713e1c12fe68486",
+          "authid": "AfyDFZgzKlJ0"
+        }
+      ]
+    },
+    {
       "slug": "iper-la-grande-i",
       "name": "Iper, La grande i",
       "logoId": "iper-la-grande-i",
@@ -1759,20 +1681,29 @@
         {
           "id": 2240,
           "title": "Volantino Iper Busnago",
-          "subtitle": "OPERAZIONE IMBATTIBILI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f04a16c8c8bb?authid=yJ4aXghmnumo",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2240_1.jpg",
-          "bkcode": "001066713f04a16c8c8bb",
-          "authid": "yJ4aXghmnumo"
+          "subtitle": "GRANDI OCCASIONI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671362cc1d49742a?authid=rbuaAsoxlkGZ",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2240.jpg",
+          "bkcode": "00106671362cc1d49742a",
+          "authid": "rbuaAsoxlkGZ"
         },
         {
-          "id": 3,
-          "title": "Volantino Iper, la grande i: Speciale",
-          "subtitle": "LO STILE È DI CASA",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671300c87d40764f?authid=MbtV8Z1AraHj",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_3.jpg",
-          "bkcode": "00106671300c87d40764f",
-          "authid": "MbtV8Z1AraHj"
+          "id": 163,
+          "title": "Volantino Iper, la grande i",
+          "subtitle": "GRANDI OCCASIONI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671343e0a5501b9f?authid=PMjmghAFYOdM",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_163.jpg",
+          "bkcode": "00106671343e0a5501b9f",
+          "authid": "PMjmghAFYOdM"
+        },
+        {
+          "id": 2226,
+          "title": "Catalogo Iper la Grande I speciale",
+          "subtitle": "IDEE REGALO",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713cd64c3a75b6b?authid=aGASh8ZehBd4",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2226_0.jpg",
+          "bkcode": "001066713cd64c3a75b6b",
+          "authid": "aGASh8ZehBd4"
         },
         {
           "id": 506,
@@ -1786,29 +1717,29 @@
         {
           "id": 412,
           "title": "Volantino Iper: Milano Portello",
-          "subtitle": "OPERAZIONE IMBATTIBILI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667134da60a84e97d?authid=SBK2oVltMqmI",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_412_1.jpg",
-          "bkcode": "0010667134da60a84e97d",
-          "authid": "SBK2oVltMqmI"
+          "subtitle": "GRANDI OCCASIONI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671357d4f28b0a39?authid=oo73sbQnIEXA",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_412.jpg",
+          "bkcode": "00106671357d4f28b0a39",
+          "authid": "oo73sbQnIEXA"
         },
         {
           "id": 2241,
           "title": "Volantino Iper Serravalle",
-          "subtitle": "OPERAZIONE IMBATTIBILI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671335e13cb58191?authid=J6COedm1qlQc",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2241_1.jpg",
-          "bkcode": "00106671335e13cb58191",
-          "authid": "J6COedm1qlQc"
+          "subtitle": "GRANDI OCCASIONI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e4ebc4ebac59?authid=0cAoVBpfFb6Q",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2241_0.jpg",
+          "bkcode": "001066713e4ebc4ebac59",
+          "authid": "0cAoVBpfFb6Q"
         },
         {
           "id": 2359,
           "title": "Volantino Iper La Grande I Monza",
-          "subtitle": "OPERAZIONE IMBATTIBILI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713499a25f1c5b7?authid=z0idIEhEYZ7a",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2359_1.jpg",
-          "bkcode": "001066713499a25f1c5b7",
-          "authid": "z0idIEhEYZ7a"
+          "subtitle": "GRANDI OCCASIONI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d7765e05aeed?authid=ODP9v9LMjeOc",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iper_la_grande_i_2359_0.jpg",
+          "bkcode": "001066713d7765e05aeed",
+          "authid": "ODP9v9LMjeOc"
         }
       ]
     },
@@ -1818,22 +1749,22 @@
       "logoId": "iperal",
       "flyers": [
         {
-          "id": 1957,
-          "title": "Volantino Iperal Speciale Bis",
-          "subtitle": "Ancora più offerte",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713024fdc4b486d?authid=w6uwGKeWnNrJ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_1957_0.jpg",
-          "bkcode": "001066713024fdc4b486d",
-          "authid": "w6uwGKeWnNrJ"
+          "id": 191,
+          "title": "Volantino Iperal Speciale",
+          "subtitle": "Igiene e Bellezza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dd7ebe8f8fca?authid=MkbG8DMvuVes",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_191_0.jpg",
+          "bkcode": "001066713dd7ebe8f8fca",
+          "authid": "MkbG8DMvuVes"
         },
         {
           "id": 112,
           "title": "Volantino Iperal",
-          "subtitle": "Sconti da paura",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139568f38d7eef?authid=s6udGef2wCNE",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_112_0.jpg",
-          "bkcode": "0010667139568f38d7eef",
-          "authid": "s6udGef2wCNE"
+          "subtitle": "Sconti Grandi Marche",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671316ef2471cfba?authid=sHXACLIDU1pG",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperal_112.jpg",
+          "bkcode": "00106671316ef2471cfba",
+          "authid": "sHXACLIDU1pG"
         }
       ]
     },
@@ -1843,13 +1774,13 @@
       "logoId": "ipercarni",
       "flyers": [
         {
-          "id": 10044,
+          "id": 10014,
           "title": "Volantino Ipercarni",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10044.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10044&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10014.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10014&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1859,13 +1790,13 @@
       "logoId": "ipertriscount",
       "flyers": [
         {
-          "id": 10019,
+          "id": 10093,
           "title": "Volantino Ipertriscount",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10019.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10019&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10093.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10093&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -1874,6 +1805,15 @@
       "name": "Italmark",
       "logoId": "italmark",
       "flyers": [
+        {
+          "id": 2373,
+          "title": "Volantino Italmark Speciale Bis",
+          "subtitle": "Magia Delle Feste",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136a0050db99f7?authid=ZMYsWSSUwmiD",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/italmark_2373.jpg",
+          "bkcode": "0010667136a0050db99f7",
+          "authid": "ZMYsWSSUwmiD"
+        },
         {
           "id": 2260,
           "title": "Volantino Italmark",
@@ -1906,8 +1846,8 @@
           "coverUrl": "https://www.calameo.com/books/social/cover/0045364102cd9175a947e",
           "fallbackCoverUrl": "https://p.calameoassets.com/0045364102cd9175a947e/p1.large.jpg",
           "bkcode": "0045364102cd9175a947e",
-          "from": "2026-11-08T16:56:10.502Z",
-          "to": "2026-11-22T16:56:10.502Z"
+          "from": "2026-11-16T16:52:35.437Z",
+          "to": "2026-11-30T16:52:35.437Z"
         }
       ]
     },
@@ -1919,11 +1859,11 @@
         {
           "id": 207,
           "title": "Volantino Leroy Merlin",
-          "subtitle": "Prezzi Mai Visti",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667133a9e49501541?authid=jYc8VxFseAz3",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/leroy_merlin_it_207.jpg",
-          "bkcode": "0010667133a9e49501541",
-          "authid": "jYc8VxFseAz3"
+          "subtitle": "Prepara La Tua Casa Alle Feste",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713355a9c773ace?authid=CYmIbjHOs6jt",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/leroy_merlin_it_207_0.jpg",
+          "bkcode": "001066713355a9c773ace",
+          "authid": "CYmIbjHOs6jt"
         }
       ]
     },
@@ -1933,22 +1873,31 @@
       "logoId": "lidl",
       "flyers": [
         {
+          "id": 1883,
+          "title": "Volantino Lidl Speciale",
+          "subtitle": "Anteprima Black week",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667139336c411b2a2?authid=m1iygCBBPHbb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_1883.jpg",
+          "bkcode": "0010667139336c411b2a2",
+          "authid": "m1iygCBBPHbb"
+        },
+        {
           "id": 569,
           "title": "Volantino Anteprima Lidl",
-          "subtitle": "Super offerte dal 12/11 al 18/11",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138bcf42f34e1b?authid=j2xyyH64bq24",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_569_0.jpg",
-          "bkcode": "0010667138bcf42f34e1b",
-          "authid": "j2xyyH64bq24"
+          "subtitle": "Super Offerte dal 19/11 al 25/11",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713ea9b94b3bdb9?authid=EwuH5LcIEaht",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_569_2.jpg",
+          "bkcode": "001066713ea9b94b3bdb9",
+          "authid": "EwuH5LcIEaht"
         },
         {
           "id": 559,
           "title": "Volantino Lidl",
-          "subtitle": "Sotto costo",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e72d333e0122?authid=mPS6SC798ICE",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_559_0.jpg",
-          "bkcode": "001066713e72d333e0122",
-          "authid": "mPS6SC798ICE"
+          "subtitle": "Super Offerte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671398cc7f3e1efe?authid=MBBqWJTJJuVk",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_559_2.jpg",
+          "bkcode": "00106671398cc7f3e1efe",
+          "authid": "MBBqWJTJJuVk"
         },
         {
           "id": 2122,
@@ -1967,15 +1916,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_2068_0.jpg",
           "bkcode": "001066713981d883467a2",
           "authid": "4jVwWKaUZ1mA"
-        },
-        {
-          "id": 1883,
-          "title": "Volantino Lidl Speciale",
-          "subtitle": "Fresschezza E Convenienza 5/11 al 11/11",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671318c32da50116?authid=jQa11t0jr89w",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/lidl_it_1883_0.jpg",
-          "bkcode": "00106671318c32da50116",
-          "authid": "jQa11t0jr89w"
         },
         {
           "id": 754,
@@ -2007,22 +1947,6 @@
       ]
     },
     {
-      "slug": "magazzini-maurys",
-      "name": "Magazzini Maury's",
-      "logoId": "magazzini-maurys",
-      "flyers": [
-        {
-          "id": 553,
-          "title": "Volantino Maurys",
-          "subtitle": "I Nostri Marchi -30%",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137f2531d8d738?authid=WfoHdl8JdSJC",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/maury_s_553_0.jpg",
-          "bkcode": "0010667137f2531d8d738",
-          "authid": "WfoHdl8JdSJC"
-        }
-      ]
-    },
-    {
       "slug": "md-discount",
       "name": "MD Discount",
       "logoId": "md-discount",
@@ -2030,20 +1954,20 @@
         {
           "id": 114,
           "title": "Volantino MD Discount",
-          "subtitle": "Anteprima Natale",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713045c5543a8fa?authid=FDnna68wpWg2",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_114.jpg",
-          "bkcode": "001066713045c5543a8fa",
-          "authid": "FDnna68wpWg2"
+          "subtitle": "Black Days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713365b7a9461d1?authid=V0yZLlyNpwws",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_114_1.jpg",
+          "bkcode": "001066713365b7a9461d1",
+          "authid": "V0yZLlyNpwws"
         },
         {
           "id": 246,
           "title": "Volantino MD Lombardia",
-          "subtitle": "Anteprima Natale",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671374dc86986cdf?authid=XQmoCT0Q22ox",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_246.jpg",
-          "bkcode": "00106671374dc86986cdf",
-          "authid": "XQmoCT0Q22ox"
+          "subtitle": "Black Days",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671345bc40e67a0f?authid=CT8tjvgeXWLb",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/md_discont_246_1.jpg",
+          "bkcode": "00106671345bc40e67a0f",
+          "authid": "CT8tjvgeXWLb"
         }
       ]
     },
@@ -2055,11 +1979,11 @@
         {
           "id": 370,
           "title": "Volantino Mediaworld",
-          "subtitle": "Black Friday dal 30/10 al 11/11",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671385926f0abbd9?authid=hNy0x4ONSY9g",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_370_0.jpg",
-          "bkcode": "00106671385926f0abbd9",
-          "authid": "hNy0x4ONSY9g"
+          "subtitle": "Black Friday dal 12/11 al 19/11",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667132a9dceaeefaf?authid=KyntpzN5FC3M",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/mediaworld_370_1.jpg",
+          "bkcode": "0010667132a9dceaeefaf",
+          "authid": "KyntpzN5FC3M"
         }
       ]
     },
@@ -2094,6 +2018,15 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_476.jpg",
           "bkcode": "00106671326d168f09e02",
           "authid": "CCFma66w8WhT"
+        },
+        {
+          "id": 369,
+          "title": "Volantino Metro: Speciale",
+          "subtitle": "Offerte Ultimo Minuto",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713bc7b40ab14fe?authid=QeAkphvgjXTI",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/metro_369.jpg",
+          "bkcode": "001066713bc7b40ab14fe",
+          "authid": "QeAkphvgjXTI"
         },
         {
           "id": 477,
@@ -2289,12 +2222,20 @@
           "id": 9810,
           "title": "Volantino Orizzonte Online",
           "subtitle": "Catalogo e Offerte Orizzonte",
+          "coverUrl": "https://www.calameo.com/books/social/cover/005749884b3c41d2d4b36",
+          "fallbackCoverUrl": "https://p.calameoassets.com/005749884b3c41d2d4b36/p1.large.jpg",
+          "bkcode": "005749884b3c41d2d4b36"
+        },
+        {
+          "id": 9811,
+          "title": "Volantino Orizzonte Online",
+          "subtitle": "Catalogo e Offerte Orizzonte",
           "coverUrl": "https://www.calameo.com/books/social/cover/0057498842e49e0879e94",
           "fallbackCoverUrl": "https://p.calameoassets.com/0057498842e49e0879e94/p1.large.jpg",
           "bkcode": "0057498842e49e0879e94"
         },
         {
-          "id": 9811,
+          "id": 9812,
           "title": "Volantino Orizzonte Online",
           "subtitle": "Catalogo e Offerte Orizzonte",
           "coverUrl": "https://www.calameo.com/books/social/cover/005749884bc8962ad3658",
@@ -2345,11 +2286,20 @@
         {
           "id": 116,
           "title": "Volantino IperPan e SuperPan",
-          "subtitle": "Grandi Formati XXL",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f391f644242f?authid=vME2BlWYme9D",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperpan_116_0.jpg",
-          "bkcode": "001066713f391f644242f",
-          "authid": "vME2BlWYme9D"
+          "subtitle": "Offerte Al Costo",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667136f396603fb7a?authid=v7k9xj5vOUbi",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperpan_116_1.jpg",
+          "bkcode": "0010667136f396603fb7a",
+          "authid": "v7k9xj5vOUbi"
+        },
+        {
+          "id": 490,
+          "title": "Volantino IperPan e SuperPan",
+          "subtitle": "emozioni Di Natale",
+          "coverUrl": "https://www.calameo.com/books/social/cover/0010667138995b835c8c3?authid=sbyAkdgnwcsn",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/iperpan_490_0.jpg",
+          "bkcode": "0010667138995b835c8c3",
+          "authid": "sbyAkdgnwcsn"
         }
       ]
     },
@@ -2391,13 +2341,13 @@
       "logoId": "pewex",
       "flyers": [
         {
-          "id": 833,
+          "id": 10034,
           "title": "Volantino Pewex",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_833.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=833&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10034.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10034&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -2425,9 +2375,11 @@
         {
           "id": 10092,
           "title": "Volantino Pim",
-          "subtitle": "Dal 4 all'11 Novembre 2026</p> <p class=\"option-font text-col1 text-center text-uppercase text-small\"><strong>24</strong> pagine</p> </div> <p><div class=\"\" style=\"background-color:rgba(245, 245, 245, 1);background-image: url('/images/hybrid/backgrounds/gros-texture-bottom-black.webp');background-size:auto;background-position:bottom left;background-repeat:repeat-x;position:relative;\"><style>.itm_img-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_img-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_img-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"text-center pv2 phone-p1\" style=\"\"><div psw-index=\"0\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157\" class=\"drop-shadow psw-trigger evt_elm\" data-lb-image=\"https://www.cedigros.com/images/covers/cover-flyer_10092-20261102095551-848084c962.jpg?mcb=5979157\" data-event-label=\"Copertina\" style=\"width:100%;height:auto;min-height:50vh;background-position:center center;background-size:contain;background-repeat:no-repeat;position: relative;display: flex;justify-content: center;align-items: center;cursor: pointer;background-image:url('https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157');\"></div><div class=\"text-center text-extra-small PadV1x\" style=\"\"><p>Tocca l'immagine per sfogliare il volantino</p></div></div></div> <style> .pswp__top-bar{ box-sizing:border-box; padding-top:constant(safe-area-inset-top); padding-top:env(safe-area-inset-top); height:calc(44px + env(safe-area-inset-top)); } </style> <div class=\"text-center\" style=\"\"><div style=\"display:inline-block;\"><h2 class=\"\" style=\"display:flex;align-items:center;\">Tutte le pagine</h2></div><div class=\"\"><p>Seleziona una pagina per visualizzarne un ingrandimento</p></div></div><div class=\"flex-container\"><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 0\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_01.jpg?mcb=5979157\" pswp-index=\"0\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 1\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_02.jpg?mcb=5979157\" pswp-index=\"1\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 2\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_03.jpg?mcb=5979157\" pswp-index=\"2\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 3\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_04.jpg?mcb=5979157\" pswp-index=\"3\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 4\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_05.jpg?mcb=5979157\" pswp-index=\"4\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 5\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_06.jpg?mcb=5979157\" pswp-index=\"5\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 6\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_07.jpg?mcb=5979157\" pswp-index=\"6\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 7\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_08.jpg?mcb=5979157\" pswp-index=\"7\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 8\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_09.jpg?mcb=5979157\" pswp-index=\"8\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 9\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_10.jpg?mcb=5979157\" pswp-index=\"9\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 10\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_11.jpg?mcb=5979157\" pswp-index=\"10\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 11\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_12.jpg?mcb=5979157\" pswp-index=\"11\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 12\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_13.jpg?mcb=5979157\" pswp-index=\"12\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 13\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_14.jpg?mcb=5979157\" pswp-index=\"13\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 14\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_15.jpg?mcb=5979157\" pswp-index=\"14\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 15\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_16.jpg?mcb=5979157\" pswp-index=\"15\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 16\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_17.jpg?mcb=5979157\" pswp-index=\"16\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 17\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_18.jpg?mcb=5979157\" pswp-index=\"17\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 18\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_19.jpg?mcb=5979157\" pswp-index=\"18\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 19\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_20.jpg?mcb=5979157\" pswp-index=\"19\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 20\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_21.jpg?mcb=5979157\" pswp-index=\"20\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 21\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_22.jpg?mcb=5979157\" pswp-index=\"21\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 22\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_23.jpg?mcb=5979157\" pswp-index=\"22\"/></div><div class=\"gallery-item flex-item flex-item span-3 phone-span-6 text-center ph phone-p1\"><img alt=\"Ingrandisci la pagina 23\" class=\"psw-trigger drop-shadow-compact\" style=\"cursor:pointer; width:90%;height:auto;border:1px solid silver;\" src=\"https://www.cedigros.com/media/com_myegojwt/contents/flyers/10092/20261102095551-page_24.jpg?mcb=5979157\" pswp-index=\"23\"/></div></div> </p> <script> let itmimage = jQuery('.lb-itm-image').simpleLightbox({ widthRatio:0.9, overlayOpacity:0.8, sourceAttr: 'data-lb-image', captionSelector: 'self', captionsData: 'data-lb-caption' }); </script> <div class=\"itm-pagination \" style=\"background-color:rgba(240, 240, 240, 1);position:relative;\"><style>.itm_pag-top-divider {display: block;position:absolute;top:0;z-index:1;width: 100%;height: 6px}.itm_pag-top-divider .shape-divider {height:100%;width:100%;fill:rgba(0, 0, 0, 0.1)}</style><!-- DIVIDER top --><div class=\"itm_pag-top-divider\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 16000 1000\" preserveAspectRatio=\"none\" style=\"position:absolute\" > <rect class=\"shape-divider\" x=\"0\" y=\"0\" width=\"16000\" height=\"1000\"/> </svg> </div><div class=\"pv1\" style=\"\"><div class=\"flex-container fluid\"><div class=\"itm-prev flex-item span-6 phone-span-6 text-left ph\" style=\"\"></div><div class=\"itm-next flex-item span-6 phone-span-6 text-right ph\" style=\"\"><div class=\"flex-container fluid\" style=\"justify-content:end;align-items:center\"><div class=\"itm-next-text hide-on-phone\"><a href=\"/promozioni/pim/volantino-iperfamily-pim-agora\"><span class=\"\" style=\"\">Volantino Iperfamily - Pim - Agorà</span><br/><span class=\"\">Dal 4 all'11 Novembre 2026",
+          "subtitle": "Dal 13 al 22 Novembre 2026",
           "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10092.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10092&tmpl=component"
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10092&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-22T23:59:59+02:00"
         }
       ]
     },
@@ -2439,11 +2391,11 @@
         {
           "id": 576,
           "title": "Volantino Ipersoap",
-          "subtitle": "Le Occasioni Bussano Alla Tua Porta",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713417a8e88a0e5?authid=RcgpKhJb4u85",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/ipersoap_576_1.jpg",
-          "bkcode": "001066713417a8e88a0e5",
-          "authid": "RcgpKhJb4u85"
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713111bac33897c?authid=L1tFLpVMRt8m",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/ipersoap_576_2.jpg",
+          "bkcode": "001066713111bac33897c",
+          "authid": "L1tFLpVMRt8m"
         }
       ]
     },
@@ -2471,11 +2423,11 @@
         {
           "id": 606,
           "title": "Volantino Risparmiocasa",
-          "subtitle": "Prezzi Bassi, sempre!",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713d7b0697d60f5?authid=8JrMfjHgQzdJ",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/risparmiocasa_606.jpg",
-          "bkcode": "001066713d7b0697d60f5",
-          "authid": "8JrMfjHgQzdJ"
+          "subtitle": "Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671390d01cf27171?authid=V4uusRQXcho8",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/risparmiocasa_606_0.jpg",
+          "bkcode": "00106671390d01cf27171",
+          "authid": "V4uusRQXcho8"
         }
       ]
     },
@@ -2485,13 +2437,45 @@
       "logoId": "sacoph",
       "flyers": [
         {
-          "id": 256,
+          "id": 10038,
           "title": "Volantino Sacoph",
-          "subtitle": "Dal 4 al 11 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_256.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=256&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-11T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10038.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10038&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "sir",
+      "name": "Sir Market (Gruppo Gros)",
+      "logoId": "sir",
+      "flyers": [
+        {
+          "id": 10086,
+          "title": "Volantino Sir Market",
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10086.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10086&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
+        }
+      ]
+    },
+    {
+      "slug": "ma",
+      "name": "Supermercati MA (Gruppo Gros)",
+      "logoId": "ma",
+      "flyers": [
+        {
+          "id": 303,
+          "title": "Volantino Supermercati MA",
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_303.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=303&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -2551,13 +2535,22 @@
           "authid": "GTb59U2QicNN"
         },
         {
+          "id": 2367,
+          "title": "Catalogo Speciale tigros",
+          "subtitle": "CASA E BELLEZZA",
+          "coverUrl": "https://www.calameo.com/books/social/cover/00106671371fa23fedf3d?authid=B9sJgBUr7t3u",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_2367_1.jpg",
+          "bkcode": "00106671371fa23fedf3d",
+          "authid": "B9sJgBUr7t3u"
+        },
+        {
           "id": 265,
           "title": "Volantino Tigros",
-          "subtitle": "PREZZI SPECIALI",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667137b605ad50b44?authid=NIGuq0kkAUoE",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_265_1.jpg",
-          "bkcode": "0010667137b605ad50b44",
-          "authid": "NIGuq0kkAUoE"
+          "subtitle": "SOTTOCOSTO FRESCHISSIMI",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713eec35926467b?authid=jaCbHmCL1b4g",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/tigros_265.jpg",
+          "bkcode": "001066713eec35926467b",
+          "authid": "jaCbHmCL1b4g"
         }
       ]
     },
@@ -2569,11 +2562,11 @@
         {
           "id": 493,
           "title": "Volantino Todis",
-          "subtitle": "Prendi 3 Paghi 2",
-          "coverUrl": "https://www.calameo.com/books/social/cover/00106671310c717a0bf0e?authid=LLxS3wWVdhvd",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/todis_493_1.jpg",
-          "bkcode": "00106671310c717a0bf0e",
-          "authid": "LLxS3wWVdhvd"
+          "subtitle": "Buongiorno Convenienza",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713b7fc9b11ec07?authid=kiYp3Q1cbHTO",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/todis_493_0.jpg",
+          "bkcode": "001066713b7fc9b11ec07",
+          "authid": "kiYp3Q1cbHTO"
         },
         {
           "id": 9701,
@@ -2582,8 +2575,8 @@
           "coverUrl": "https://www.calameo.com/books/social/cover/00453641024a3b0647cc3",
           "fallbackCoverUrl": "https://p.calameoassets.com/00453641024a3b0647cc3/p1.large.jpg",
           "bkcode": "00453641024a3b0647cc3",
-          "from": "2026-11-08T16:56:07.083Z",
-          "to": "2026-11-22T16:56:07.083Z"
+          "from": "2026-11-16T16:52:31.711Z",
+          "to": "2026-11-30T16:52:31.710Z"
         }
       ]
     },
@@ -2593,13 +2586,13 @@
       "logoId": "top",
       "flyers": [
         {
-          "id": 253,
+          "id": 10040,
           "title": "Volantino TOP Supermercati",
-          "subtitle": "Dal 4 al 12 Novembre 2026",
-          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_253.jpg",
-          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=253&tmpl=component",
-          "from": "2026-11-04T00:00:00+02:00",
-          "to": "2026-11-12T23:59:59+02:00"
+          "subtitle": "Dal 13 al 23 Novembre 2026",
+          "coverUrl": "https://www.cedigros.com/images/covers/cover-flyer_10040.jpg",
+          "directUrl": "https://www.cedigros.com/index.php?option=com_myegojwt&view=flyer&id=10040&tmpl=component",
+          "from": "2026-11-13T00:00:00+02:00",
+          "to": "2026-11-23T23:59:59+02:00"
         }
       ]
     },
@@ -2611,11 +2604,29 @@
         {
           "id": 145,
           "title": "Volantino Trony: Province di Milano, Bergamo, Brescia, Verona, Cremona, Vercelli, Alessandria, Lodi, Mantova",
-          "subtitle": "Prendi 3 paghi 2",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dc2638cf691b?authid=g6EE2JUcIAAD",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_145.jpg",
-          "bkcode": "001066713dc2638cf691b",
-          "authid": "g6EE2JUcIAAD"
+          "subtitle": "Anteprima Black Fridfay",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713e4d8276d9d5f?authid=Lt6hGlj2ObUr",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_145_0.jpg",
+          "bkcode": "001066713e4d8276d9d5f",
+          "authid": "Lt6hGlj2ObUr"
+        },
+        {
+          "id": 195,
+          "title": "Volantino Trony Sardegna",
+          "subtitle": "Promozioni",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713dc0ebfe14231?authid=2pDJnzQCwSXh",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_195_0.jpg",
+          "bkcode": "001066713dc0ebfe14231",
+          "authid": "2pDJnzQCwSXh"
+        },
+        {
+          "id": 194,
+          "title": "Volantino Trony Province Salerno, Avellino",
+          "subtitle": "Anteprima Black Friday",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713062fc219aed9?authid=OPqQHiwzfbIr",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/trony_194.jpg",
+          "bkcode": "001066713062fc219aed9",
+          "authid": "OPqQHiwzfbIr"
         }
       ]
     },
@@ -2641,13 +2652,22 @@
       "logoId": "unieuro",
       "flyers": [
         {
+          "id": 143,
+          "title": "Volantino Unieuro: Speciale",
+          "subtitle": "Games",
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713702f7e172af4?authid=odJrARrfCIpp",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_143_1.jpg",
+          "bkcode": "001066713702f7e172af4",
+          "authid": "odJrARrfCIpp"
+        },
+        {
           "id": 147,
           "title": "Volantino Unieuro",
           "subtitle": "Celebrity Black Friday",
-          "coverUrl": "https://www.calameo.com/books/social/cover/0010667131e6b79da57f6?authid=ePRsnkt2EXog",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_147_0.jpg",
-          "bkcode": "0010667131e6b79da57f6",
-          "authid": "ePRsnkt2EXog"
+          "coverUrl": "https://www.calameo.com/books/social/cover/001066713915c0df47c3c?authid=P9JahwvkBMDu",
+          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_147_1.jpg",
+          "bkcode": "001066713915c0df47c3c",
+          "authid": "P9JahwvkBMDu"
         },
         {
           "id": 400,
@@ -2666,15 +2686,6 @@
           "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_351_1.jpg",
           "bkcode": "0010667134a7b83126801",
           "authid": "m0GtQkQHoeD1"
-        },
-        {
-          "id": 143,
-          "title": "Volantino Unieuro: Speciale",
-          "subtitle": "Speciale LG",
-          "coverUrl": "https://www.calameo.com/books/social/cover/001066713f6b4717b22aa?authid=AJ6FFaPtgjnk",
-          "fallbackCoverUrl": "https://www.centrovolantini.it/files/styles/thumb_copertina/public/unieuro_143_0.jpg",
-          "bkcode": "001066713f6b4717b22aa",
-          "authid": "AJ6FFaPtgjnk"
         }
       ]
     },
