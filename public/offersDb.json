@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T11:05:17.540Z",
+ "updatedAt": "2026-11-16T16:56:17.245Z",
  "source": "Volantini letti via OCR (app Chelona)",
  "groups": [
   {
@@ -11,12 +11,12 @@
     {
      "s": "Eurospin",
      "b": "Tre Mulini",
-     "n": "Penne Rigate trafilate al bronzo 500 g",
-     "q": 0.5,
+     "n": "Pasta di semola assortita 1 kg",
+     "q": 1,
      "u": "kg",
-     "p": 0.65,
+     "p": 0.75,
      "fid": "105",
-     "pg": 2
+     "pg": 6
     },
     {
      "s": "Lidl",
@@ -90,13 +90,13 @@
     },
     {
      "s": "Conad",
-     "b": "Conad",
-     "n": "Penne Rigate 500 g",
+     "b": "De Cecco",
+     "n": "Penne Rigate N.41 De Cecco 500 g",
      "q": 0.5,
      "u": "kg",
      "p": 0.89,
      "fid": "1852",
-     "pg": 4
+     "pg": 27
     },
     {
      "s": "Bennet",
@@ -125,7 +125,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 0.89,
-     "fid": "546",
+     "fid": "547",
      "pg": 3
     },
     {
@@ -165,7 +165,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 0.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -185,7 +185,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 1.15,
-     "fid": "1957",
+     "fid": "191",
      "pg": 5
     },
     {
@@ -209,12 +209,12 @@
     {
      "s": "Eurospin",
      "b": "Tre Mulini",
-     "n": "Pasta integrale trafilata al bronzo 500 g",
-     "q": 0.5,
+     "n": "Piadina integrale all'olio EVO 300 g",
+     "q": 0.3,
      "u": "kg",
-     "p": 0.65,
+     "p": 0.79,
      "fid": "105",
-     "pg": 2
+     "pg": 6
     },
     {
      "s": "Lidl",
@@ -248,13 +248,13 @@
     },
     {
      "s": "Conad",
-     "b": "Conad Verso Natura Bio",
-     "n": "Penne integrali Bio 500 g",
+     "b": "De Cecco",
+     "n": "Pasta integrale De Cecco vari formati 500 g",
      "q": 0.5,
      "u": "kg",
-     "p": 0.99,
+     "p": 1.15,
      "fid": "1852",
-     "pg": 5
+     "pg": 27
     },
     {
      "s": "Coop",
@@ -303,7 +303,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 0.89,
-     "fid": "546",
+     "fid": "547",
      "pg": 3
     }
    ]
@@ -317,22 +317,22 @@
     {
      "s": "Eurospin",
      "b": "Tre Mulini",
-     "n": "Gnocchetti di patate 500 g",
-     "q": 0.5,
+     "n": "Gnocchi alla sorrentina 550 g",
+     "q": 0.55,
      "u": "kg",
-     "p": 0.69,
+     "p": 1.69,
      "fid": "105",
-     "pg": 2
+     "pg": 12
     },
     {
      "s": "Lidl",
-     "b": "Chef Select",
-     "n": "Gnocchi di patate freschi 500 g",
-     "q": 0.5,
+     "b": "Deluxe",
+     "n": "Gnocchi di patate con ceci, semi di chia e curcuma 400 g",
+     "q": 0.4,
      "u": "kg",
-     "p": 0.79,
+     "p": 1.69,
      "fid": "559",
-     "pg": 3
+     "pg": 18
     },
     {
      "s": "Aldi",
@@ -411,7 +411,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 1.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -435,22 +435,22 @@
     {
      "s": "Eurospin",
      "b": "Delizie dal Sole",
-     "n": "Passata di pomodoro datterino 360 g",
-     "q": 0.36,
+     "n": "Passata di pomodoro 100% italiano 1 kg",
+     "q": 1,
      "u": "kg",
-     "p": 0.79,
+     "p": 0.85,
      "fid": "105",
-     "pg": 2
+     "pg": 0
     },
     {
      "s": "Lidl",
-     "b": "Freshona",
-     "n": "Passata di pomodoro 100% italiano 700 g",
-     "q": 0.7,
+     "b": "Mutti",
+     "n": "Polpa di pomodoro Mutti 3 × 300 g",
+     "q": 0.9,
      "u": "kg",
-     "p": 0.79,
+     "p": 1.35,
      "fid": "559",
-     "pg": 3
+     "pg": 0
     },
     {
      "s": "Aldi",
@@ -494,13 +494,13 @@
     },
     {
      "s": "Conad",
-     "b": "Conad",
-     "n": "Passata di pomodoro classica 700 g",
+     "b": "Cirio",
+     "n": "Passata Verace Cirio 700 g",
      "q": 0.7,
      "u": "kg",
      "p": 0.89,
      "fid": "1852",
-     "pg": 4
+     "pg": 5
     },
     {
      "s": "Coop",
@@ -539,7 +539,7 @@
      "q": 0.7,
      "u": "kg",
      "p": 0.95,
-     "fid": "546",
+     "fid": "547",
      "pg": 4
     },
     {
@@ -559,7 +559,7 @@
      "q": 0.7,
      "u": "kg",
      "p": 1.15,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -579,7 +579,7 @@
      "q": 0.7,
      "u": "kg",
      "p": 0.99,
-     "fid": "1957",
+     "fid": "191",
      "pg": 3
     }
    ]
@@ -642,13 +642,13 @@
     },
     {
      "s": "Conad",
-     "b": "Conad Percorso Qualità",
-     "n": "Pomodoro ciliegino IGP 500 g",
-     "q": 0.5,
+     "b": "Verso Natura Conad",
+     "n": "Pomodori pelati biologici 400 g",
+     "q": 0.4,
      "u": "kg",
-     "p": 1.29,
+     "p": 0.75,
      "fid": "1852",
-     "pg": 2
+     "pg": 27
     },
     {
      "s": "Coop",
@@ -687,7 +687,7 @@
      "q": 1,
      "u": "kg",
      "p": 1.69,
-     "fid": "833",
+     "fid": "10034",
      "pg": 1
     },
     {
@@ -697,7 +697,7 @@
      "q": 1,
      "u": "kg",
      "p": 1.99,
-     "fid": "546",
+     "fid": "547",
      "pg": 2
     }
    ]
@@ -711,12 +711,12 @@
     {
      "s": "Eurospin",
      "b": "Land",
-     "n": "Latte UHT parzialmente scremato 1 L",
+     "n": "Latte intero UHT 1 L",
      "q": 1,
      "u": "l",
-     "p": 0.79,
+     "p": 0.69,
      "fid": "105",
-     "pg": 2
+     "pg": 6
     },
     {
      "s": "Lidl",
@@ -771,10 +771,10 @@
     {
      "s": "Conad",
      "b": "Conad",
-     "n": "Latte UHT parzialmente scremato 1 L",
+     "n": "Latte UHT Conad 1 L",
      "q": 1,
      "u": "l",
-     "p": 0.95,
+     "p": 0.89,
      "fid": "1852",
      "pg": 3
     },
@@ -825,7 +825,7 @@
      "q": 1,
      "u": "l",
      "p": 1.19,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -943,7 +943,7 @@
      "q": 0.15,
      "u": "kg",
      "p": 0.79,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -953,7 +953,7 @@
      "q": 0.15,
      "u": "kg",
      "p": 1.15,
-     "fid": "546",
+     "fid": "547",
      "pg": 2
     }
    ]
@@ -967,10 +967,10 @@
     {
      "s": "Eurospin",
      "b": "Land",
-     "n": "Parmigiano Reggiano DOP grattugiato 100 g",
-     "q": 0.1,
+     "n": "Grana Padano DOP grattugiato fresco 200 g",
+     "q": 0.2,
      "u": "kg",
-     "p": 1.49,
+     "p": 2.89,
      "fid": "105",
      "pg": 0
     },
@@ -1071,7 +1071,7 @@
      "q": 0.06,
      "u": "kg",
      "p": 1.25,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -1099,7 +1099,7 @@
      "q": 1,
      "u": "kg",
      "p": 11.2,
-     "fid": "546",
+     "fid": "547",
      "pg": 4
     },
     {
@@ -1129,7 +1129,7 @@
      "q": 1,
      "u": "kg",
      "p": 11.9,
-     "fid": "546",
+     "fid": "547",
      "pg": 4
     },
     {
@@ -1179,7 +1179,7 @@
      "q": 1,
      "u": "kg",
      "p": 14.5,
-     "fid": "546",
+     "fid": "547",
      "pg": 2
     },
     {
@@ -1199,7 +1199,7 @@
      "q": 1,
      "u": "kg",
      "p": 16.9,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -1317,7 +1317,7 @@
      "q": 0.25,
      "u": "kg",
      "p": 2.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -1435,7 +1435,7 @@
      "q": 0.25,
      "u": "kg",
      "p": 0.95,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -1533,7 +1533,7 @@
      "q": 0.25,
      "u": "kg",
      "p": 1.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -1651,7 +1651,7 @@
      "q": 0.1,
      "u": "kg",
      "p": 2.79,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -1749,7 +1749,7 @@
      "q": 1,
      "u": "kg",
      "p": 16.9,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -1857,7 +1857,7 @@
      "q": 0.1,
      "u": "kg",
      "p": 2.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -1955,7 +1955,7 @@
      "q": 0.1,
      "u": "kg",
      "p": 1.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -2053,7 +2053,7 @@
      "q": 0.2,
      "u": "kg",
      "p": 1.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -2161,7 +2161,7 @@
      "q": 1,
      "u": "kg",
      "p": 13.9,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -2185,22 +2185,22 @@
     {
      "s": "Eurospin",
      "b": "Athena",
-     "n": "Tonno all'olio di girasole 3 × 80 g",
-     "q": 0.24,
+     "n": "Tonno al naturale 200 g",
+     "q": 0.2,
      "u": "kg",
-     "p": 1.89,
+     "p": 2.39,
      "fid": "105",
-     "pg": 2
+     "pg": 7
     },
     {
      "s": "Lidl",
-     "b": "NIXE",
-     "n": "Tonno all'olio di oliva 3 × 80 g",
-     "q": 0.24,
+     "b": "Rio Mare",
+     "n": "Tonno all'olio d'oliva Rio Mare 9 × 80 g",
+     "q": 0.72,
      "u": "kg",
-     "p": 2.19,
+     "p": 7.89,
      "fid": "559",
-     "pg": 3
+     "pg": 0
     },
     {
      "s": "Aldi",
@@ -2244,13 +2244,13 @@
     },
     {
      "s": "Conad",
-     "b": "Conad",
-     "n": "Tonno all'olio di oliva pescato a canna 3 × 80 g",
-     "q": 0.24,
+     "b": "Rio Mare",
+     "n": "Tonno Rio Mare 7 × 80 g",
+     "q": 0.56,
      "u": "kg",
-     "p": 2.79,
+     "p": 6.59,
      "fid": "1852",
-     "pg": 3
+     "pg": 5
     },
     {
      "s": "Coop",
@@ -2279,7 +2279,7 @@
      "q": 0.48,
      "u": "kg",
      "p": 5.79,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -2397,7 +2397,7 @@
      "q": 0.4,
      "u": "kg",
      "p": 5.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -2475,7 +2475,7 @@
      "q": 1,
      "u": "kg",
      "p": 18.9,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -2563,7 +2563,7 @@
      "q": 0.45,
      "u": "kg",
      "p": 5.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -2681,7 +2681,7 @@
      "q": 1,
      "u": "l",
      "p": 1.59,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -2799,7 +2799,7 @@
      "q": 1,
      "u": "kg",
      "p": 1.19,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -2823,10 +2823,10 @@
     {
      "s": "Eurospin",
      "b": "Delizie dal Sole",
-     "n": "Maionese in tubo 150 ml",
-     "q": 0.15,
+     "n": "Maionese classica vaso 500 ml",
+     "q": 0.5,
      "u": "l",
-     "p": 0.79,
+     "p": 1.49,
      "fid": "105",
      "pg": 2
     },
@@ -2907,7 +2907,7 @@
      "q": 0.465,
      "u": "l",
      "p": 2.19,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3025,7 +3025,7 @@
      "q": 0.5,
      "u": "kg",
      "p": 1.69,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3133,7 +3133,7 @@
      "q": 0.95,
      "u": "kg",
      "p": 6.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3172,7 +3172,7 @@
      "u": "kg",
      "p": 1.09,
      "fid": "105",
-     "pg": 2
+     "pg": 7
     },
     {
      "s": "Aldi",
@@ -3268,7 +3268,7 @@
      "n": "Pomodori secchi sott'olio 280 g",
      "q": 0.28,
      "u": "kg",
-     "p": 1.39,
+     "p": 1.09,
      "fid": "105",
      "pg": 2
     },
@@ -3349,7 +3349,7 @@
      "q": 0.2,
      "u": "kg",
      "p": 1.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -3447,7 +3447,7 @@
      "q": 50,
      "u": "pz",
      "p": 9.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3471,12 +3471,12 @@
     {
      "s": "Eurospin",
      "b": "Don Jerez",
-     "n": "Caffè macinato per moka classico 2 × 250 g",
+     "n": "Caffè classico per moka 2 × 250 g",
      "q": 0.5,
      "u": "kg",
-     "p": 2.89,
+     "p": 4.49,
      "fid": "105",
-     "pg": 2
+     "pg": 3
     },
     {
      "s": "Lidl",
@@ -3555,7 +3555,7 @@
      "q": 1,
      "u": "kg",
      "p": 8.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -3663,7 +3663,7 @@
      "q": 0.6,
      "u": "l",
      "p": 1.59,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3687,12 +3687,12 @@
     {
      "s": "Eurospin",
      "b": "Best Bräu",
-     "n": "Birra bionda lattina 50 cl",
-     "q": 0.5,
+     "n": "Birra bionda 330 ml",
+     "q": 0.33,
      "u": "l",
-     "p": 0.55,
+     "p": 0.39,
      "fid": "105",
-     "pg": 4
+     "pg": 7
     },
     {
      "s": "Lidl",
@@ -3791,7 +3791,7 @@
      "q": 0.5,
      "u": "l",
      "p": 1.29,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -3899,7 +3899,7 @@
      "q": 0.75,
      "u": "l",
      "p": 5.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -4007,7 +4007,7 @@
      "q": 0.75,
      "u": "l",
      "p": 7.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
@@ -4105,7 +4105,7 @@
      "q": 0.45,
      "u": "kg",
      "p": 3.69,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     },
     {
@@ -4132,9 +4132,9 @@
      "n": "Plumcake allo yogurt 10 pezzi 330 g",
      "q": 0.33,
      "u": "kg",
-     "p": 1.19,
+     "p": 1.29,
      "fid": "105",
-     "pg": 2
+     "pg": 7
     },
     {
      "s": "Lidl",
@@ -4213,7 +4213,7 @@
      "q": 0.35,
      "u": "kg",
      "p": 2.19,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -4311,7 +4311,7 @@
      "q": 1,
      "u": "kg",
      "p": 2.49,
-     "fid": "833",
+     "fid": "10034",
      "pg": 1
     }
    ]
@@ -4335,22 +4335,22 @@
     {
      "s": "Lidl",
      "b": "Lidl",
-     "n": "Peperoni rossi/gialli al kg",
-     "q": 1,
+     "n": "Broccoli in confezione 500 g",
+     "q": 0.5,
      "u": "kg",
-     "p": 1.79,
+     "p": 0.99,
      "fid": "559",
-     "pg": 3
+     "pg": 0
     },
     {
      "s": "Lidl",
      "b": "Lidl",
-     "n": "Patate sacco 2 kg",
-     "q": 2,
+     "n": "Broccoli in confezione 500 g",
+     "q": 0.5,
      "u": "kg",
-     "p": 1.99,
+     "p": 0.99,
      "fid": "559",
-     "pg": 4
+     "pg": 0
     },
     {
      "s": "Aldi",
@@ -4419,126 +4419,66 @@
      "q": 1,
      "u": "kg",
      "p": 1.79,
-     "fid": "833",
+     "fid": "10034",
      "pg": 1
     }
    ]
   },
   {
    "id": "carta",
-   "g": "Carta igienica (20 rotoli)",
+   "g": "Carta igienica",
    "e": "🧻",
    "c": "casa",
    "o": [
     {
-     "s": "Eurospin",
-     "b": "Soft Dream",
-     "n": "Carta igienica delicata 20 rotoli 2 veli",
-     "q": 20,
+     "s": "Pewex",
+     "b": "Nicky",
+     "n": "Carta Igienica Nicky Elite 3 veli 4 rotoli",
+     "q": 4,
      "u": "pz",
-     "p": 2.69,
-     "fid": "105",
-     "pg": 4
+     "p": 1.49,
+     "fid": "10034",
+     "pg": 21
     },
     {
-     "s": "Lidl",
-     "b": "Floralys",
-     "n": "Carta igienica 3 veli super morbida 10 rotoli",
-     "q": 10,
+     "s": "Pim",
+     "b": "Nicky",
+     "n": "Carta Igienica Nicky Elite 3 veli 4 rotoli",
+     "q": 4,
+     "u": "pz",
+     "p": 1.49,
+     "fid": "10092",
+     "pg": 21
+    },
+    {
+     "s": "Acqua e Sapone",
+     "b": "Comprami",
+     "n": "Comprami Carta Igienica 4 rotoli",
+     "q": 4,
+     "u": "pz",
+     "p": 1.99,
+     "fid": "9801",
+     "pg": 16
+    },
+    {
+     "s": "Acqua e Sapone",
+     "b": "Regina",
+     "n": "Regina Cartacamomilla Carta Igienica 4 rotoli",
+     "q": 4,
      "u": "pz",
      "p": 2.99,
-     "fid": "559",
-     "pg": 3
-    },
-    {
-     "s": "Aldi",
-     "b": "Solo",
-     "n": "Carta igienica maxi rotoli 4 veli 8 rotoli",
-     "q": 8,
-     "u": "pz",
-     "p": 2.89,
-     "fid": "2328",
-     "pg": 4
-    },
-    {
-     "s": "MD",
-     "b": "Botanika",
-     "n": "Carta igienica maxi rotoli 12 rotoli",
-     "q": 12,
-     "u": "pz",
-     "p": 3.49,
-     "fid": "114",
-     "pg": 5
+     "fid": "9801",
+     "pg": 2
     },
     {
      "s": "Acqua e Sapone",
      "b": "Scottex",
-     "n": "Scottex L'Originale Carta Igienica 24 rotoli",
-     "q": 24,
-     "u": "pz",
-     "p": 5.99,
-     "fid": "340",
-     "pg": 2
-    },
-    {
-     "s": "Tigotà",
-     "b": "Foxy",
-     "n": "Foxy Seta Carta Igienica 4 veli 12 rotoli",
+     "n": "Scottex La Maxi Carta Igienica 12 rotoli",
      "q": 12,
      "u": "pz",
-     "p": 4.49,
-     "fid": "580",
-     "pg": 3
-    },
-    {
-     "s": "Risparmio Casa",
-     "b": "Regina",
-     "n": "Rotoloni Regina Carta Igienica 4 rotoli lunghi come 8",
-     "q": 8,
-     "u": "pz",
-     "p": 2.99,
-     "fid": "606",
-     "pg": 2
-    },
-    {
-     "s": "Conad",
-     "b": "Conad",
-     "n": "Carta igienica 3 veli maxi formato 12 rotoli",
-     "q": 12,
-     "u": "pz",
-     "p": 3.99,
-     "fid": "1852",
-     "pg": 5
-    },
-    {
-     "s": "Coop",
-     "b": "Coop",
-     "n": "Carta igienica ecologica 100% riciclata 8 rotoli",
-     "q": 8,
-     "u": "pz",
-     "p": 2.99,
-     "fid": "1965",
-     "pg": 5
-    },
-    {
-     "s": "Carrefour",
-     "b": "Scottonelle",
-     "n": "Carta Igienica Scottonelle soffice 18 rotoli",
-     "q": 18,
-     "u": "pz",
-     "p": 4.99,
-     "fid": "1939",
-     "pg": 5
-    },
-    {
-     "s": "Pewex",
-     "b": "Foxy",
-     "n": "Foxy Mega Carta Igienica 4 mega rotoli",
-     "q": 8,
-     "u": "pz",
-     "p": 3.19,
-     "fid": "833",
-     "pg": 3
+     "p": 6.99,
+     "fid": "9801",
+     "pg": 16
     }
    ]
   },
@@ -4635,7 +4575,7 @@
      "q": 1,
      "u": "pz",
      "p": 1.89,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -4724,7 +4664,7 @@
      "u": "l",
      "p": 1.49,
      "fid": "1852",
-     "pg": 5
+     "pg": 31
     },
     {
      "s": "Coop",
@@ -4753,7 +4693,7 @@
      "q": 0.7,
      "u": "l",
      "p": 1.79,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     }
    ]
@@ -4767,12 +4707,12 @@
     {
      "s": "Eurospin",
      "b": "Tobias",
-     "n": "Würstel di pollo e tacchino 250 g",
-     "q": 0.25,
+     "n": "Würstel di pollo e tacchino 1 kg",
+     "q": 1,
      "u": "kg",
-     "p": 0.69,
+     "p": 2.29,
      "fid": "105",
-     "pg": 2
+     "pg": 6
     },
     {
      "s": "Lidl",
@@ -4841,7 +4781,7 @@
      "q": 0.3,
      "u": "kg",
      "p": 1.19,
-     "fid": "833",
+     "fid": "10034",
      "pg": 2
     }
    ]
@@ -4855,10 +4795,10 @@
     {
      "s": "Eurospin",
      "b": "Tre Mulini",
-     "n": "Basi per pizza rotonde 2 × 200 g",
-     "q": 0.4,
+     "n": "Pinsa precotta 2 × 230 g",
+     "q": 0.46,
      "u": "kg",
-     "p": 1.69,
+     "p": 2.29,
      "fid": "105",
      "pg": 2
     },
@@ -4929,7 +4869,7 @@
      "q": 0.46,
      "u": "kg",
      "p": 2.99,
-     "fid": "833",
+     "fid": "10034",
      "pg": 3
     },
     {
