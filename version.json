@@ -1,8 +1,1 @@
-{
-  "version": "1.30.290",
-  "tag": "v1.30.290",
-  "apkUrl": "https://github.com/davide-dari/chelona-releases/releases/download/v1.30.290/app-release.apk",
-  "rawApkUrl": "https://raw.githubusercontent.com/davide-dari/chelona-releases/main/app-release.apk",
-  "releaseNotes": "Aggiornamento ufficiale di Chelona v1.30.290.",
-  "publishedAt": "2026-11-20T22:10:42.794Z"
-}
+{"version":"1.30.291","tag":"v1.30.291","apkUrl":"https://github.com/davide-dari/chelona-releases/releases/download/v1.30.291/app-release.apk","rawApkUrl":"https://github.com/davide-dari/chelona-releases/raw/main/app-release.apk","releaseNotes":"Nuova sezione Educazione Finanziaria completa, calcolatori, diagnosi salute finanziaria e correzioni notifiche."}
