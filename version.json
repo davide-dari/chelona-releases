@@ -1,1 +1,8 @@
-{"version":"1.30.290","tag":"v1.30.290","apkUrl":"https://github.com/davide-dari/chelona-releases/releases/download/v1.30.290/app-release.apk","rawApkUrl":"https://github.com/davide-dari/chelona-releases/raw/main/app-release.apk","releaseNotes":"Risolto controllo notifiche aggiornamento in-app, banner visibile, fallback CDN e supporto Android 14."}
+{
+  "version": "1.30.290",
+  "tag": "v1.30.290",
+  "apkUrl": "https://github.com/davide-dari/chelona-releases/releases/download/v1.30.290/app-release.apk",
+  "rawApkUrl": "https://raw.githubusercontent.com/davide-dari/chelona-releases/main/app-release.apk",
+  "releaseNotes": "Aggiornamento ufficiale di Chelona v1.30.290.",
+  "publishedAt": "2026-11-20T22:09:03.164Z"
+}
