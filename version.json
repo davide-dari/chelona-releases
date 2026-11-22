@@ -1,8 +1,9 @@
 {
-  "version": "1.30.295",
-  "tag": "v1.30.295",
-  "apkUrl": "https://github.com/davide-dari/chelona-releases/releases/download/v1.30.295/app-release.apk",
+  "version": "1.30.296",
+  "tag": "v1.30.296",
+  "sha256": "061cae4816eeb5a6b5c7e13c6423c7ddf28104a3fda1407d8e6a3fd308f48c9e",
+  "apkUrl": "https://github.com/davide-dari/chelona-releases/releases/download/v1.30.296/app-release.apk",
   "rawApkUrl": "https://raw.githubusercontent.com/davide-dari/chelona-releases/main/app-release.apk",
-  "releaseNotes": "Aggiornamento ufficiale di Chelona v1.30.295.",
-  "publishedAt": "2026-11-22T21:23:38.139Z"
+  "releaseNotes": "Aggiornamento ufficiale di Chelona v1.30.296.",
+  "publishedAt": "2026-11-22T21:52:37.960Z"
 }
